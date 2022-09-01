@@ -1,1461 +1,1461 @@
-,team,half,min,x_start,y_start,outcome,game
-0,Brazil,1,1,53.279999999999994,4.960000000000001,1,Brazil vs Croatia
-1,Croatia,1,2,81.96,76.4,1,Brazil vs Croatia
-2,Croatia,1,6,54.959999999999994,36.480000000000004,1,Brazil vs Croatia
-3,Brazil,1,7,76.8,24.32,0,Brazil vs Croatia
-4,Croatia,1,9,28.92,25.12,1,Brazil vs Croatia
-5,Brazil,1,9,74.64,6.0,0,Brazil vs Croatia
-6,Brazil,1,18,85.2,4.32,1,Brazil vs Croatia
-7,Brazil,1,20,74.64,21.44,1,Brazil vs Croatia
-8,Brazil,1,20,93.84,64.48,1,Brazil vs Croatia
-9,Brazil,1,21,116.88,22.560000000000002,1,Brazil vs Croatia
-10,Brazil,1,21,91.2,70.72000000000001,1,Brazil vs Croatia
-11,Croatia,1,28,111.11999999999999,63.6,1,Brazil vs Croatia
-12,Brazil,1,28,74.16,33.760000000000005,1,Brazil vs Croatia
-13,Brazil,1,28,81.71999999999998,41.92,1,Brazil vs Croatia
-14,Brazil,1,32,98.64,75.04,1,Brazil vs Croatia
-15,Brazil,1,32,111.6,74.0,0,Brazil vs Croatia
-16,Croatia,1,36,91.2,76.48,1,Brazil vs Croatia
-17,Brazil,1,36,66.96,22.240000000000002,1,Brazil vs Croatia
-18,Brazil,1,36,101.88000000000001,5.760000000000001,0,Brazil vs Croatia
-19,Brazil,1,39,95.88000000000001,10.4,1,Brazil vs Croatia
-20,Brazil,1,40,89.04,3.6799999999999997,0,Brazil vs Croatia
-21,Brazil,1,42,69.12,44.800000000000004,0,Brazil vs Croatia
-22,Croatia,1,42,69.84,14.880000000000003,1,Brazil vs Croatia
-23,Brazil,1,43,84.84,3.04,0,Brazil vs Croatia
-24,Croatia,1,44,35.04,70.4,0,Brazil vs Croatia
-25,Brazil,1,44,105.11999999999999,22.560000000000002,1,Brazil vs Croatia
-26,Brazil,1,44,110.16,23.52,0,Brazil vs Croatia
-27,Brazil,2,46,76.67999999999999,23.52,1,Brazil vs Croatia
-28,Brazil,2,46,82.2,25.28,0,Brazil vs Croatia
-29,Brazil,2,47,98.04,2.4000000000000004,0,Brazil vs Croatia
-30,Brazil,2,49,108.6,6.56,1,Brazil vs Croatia
-31,Brazil,2,49,114.0,12.64,0,Brazil vs Croatia
-32,Croatia,2,52,56.16,15.12,1,Brazil vs Croatia
-33,Brazil,2,57,74.64,12.32,1,Brazil vs Croatia
-34,Croatia,2,59,92.88000000000001,77.92000000000002,0,Brazil vs Croatia
-35,Brazil,2,64,72.36,59.84,1,Brazil vs Croatia
-36,Croatia,2,74,51.48,9.120000000000001,0,Brazil vs Croatia
-37,Brazil,2,75,86.88000000000001,63.36000000000001,1,Brazil vs Croatia
-38,Brazil,2,75,103.2,70.08,1,Brazil vs Croatia
-39,Brazil,2,75,87.24,12.0,1,Brazil vs Croatia
-40,Croatia,2,77,52.08,29.439999999999998,1,Brazil vs Croatia
-41,Brazil,2,78,77.64,72.8,1,Brazil vs Croatia
-42,Croatia,2,82,39.48,5.68,1,Brazil vs Croatia
-43,Croatia,2,83,96.71999999999998,71.04,0,Brazil vs Croatia
-44,Croatia,2,84,113.28,11.120000000000001,0,Brazil vs Croatia
-45,Croatia,2,85,105.84,62.160000000000004,0,Brazil vs Croatia
-46,Brazil,2,88,32.879999999999995,48.0,1,Brazil vs Croatia
-47,Brazil,2,89,76.8,77.76,0,Brazil vs Croatia
-48,Brazil,2,89,40.559999999999995,56.800000000000004,0,Brazil vs Croatia
-49,Brazil,2,90,88.32,49.2,1,Brazil vs Croatia
-50,Croatia,2,91,79.68,3.3600000000000003,1,Brazil vs Croatia
-51,Croatia,2,91,103.91999999999999,6.56,0,Brazil vs Croatia
-52,Croatia,2,92,67.2,40.0,1,Brazil vs Croatia
-53,Netherlands,1,8,87.11999999999999,76.96000000000001,0,Spain vs Netherlands
-54,Spain,1,9,68.16,68.72000000000001,0,Spain vs Netherlands
-55,Spain,1,22,89.28,69.92,0,Spain vs Netherlands
-56,Netherlands,1,29,33.839999999999996,17.28,1,Spain vs Netherlands
-57,Netherlands,1,29,75.0,74.0,1,Spain vs Netherlands
-58,Netherlands,1,33,89.16,76.72000000000001,1,Spain vs Netherlands
-59,Netherlands,1,40,68.16,78.72000000000001,1,Spain vs Netherlands
-60,Spain,2,45,72.84,64.32000000000001,0,Spain vs Netherlands
-61,Netherlands,2,46,109.91999999999999,9.040000000000001,0,Spain vs Netherlands
-62,Spain,2,48,76.55999999999999,77.36000000000001,0,Spain vs Netherlands
-63,Netherlands,2,50,39.48,16.64,1,Spain vs Netherlands
-64,Netherlands,2,50,76.2,8.48,0,Spain vs Netherlands
-65,Netherlands,2,52,105.71999999999998,36.480000000000004,1,Spain vs Netherlands
-66,Spain,2,57,67.44,75.67999999999999,0,Spain vs Netherlands
-67,Spain,2,57,77.04,71.44,1,Spain vs Netherlands
-68,Netherlands,2,63,109.91999999999999,69.28,0,Spain vs Netherlands
-69,Netherlands,2,71,46.559999999999995,9.68,0,Spain vs Netherlands
-70,Spain,2,77,109.44,10.64,0,Spain vs Netherlands
-71,Spain,2,77,117.48,21.840000000000003,0,Spain vs Netherlands
-72,Spain,2,79,91.68,6.24,0,Spain vs Netherlands
-73,Netherlands,2,79,79.91999999999999,26.0,1,Spain vs Netherlands
-74,Netherlands,2,79,108.24,37.2,1,Spain vs Netherlands
-75,Netherlands,2,80,79.68,6.640000000000001,1,Spain vs Netherlands
-76,Spain,2,82,86.16,54.08,0,Spain vs Netherlands
-77,Netherlands,2,83,45.24,62.720000000000006,0,Spain vs Netherlands
-78,Netherlands,2,86,55.92,50.24,1,Spain vs Netherlands
-79,Netherlands,2,86,102.71999999999998,41.6,1,Spain vs Netherlands
-80,Netherlands,2,86,108.96,2.64,0,Spain vs Netherlands
-81,Netherlands,2,87,99.48,31.84,0,Spain vs Netherlands
-82,Spain,2,89,68.04,2.4800000000000004,0,Spain vs Netherlands
-83,Netherlands,2,89,102.11999999999999,69.28,1,Spain vs Netherlands
-84,Netherlands,2,90,27.0,10.08,1,Spain vs Netherlands
-85,Spain,2,92,103.68,19.36,1,Spain vs Netherlands
-86,Spain,2,92,108.48,20.72,0,Spain vs Netherlands
-87,Uruguay,1,0,69.6,2.72,0,Uruguay vs Costa Rica
-88,Uruguay,1,1,72.0,76.88,1,Uruguay vs Costa Rica
-89,Uruguay,1,1,85.32,74.8,0,Uruguay vs Costa Rica
-90,Costa Rica,1,2,99.48,68.4,0,Uruguay vs Costa Rica
-91,Costa Rica,1,6,36.72,76.48,0,Uruguay vs Costa Rica
-92,Costa Rica,1,8,84.96,32.4,1,Uruguay vs Costa Rica
-93,Costa Rica,1,8,104.75999999999999,57.92000000000001,0,Uruguay vs Costa Rica
-94,Costa Rica,1,11,48.72,45.6,1,Uruguay vs Costa Rica
-95,Costa Rica,1,27,75.72,51.68,0,Uruguay vs Costa Rica
-96,Costa Rica,1,27,73.2,14.56,1,Uruguay vs Costa Rica
-97,Costa Rica,1,28,94.32,18.32,0,Uruguay vs Costa Rica
-98,Uruguay,1,36,92.39999999999999,73.76,0,Uruguay vs Costa Rica
-99,Costa Rica,1,38,66.6,74.32000000000001,0,Uruguay vs Costa Rica
-100,Uruguay,1,43,83.52,53.6,1,Uruguay vs Costa Rica
-101,Costa Rica,2,47,88.8,1.8399999999999999,0,Uruguay vs Costa Rica
-102,Uruguay,2,51,88.2,55.52000000000001,1,Uruguay vs Costa Rica
-103,Costa Rica,2,52,87.11999999999999,14.719999999999999,0,Uruguay vs Costa Rica
-104,Uruguay,2,53,65.52,29.12,1,Uruguay vs Costa Rica
-105,Uruguay,2,55,51.24,51.52000000000001,1,Uruguay vs Costa Rica
-106,Uruguay,2,61,96.48,73.28,0,Uruguay vs Costa Rica
-107,Costa Rica,2,71,106.55999999999999,6.16,0,Uruguay vs Costa Rica
-108,Costa Rica,2,73,47.64,76.24,0,Uruguay vs Costa Rica
-109,Costa Rica,2,75,86.52,4.960000000000001,1,Uruguay vs Costa Rica
-110,Costa Rica,2,75,108.0,19.200000000000003,0,Uruguay vs Costa Rica
-111,Uruguay,2,81,79.68,2.72,0,Uruguay vs Costa Rica
-112,Costa Rica,2,92,115.44,75.84,0,Uruguay vs Costa Rica
-113,Costa Rica,2,92,117.24,77.52000000000001,1,Uruguay vs Costa Rica
-114,Italy,1,3,83.52,47.04,0,England vs Italy
-115,England,1,3,76.8,25.92,1,England vs Italy
-116,England,1,4,81.96,7.6000000000000005,0,England vs Italy
-117,England,1,4,102.0,23.36,0,England vs Italy
-118,Italy,1,6,86.39999999999999,7.5200000000000005,0,England vs Italy
-119,Italy,1,7,105.11999999999999,52.64,0,England vs Italy
-120,Italy,1,10,30.599999999999998,30.72,0,England vs Italy
-121,England,1,21,69.12,11.440000000000001,1,England vs Italy
-122,England,1,23,99.11999999999999,16.880000000000003,1,England vs Italy
-123,Italy,1,25,94.44,69.12,0,England vs Italy
-124,Italy,1,26,76.55999999999999,1.1199999999999999,0,England vs Italy
-125,Italy,1,27,89.64,77.28,0,England vs Italy
-126,England,1,28,83.04,2.2399999999999998,0,England vs Italy
-127,England,1,28,84.84,4.4799999999999995,0,England vs Italy
-128,England,1,29,56.04,3.84,1,England vs Italy
-129,Italy,1,41,33.839999999999996,62.56,0,England vs Italy
-130,Italy,1,44,86.04,17.12,1,England vs Italy
-131,Italy,1,47,114.0,56.64,1,England vs Italy
-132,England,2,48,88.8,24.400000000000002,1,England vs Italy
-133,England,2,50,103.44,53.120000000000005,1,England vs Italy
-134,England,2,50,105.48,49.92,0,England vs Italy
-135,Italy,2,53,64.08,18.72,0,England vs Italy
-136,England,2,55,107.52,27.6,1,England vs Italy
-137,England,2,58,90.84,76.48,1,England vs Italy
-138,Italy,2,62,101.04,10.72,1,England vs Italy
-139,England,2,65,90.6,12.64,1,England vs Italy
-140,England,2,68,114.36,13.92,0,England vs Italy
-141,Italy,2,69,66.72,8.32,0,England vs Italy
-142,England,2,81,85.32,35.52,1,England vs Italy
-143,England,2,81,88.2,36.080000000000005,0,England vs Italy
-144,Italy,2,85,26.4,73.28,1,England vs Italy
-145,England,2,86,84.24,65.28,1,England vs Italy
-146,England,2,88,96.36,21.76,1,England vs Italy
-147,England,2,90,87.6,15.040000000000001,0,England vs Italy
-148,England,2,90,91.91999999999999,27.52,0,England vs Italy
-149,England,2,91,92.16,48.480000000000004,0,England vs Italy
-150,Italy,2,94,99.84,43.68000000000001,0,England vs Italy
-151,Argentina,1,0,45.24,30.400000000000002,1,Argentina vs Bosnia and Herzegovina
-152,Argentina,1,0,71.52,27.200000000000003,1,Argentina vs Bosnia and Herzegovina
-153,Argentina,1,1,73.44,74.88,1,Argentina vs Bosnia and Herzegovina
-154,Argentina,1,3,76.32,30.400000000000002,0,Argentina vs Bosnia and Herzegovina
-155,Argentina,1,4,115.32,22.480000000000004,0,Argentina vs Bosnia and Herzegovina
-156,Argentina,1,10,84.96,39.2,0,Argentina vs Bosnia and Herzegovina
-157,Argentina,1,10,78.36,4.24,0,Argentina vs Bosnia and Herzegovina
-158,Bosnia and Herzegovina,1,13,71.75999999999999,19.680000000000003,1,Argentina vs Bosnia and Herzegovina
-159,Bosnia and Herzegovina,1,13,72.12,23.36,1,Argentina vs Bosnia and Herzegovina
-160,Argentina,1,15,78.6,45.120000000000005,0,Argentina vs Bosnia and Herzegovina
-161,Argentina,1,22,88.55999999999999,8.48,1,Argentina vs Bosnia and Herzegovina
-162,Argentina,1,23,94.8,14.880000000000003,0,Argentina vs Bosnia and Herzegovina
-163,Bosnia and Herzegovina,1,25,107.39999999999999,5.04,0,Argentina vs Bosnia and Herzegovina
-164,Bosnia and Herzegovina,1,28,99.84,7.5200000000000005,0,Argentina vs Bosnia and Herzegovina
-165,Argentina,1,33,52.08,26.560000000000002,1,Argentina vs Bosnia and Herzegovina
-166,Argentina,1,38,63.35999999999999,32.96,1,Argentina vs Bosnia and Herzegovina
-167,Bosnia and Herzegovina,1,39,67.08,25.12,1,Argentina vs Bosnia and Herzegovina
-168,Bosnia and Herzegovina,1,43,75.6,36.96,0,Argentina vs Bosnia and Herzegovina
-169,Argentina,1,44,48.959999999999994,68.08,1,Argentina vs Bosnia and Herzegovina
-170,Argentina,1,44,91.2,21.200000000000003,1,Argentina vs Bosnia and Herzegovina
-171,Argentina,2,47,89.04,18.880000000000003,0,Argentina vs Bosnia and Herzegovina
-172,Bosnia and Herzegovina,2,48,86.28,2.5600000000000005,0,Argentina vs Bosnia and Herzegovina
-173,Bosnia and Herzegovina,2,50,73.32,3.6,0,Argentina vs Bosnia and Herzegovina
-174,Bosnia and Herzegovina,2,51,107.28,64.48,1,Argentina vs Bosnia and Herzegovina
-175,Bosnia and Herzegovina,2,53,89.28,51.68,1,Argentina vs Bosnia and Herzegovina
-176,Argentina,2,56,101.88000000000001,13.600000000000001,0,Argentina vs Bosnia and Herzegovina
-177,Bosnia and Herzegovina,2,57,107.04,16.16,1,Argentina vs Bosnia and Herzegovina
-178,Bosnia and Herzegovina,2,57,114.0,18.32,0,Argentina vs Bosnia and Herzegovina
-179,Argentina,2,59,93.6,50.88,1,Argentina vs Bosnia and Herzegovina
-180,Argentina,2,62,78.96,34.080000000000005,0,Argentina vs Bosnia and Herzegovina
-181,Argentina,2,64,97.44,37.28,1,Argentina vs Bosnia and Herzegovina
-182,Bosnia and Herzegovina,2,68,107.28,67.12,0,Argentina vs Bosnia and Herzegovina
-183,Bosnia and Herzegovina,2,69,36.48,22.880000000000003,0,Argentina vs Bosnia and Herzegovina
-184,Argentina,2,69,105.96,74.56,1,Argentina vs Bosnia and Herzegovina
-185,Argentina,2,71,78.96,31.360000000000003,1,Argentina vs Bosnia and Herzegovina
-186,Argentina,2,72,76.08,15.280000000000001,0,Argentina vs Bosnia and Herzegovina
-187,Bosnia and Herzegovina,2,72,88.44,30.880000000000003,1,Argentina vs Bosnia and Herzegovina
-188,Argentina,2,74,87.11999999999999,45.760000000000005,1,Argentina vs Bosnia and Herzegovina
-189,Bosnia and Herzegovina,2,75,88.8,0.6400000000000001,0,Argentina vs Bosnia and Herzegovina
-190,Argentina,2,82,48.72,21.44,1,Argentina vs Bosnia and Herzegovina
-191,Argentina,2,87,49.559999999999995,76.32000000000001,0,Argentina vs Bosnia and Herzegovina
-192,Bosnia and Herzegovina,2,90,73.2,70.56,1,Argentina vs Bosnia and Herzegovina
-193,Bosnia and Herzegovina,2,91,85.32,47.68000000000001,1,Argentina vs Bosnia and Herzegovina
-194,Argentina,2,91,108.71999999999998,29.28,1,Argentina vs Bosnia and Herzegovina
-195,Germany,1,3,116.39999999999999,59.68,1,Germany vs Portugal
-196,Germany,1,3,112.55999999999999,56.32000000000001,0,Germany vs Portugal
-197,Portugal,1,5,51.84,54.96000000000001,1,Germany vs Portugal
-198,Portugal,1,5,74.39999999999999,5.36,1,Germany vs Portugal
-199,Portugal,1,19,48.959999999999994,78.08,0,Germany vs Portugal
-200,Germany,1,19,105.11999999999999,65.76,1,Germany vs Portugal
-201,Germany,1,19,105.48,60.56,0,Germany vs Portugal
-202,Portugal,1,21,84.24,10.240000000000002,1,Germany vs Portugal
-203,Portugal,1,21,87.36,22.080000000000002,0,Germany vs Portugal
-204,Portugal,1,22,74.39999999999999,77.68,0,Germany vs Portugal
-205,Germany,1,23,87.6,61.04,1,Germany vs Portugal
-206,Portugal,1,42,51.959999999999994,29.12,1,Germany vs Portugal
-207,Germany,2,45,82.32,76.64,0,Germany vs Portugal
-208,Germany,2,55,92.64,27.84,1,Germany vs Portugal
-209,Germany,2,55,90.24,34.56,1,Germany vs Portugal
-210,Portugal,2,55,52.08,7.440000000000001,1,Germany vs Portugal
-211,Portugal,2,55,87.84,25.6,0,Germany vs Portugal
-212,Germany,2,57,94.68,24.32,0,Germany vs Portugal
-213,Portugal,2,58,71.52,62.08,1,Germany vs Portugal
-214,Portugal,2,58,86.64,50.24,1,Germany vs Portugal
-215,Portugal,2,58,91.44,47.760000000000005,0,Germany vs Portugal
-216,Portugal,2,59,113.75999999999999,2.5600000000000005,0,Germany vs Portugal
-217,Germany,2,65,72.24,21.200000000000003,0,Germany vs Portugal
-218,Germany,2,66,108.48,68.16000000000001,0,Germany vs Portugal
-219,Portugal,2,67,60.24,45.6,1,Germany vs Portugal
-220,Germany,2,71,80.39999999999999,27.200000000000003,0,Germany vs Portugal
-221,Portugal,2,74,83.16,48.24,1,Germany vs Portugal
-222,Germany,2,75,106.08,67.76,0,Germany vs Portugal
-223,Portugal,2,79,96.96,72.16000000000001,0,Germany vs Portugal
-224,Portugal,2,82,50.04,17.76,1,Germany vs Portugal
-225,Portugal,2,85,96.48,77.44,0,Germany vs Portugal
-226,Portugal,2,91,97.91999999999999,8.0,0,Germany vs Portugal
-227,Belgium,1,3,70.8,4.88,0,Belgium vs Algeria
-228,Algeria,1,9,38.52,52.48,1,Belgium vs Algeria
-229,Belgium,1,10,102.24,76.96000000000001,0,Belgium vs Algeria
-230,Belgium,1,12,63.35999999999999,67.2,1,Belgium vs Algeria
-231,Belgium,1,16,87.11999999999999,2.64,1,Belgium vs Algeria
-232,Belgium,1,26,88.8,59.2,1,Belgium vs Algeria
-233,Belgium,1,29,81.6,61.92000000000001,1,Belgium vs Algeria
-234,Belgium,1,31,109.32,22.480000000000004,0,Belgium vs Algeria
-235,Algeria,1,34,67.8,77.68,0,Belgium vs Algeria
-236,Algeria,1,35,45.0,76.64,1,Belgium vs Algeria
-237,Belgium,1,37,83.04,27.760000000000005,1,Belgium vs Algeria
-238,Belgium,1,43,92.88000000000001,57.52000000000001,1,Belgium vs Algeria
-239,Belgium,1,43,101.88000000000001,73.44,1,Belgium vs Algeria
-240,Belgium,2,50,83.04,16.8,0,Belgium vs Algeria
-241,Belgium,2,50,97.44,20.72,1,Belgium vs Algeria
-242,Belgium,2,57,79.68,14.4,0,Belgium vs Algeria
-243,Algeria,2,58,55.199999999999996,78.32000000000001,0,Belgium vs Algeria
-244,Belgium,2,63,81.11999999999999,52.56,1,Belgium vs Algeria
-245,Belgium,2,63,99.36,1.7600000000000002,0,Belgium vs Algeria
-246,Belgium,2,65,83.64,35.839999999999996,1,Belgium vs Algeria
-247,Belgium,2,66,108.96,72.32000000000001,1,Belgium vs Algeria
-248,Algeria,2,79,83.75999999999999,33.12,1,Belgium vs Algeria
-249,Algeria,2,79,86.28,34.64,0,Belgium vs Algeria
-250,Belgium,2,84,84.24,2.4000000000000004,1,Belgium vs Algeria
-251,Algeria,2,84,6.72,4.800000000000001,0,Belgium vs Algeria
-252,Belgium,2,86,106.08,1.6,0,Belgium vs Algeria
-253,Belgium,2,93,111.84,69.44,1,Belgium vs Algeria
-254,Brazil,1,0,53.76,11.280000000000001,1,Brazil vs Mexico
-255,Brazil,1,4,31.92,51.44,1,Brazil vs Mexico
-256,Mexico,1,8,77.28,15.92,1,Brazil vs Mexico
-257,Mexico,1,8,82.08,16.240000000000002,0,Brazil vs Mexico
-258,Brazil,1,8,46.559999999999995,53.92000000000001,1,Brazil vs Mexico
-259,Brazil,1,10,87.96,75.84,1,Brazil vs Mexico
-260,Brazil,1,12,91.32,20.96,0,Brazil vs Mexico
-261,Brazil,1,13,102.11999999999999,45.120000000000005,0,Brazil vs Mexico
-262,Brazil,1,18,81.0,70.0,1,Brazil vs Mexico
-263,Brazil,1,20,83.16,2.4800000000000004,0,Brazil vs Mexico
-264,Mexico,1,22,108.24,20.8,1,Brazil vs Mexico
-265,Mexico,1,22,112.32,23.36,0,Brazil vs Mexico
-266,Mexico,1,24,101.39999999999999,4.16,1,Brazil vs Mexico
-267,Mexico,1,30,68.16,42.88,1,Brazil vs Mexico
-268,Mexico,1,31,72.6,42.400000000000006,0,Brazil vs Mexico
-269,Brazil,1,32,82.68,53.760000000000005,1,Brazil vs Mexico
-270,Brazil,1,32,86.64,39.2,0,Brazil vs Mexico
-271,Brazil,1,37,38.64,75.2,1,Brazil vs Mexico
-272,Brazil,1,37,105.84,27.200000000000003,0,Brazil vs Mexico
-273,Mexico,1,40,94.68,60.64,1,Brazil vs Mexico
-274,Mexico,1,45,111.24,9.920000000000002,0,Brazil vs Mexico
-275,Mexico,2,55,103.44,6.48,0,Brazil vs Mexico
-276,Brazil,2,55,16.32,74.88,0,Brazil vs Mexico
-277,Brazil,2,58,85.08,61.84,0,Brazil vs Mexico
-278,Mexico,2,60,54.84,22.16,1,Brazil vs Mexico
-279,Brazil,2,63,39.0,53.04,1,Brazil vs Mexico
-280,Brazil,2,63,89.28,54.400000000000006,1,Brazil vs Mexico
-281,Mexico,2,65,90.6,77.28,0,Brazil vs Mexico
-282,Brazil,2,67,105.24,1.7600000000000002,0,Brazil vs Mexico
-283,Brazil,2,67,89.75999999999999,16.8,0,Brazil vs Mexico
-284,Brazil,2,68,108.48,28.480000000000004,0,Brazil vs Mexico
-285,Brazil,2,68,114.11999999999999,25.12,1,Brazil vs Mexico
-286,Brazil,2,69,72.47999999999999,72.96000000000001,1,Brazil vs Mexico
-287,Brazil,2,70,104.88000000000001,8.0,0,Brazil vs Mexico
-288,Brazil,2,71,74.16,75.92,0,Brazil vs Mexico
-289,Brazil,2,71,57.35999999999999,66.08,1,Brazil vs Mexico
-290,Brazil,2,74,99.11999999999999,24.32,0,Brazil vs Mexico
-291,Mexico,2,74,108.24,54.24,0,Brazil vs Mexico
-292,Brazil,2,77,102.6,27.360000000000003,0,Brazil vs Mexico
-293,Brazil,2,78,86.39999999999999,70.88,0,Brazil vs Mexico
-294,Mexico,2,78,71.75999999999999,3.5200000000000005,1,Brazil vs Mexico
-295,Brazil,2,90,79.68,43.760000000000005,1,Brazil vs Mexico
-296,Brazil,2,90,90.11999999999999,41.2,0,Brazil vs Mexico
-297,Brazil,2,91,76.32,76.64,1,Brazil vs Mexico
-298,Chile,1,0,107.28,51.6,1,Spain vs Chile
-299,Chile,1,5,88.2,1.6800000000000002,0,Spain vs Chile
-300,Spain,1,6,66.0,34.56,0,Spain vs Chile
-301,Spain,1,8,95.52,12.8,1,Spain vs Chile
-302,Chile,1,8,42.24,4.4,0,Spain vs Chile
-303,Spain,1,10,90.71999999999998,16.32,1,Spain vs Chile
-304,Spain,1,14,102.48,34.64,1,Spain vs Chile
-305,Chile,1,18,111.48,40.96000000000001,1,Spain vs Chile
-306,Spain,1,22,37.44,4.32,1,Spain vs Chile
-307,Spain,1,22,83.04,27.360000000000003,1,Spain vs Chile
-308,Chile,1,24,105.84,4.32,0,Spain vs Chile
-309,Spain,1,26,65.52,52.24,1,Spain vs Chile
-310,Chile,1,27,49.440000000000005,72.48,1,Spain vs Chile
-311,Spain,1,29,105.48,19.92,0,Spain vs Chile
-312,Spain,1,30,109.2,70.4,0,Spain vs Chile
-313,Chile,1,36,38.879999999999995,57.84,1,Spain vs Chile
-314,Spain,1,45,85.2,36.160000000000004,0,Spain vs Chile
-315,Chile,1,45,60.959999999999994,30.400000000000002,0,Spain vs Chile
-316,Chile,2,46,44.879999999999995,57.68,0,Spain vs Chile
-317,Spain,2,46,92.28,25.92,0,Spain vs Chile
-318,Chile,2,47,96.0,75.2,0,Spain vs Chile
-319,Spain,2,54,93.36,57.6,0,Spain vs Chile
-320,Spain,2,58,102.96,16.48,1,Spain vs Chile
-321,Chile,2,60,46.68,56.64,1,Spain vs Chile
-322,Spain,2,69,90.96,76.96000000000001,0,Spain vs Chile
-323,Chile,2,69,74.28,24.560000000000002,1,Spain vs Chile
-324,Chile,2,74,104.39999999999999,14.880000000000003,1,Spain vs Chile
-325,Spain,2,77,91.44,25.040000000000003,1,Spain vs Chile
-326,Spain,2,79,79.91999999999999,12.240000000000002,1,Spain vs Chile
-327,Chile,2,82,55.8,32.4,0,Spain vs Chile
-328,Spain,2,89,38.52,50.0,0,Spain vs Chile
-329,Chile,2,93,73.67999999999999,78.32000000000001,0,Spain vs Chile
-330,Netherlands,1,2,83.75999999999999,5.120000000000001,0,Australia vs Netherlands
-331,Australia,1,10,95.28,48.96000000000001,0,Australia vs Netherlands
-332,Australia,1,10,76.91999999999999,39.04,0,Australia vs Netherlands
-333,Australia,1,15,74.28,21.12,1,Australia vs Netherlands
-334,Netherlands,1,19,63.72,58.0,1,Australia vs Netherlands
-335,Australia,1,20,75.36,51.28,0,Australia vs Netherlands
-336,Netherlands,1,23,90.84,2.2399999999999998,1,Australia vs Netherlands
-337,Netherlands,1,23,98.75999999999999,2.08,0,Australia vs Netherlands
-338,Australia,1,28,89.28,1.1199999999999999,0,Australia vs Netherlands
-339,Australia,1,29,88.32,73.12,1,Australia vs Netherlands
-340,Australia,1,29,92.16,76.0,1,Australia vs Netherlands
-341,Australia,1,34,97.08,75.2,1,Australia vs Netherlands
-342,Australia,1,34,74.52,15.840000000000002,1,Australia vs Netherlands
-343,Australia,1,46,77.88000000000001,3.6799999999999997,1,Australia vs Netherlands
-344,Netherlands,2,49,87.6,70.16000000000001,1,Australia vs Netherlands
-345,Netherlands,2,56,91.91999999999999,70.4,0,Australia vs Netherlands
-346,Australia,2,56,28.56,16.72,0,Australia vs Netherlands
-347,Australia,2,57,52.199999999999996,26.72,1,Australia vs Netherlands
-348,Australia,2,60,30.72,25.92,1,Australia vs Netherlands
-349,Australia,2,60,38.64,24.16,0,Australia vs Netherlands
-350,Netherlands,2,61,45.72,69.52000000000001,0,Australia vs Netherlands
-351,Australia,2,68,69.12,77.28,0,Australia vs Netherlands
-352,Netherlands,2,71,105.36,31.84,1,Australia vs Netherlands
-353,Netherlands,2,73,108.71999999999998,77.28,1,Australia vs Netherlands
-354,Australia,2,74,87.24,22.480000000000004,1,Australia vs Netherlands
-355,Australia,2,74,88.91999999999999,27.84,1,Australia vs Netherlands
-356,Australia,2,77,112.8,58.400000000000006,0,Australia vs Netherlands
-357,Netherlands,2,78,64.8,78.24000000000001,0,Australia vs Netherlands
-358,Netherlands,2,79,104.16,55.36000000000001,0,Australia vs Netherlands
-359,Australia,2,79,84.6,74.0,0,Australia vs Netherlands
-360,Australia,2,81,12.0,46.88,1,Australia vs Netherlands
-361,Australia,2,87,107.64,4.4799999999999995,0,Australia vs Netherlands
-362,Netherlands,2,91,41.64,78.48,1,Australia vs Netherlands
-363,Australia,2,92,49.32,71.28,1,Australia vs Netherlands
-364,Australia,2,92,90.48,75.52000000000001,0,Australia vs Netherlands
-365,England,1,3,46.08,3.84,0,Uruguay vs England
-366,England,1,3,52.8,5.760000000000001,1,Uruguay vs England
-367,England,1,3,33.72,8.0,1,Uruguay vs England
-368,England,1,6,86.39999999999999,20.32,1,Uruguay vs England
-369,Uruguay,1,7,86.88000000000001,2.4000000000000004,0,Uruguay vs England
-370,England,1,10,79.44,3.5200000000000005,0,Uruguay vs England
-371,Uruguay,1,13,48.0,60.160000000000004,1,Uruguay vs England
-372,England,1,16,38.64,18.880000000000003,1,Uruguay vs England
-373,England,1,22,81.24,67.76,0,Uruguay vs England
-374,Uruguay,1,25,77.75999999999999,24.32,1,Uruguay vs England
-375,England,1,29,75.72,67.52000000000001,0,Uruguay vs England
-376,England,1,35,61.44,73.28,1,Uruguay vs England
-377,England,1,37,86.64,3.6799999999999997,0,Uruguay vs England
-378,Uruguay,1,38,55.199999999999996,46.24,0,Uruguay vs England
-379,England,1,40,67.2,61.120000000000005,1,Uruguay vs England
-380,England,1,41,103.32,6.640000000000001,1,Uruguay vs England
-381,England,2,52,106.91999999999999,65.2,0,Uruguay vs England
-382,England,2,53,103.32,75.52000000000001,1,Uruguay vs England
-383,England,2,56,44.16,77.44,1,Uruguay vs England
-384,England,2,58,88.55999999999999,71.60000000000001,1,Uruguay vs England
-385,England,2,59,87.48,76.56,0,Uruguay vs England
-386,England,2,60,109.32,9.120000000000001,1,Uruguay vs England
-387,England,2,60,112.32,12.32,1,Uruguay vs England
-388,England,2,64,98.16,64.96000000000001,1,Uruguay vs England
-389,England,2,66,70.2,28.64,1,Uruguay vs England
-390,England,2,66,97.8,9.76,0,Uruguay vs England
-391,England,2,68,71.75999999999999,31.360000000000003,1,Uruguay vs England
-392,England,2,68,106.32,18.48,0,Uruguay vs England
-393,England,2,73,93.48,23.36,1,Uruguay vs England
-394,England,2,74,80.16,6.88,1,Uruguay vs England
-395,England,2,74,102.71999999999998,10.88,1,Uruguay vs England
-396,England,2,76,68.88,71.04,0,Uruguay vs England
-397,Uruguay,2,78,93.84,47.28,0,Uruguay vs England
-398,Uruguay,2,81,102.96,19.040000000000003,1,Uruguay vs England
-399,England,2,85,73.44,74.24,1,Uruguay vs England
-400,England,2,93,82.8,57.36000000000001,0,Uruguay vs England
-401,Uruguay,2,93,47.16,72.0,1,Uruguay vs England
-402,Italy,1,3,63.12,15.840000000000002,1,Italy vs Costa Rica
-403,Italy,1,8,107.52,70.48,0,Italy vs Costa Rica
-404,Costa Rica,1,10,47.76,2.5600000000000005,0,Italy vs Costa Rica
-405,Costa Rica,1,10,84.11999999999999,18.8,0,Italy vs Costa Rica
-406,Italy,1,16,92.88000000000001,10.240000000000002,0,Italy vs Costa Rica
-407,Italy,1,21,93.11999999999999,50.64,1,Italy vs Costa Rica
-408,Italy,1,21,102.0,50.800000000000004,0,Italy vs Costa Rica
-409,Italy,1,22,110.04,20.72,0,Italy vs Costa Rica
-410,Italy,1,26,88.32,2.4000000000000004,0,Italy vs Costa Rica
-411,Italy,1,28,49.32,55.04,0,Italy vs Costa Rica
-412,Italy,1,35,49.68,29.439999999999998,0,Italy vs Costa Rica
-413,Italy,1,37,56.64,77.84,1,Italy vs Costa Rica
-414,Italy,1,40,46.8,25.760000000000005,0,Italy vs Costa Rica
-415,Italy,1,41,27.0,57.92000000000001,0,Italy vs Costa Rica
-416,Costa Rica,1,42,101.16,34.480000000000004,0,Italy vs Costa Rica
-417,Italy,1,42,88.8,51.120000000000005,1,Italy vs Costa Rica
-418,Italy,1,46,66.0,24.16,1,Italy vs Costa Rica
-419,Italy,2,46,114.24,66.08,0,Italy vs Costa Rica
-420,Italy,2,53,86.75999999999999,20.72,0,Italy vs Costa Rica
-421,Italy,2,54,85.68,23.52,0,Italy vs Costa Rica
-422,Italy,2,55,77.52,66.48,0,Italy vs Costa Rica
-423,Costa Rica,2,57,107.28,78.48,1,Italy vs Costa Rica
-424,Costa Rica,2,57,114.71999999999998,78.4,0,Italy vs Costa Rica
-425,Italy,2,58,88.91999999999999,54.24,1,Italy vs Costa Rica
-426,Italy,2,58,90.71999999999998,52.0,0,Italy vs Costa Rica
-427,Italy,2,60,85.08,76.56,0,Italy vs Costa Rica
-428,Italy,2,64,70.44,53.120000000000005,1,Italy vs Costa Rica
-429,Italy,2,71,92.64,21.44,0,Italy vs Costa Rica
-430,Italy,2,75,99.11999999999999,3.84,1,Italy vs Costa Rica
-431,Italy,2,76,44.879999999999995,53.760000000000005,0,Italy vs Costa Rica
-432,Italy,2,82,49.32,53.120000000000005,1,Italy vs Costa Rica
-433,Italy,2,82,65.75999999999999,44.0,0,Italy vs Costa Rica
-434,Italy,2,90,67.55999999999999,51.44,0,Italy vs Costa Rica
-435,Italy,2,93,91.91999999999999,23.200000000000003,0,Italy vs Costa Rica
-436,Argentina,1,4,103.44,8.64,0,Argentina vs Iran
-437,Argentina,1,10,79.08,20.240000000000002,1,Argentina vs Iran
-438,Iran,1,10,40.8,29.360000000000003,0,Argentina vs Iran
-439,Argentina,1,10,83.28,54.24,1,Argentina vs Iran
-440,Argentina,1,10,87.11999999999999,51.120000000000005,1,Argentina vs Iran
-441,Argentina,1,10,106.08,71.67999999999999,1,Argentina vs Iran
-442,Argentina,1,17,45.48,42.080000000000005,1,Argentina vs Iran
-443,Argentina,1,20,82.08,4.08,1,Argentina vs Iran
-444,Argentina,1,20,86.64,3.2,0,Argentina vs Iran
-445,Argentina,1,24,81.6,76.32000000000001,0,Argentina vs Iran
-446,Iran,1,24,60.72,3.5200000000000005,0,Argentina vs Iran
-447,Iran,1,25,69.12,6.24,0,Argentina vs Iran
-448,Argentina,1,33,57.48,10.88,1,Argentina vs Iran
-449,Argentina,1,33,75.12,20.16,0,Argentina vs Iran
-450,Iran,1,37,39.12,14.32,0,Argentina vs Iran
-451,Iran,1,38,36.96,75.84,1,Argentina vs Iran
-452,Argentina,1,42,111.11999999999999,23.040000000000003,0,Argentina vs Iran
-453,Iran,1,43,59.519999999999996,45.120000000000005,0,Argentina vs Iran
-454,Argentina,1,43,76.8,56.0,1,Argentina vs Iran
-455,Argentina,2,48,82.68,68.64,1,Argentina vs Iran
-456,Argentina,2,49,82.2,26.560000000000002,1,Argentina vs Iran
-457,Iran,2,51,39.84,24.480000000000004,1,Argentina vs Iran
-458,Iran,2,51,49.559999999999995,26.960000000000004,1,Argentina vs Iran
-459,Argentina,2,54,82.8,19.36,1,Argentina vs Iran
-460,Argentina,2,57,110.75999999999999,67.04,1,Argentina vs Iran
-461,Argentina,2,61,95.52,28.160000000000004,0,Argentina vs Iran
-462,Iran,2,61,27.84,63.6,1,Argentina vs Iran
-463,Iran,2,64,105.36,6.32,0,Argentina vs Iran
-464,Iran,2,64,54.959999999999994,28.64,1,Argentina vs Iran
-465,Argentina,2,67,83.52,47.52,1,Argentina vs Iran
-466,Iran,2,68,41.279999999999994,76.64,0,Argentina vs Iran
-467,Argentina,2,68,109.32,19.840000000000003,0,Argentina vs Iran
-468,Argentina,2,69,78.24,22.240000000000002,1,Argentina vs Iran
-469,Argentina,2,73,87.6,55.68,1,Argentina vs Iran
-470,Argentina,2,74,92.28,48.64,0,Argentina vs Iran
-471,Iran,2,78,45.84,27.200000000000003,1,Argentina vs Iran
-472,Iran,2,78,63.35999999999999,28.0,0,Argentina vs Iran
-473,Argentina,2,81,85.68,8.56,1,Argentina vs Iran
-474,Argentina,2,81,108.71999999999998,13.36,1,Argentina vs Iran
-475,Argentina,2,81,111.71999999999998,21.36,0,Argentina vs Iran
-476,Iran,2,88,84.96,65.12,0,Argentina vs Iran
-477,Argentina,2,89,89.52,53.760000000000005,1,Argentina vs Iran
-478,Iran,2,89,42.12,28.960000000000004,1,Argentina vs Iran
-479,Iran,2,89,44.4,32.96,0,Argentina vs Iran
-480,Germany,1,3,77.75999999999999,68.72000000000001,0,Germany vs Ghana
-481,Ghana,1,4,27.36,54.64,1,Germany vs Ghana
-482,Germany,1,9,84.48,21.12,0,Germany vs Ghana
-483,Ghana,1,12,91.44,26.560000000000002,1,Germany vs Ghana
-484,Ghana,1,15,34.32,68.96000000000001,0,Germany vs Ghana
-485,Ghana,1,18,96.6,18.64,0,Germany vs Ghana
-486,Ghana,1,24,34.92,65.28,0,Germany vs Ghana
-487,Ghana,1,27,48.72,18.880000000000003,1,Germany vs Ghana
-488,Ghana,1,29,101.75999999999999,22.96,0,Germany vs Ghana
-489,Ghana,1,31,97.55999999999999,24.240000000000002,0,Germany vs Ghana
-490,Ghana,1,32,69.12,76.24,1,Germany vs Ghana
-491,Ghana,1,33,97.2,72.88,1,Germany vs Ghana
-492,Ghana,1,43,70.92,6.48,0,Germany vs Ghana
-493,Germany,2,46,107.39999999999999,62.720000000000006,0,Germany vs Ghana
-494,Ghana,2,62,103.44,21.92,0,Germany vs Ghana
-495,Germany,2,64,55.199999999999996,31.92,1,Germany vs Ghana
-496,Germany,2,64,57.959999999999994,42.400000000000006,1,Germany vs Ghana
-497,Germany,2,64,68.88,37.68,1,Germany vs Ghana
-498,Germany,2,65,105.71999999999998,22.32,0,Germany vs Ghana
-499,Ghana,2,65,53.879999999999995,77.12,1,Germany vs Ghana
-500,Ghana,2,66,103.68,58.879999999999995,1,Germany vs Ghana
-501,Germany,2,72,105.84,75.36,1,Germany vs Ghana
-502,Ghana,2,77,77.16,48.480000000000004,1,Germany vs Ghana
-503,Ghana,2,79,112.68,11.920000000000002,0,Germany vs Ghana
-504,Ghana,2,84,85.2,21.200000000000003,0,Germany vs Ghana
-505,Germany,2,87,69.36,76.96000000000001,0,Germany vs Ghana
-506,Germany,2,87,67.55999999999999,38.56,1,Germany vs Ghana
-507,Ghana,2,88,71.52,18.400000000000002,1,Germany vs Ghana
-508,Algeria,1,5,44.16,56.160000000000004,0,South Korea vs Algeria
-509,South Korea,1,10,95.16,62.32000000000001,1,South Korea vs Algeria
-510,South Korea,1,10,110.39999999999999,62.24,0,South Korea vs Algeria
-511,South Korea,1,10,109.44,57.120000000000005,0,South Korea vs Algeria
-512,South Korea,1,11,87.11999999999999,22.080000000000002,1,South Korea vs Algeria
-513,Algeria,1,12,39.12,45.92,0,South Korea vs Algeria
-514,Algeria,1,12,62.279999999999994,33.12,1,South Korea vs Algeria
-515,South Korea,1,12,90.0,54.56,1,South Korea vs Algeria
-516,South Korea,1,12,95.64,56.48,1,South Korea vs Algeria
-517,Algeria,1,13,75.6,49.68000000000001,1,South Korea vs Algeria
-518,South Korea,1,14,66.72,59.52000000000001,1,South Korea vs Algeria
-519,Algeria,1,14,57.12,73.60000000000001,1,South Korea vs Algeria
-520,Algeria,1,22,61.92,45.2,1,South Korea vs Algeria
-521,South Korea,1,31,88.55999999999999,38.32,1,South Korea vs Algeria
-522,Algeria,1,32,86.88000000000001,74.96000000000001,0,South Korea vs Algeria
-523,South Korea,1,34,73.2,12.8,1,South Korea vs Algeria
-524,South Korea,1,34,82.55999999999999,52.64,0,South Korea vs Algeria
-525,Algeria,1,35,65.88,65.2,1,South Korea vs Algeria
-526,Algeria,1,36,108.48,73.28,1,South Korea vs Algeria
-527,Algeria,1,36,112.08,60.160000000000004,1,South Korea vs Algeria
-528,South Korea,1,39,66.0,51.6,1,South Korea vs Algeria
-529,Algeria,1,39,65.64,67.28,0,South Korea vs Algeria
-530,Algeria,1,43,87.6,77.28,0,South Korea vs Algeria
-531,South Korea,2,45,78.24,37.44,0,South Korea vs Algeria
-532,Algeria,2,45,54.72,45.44,1,South Korea vs Algeria
-533,South Korea,2,46,79.68,27.360000000000003,1,South Korea vs Algeria
-534,Algeria,2,46,35.4,37.36000000000001,0,South Korea vs Algeria
-535,Algeria,2,48,54.84,4.64,0,South Korea vs Algeria
-536,South Korea,2,51,105.36,72.16000000000001,1,South Korea vs Algeria
-537,South Korea,2,51,95.04,60.800000000000004,1,South Korea vs Algeria
-538,Algeria,2,53,83.28,3.5200000000000005,0,South Korea vs Algeria
-539,Algeria,2,54,38.279999999999994,74.72000000000001,1,South Korea vs Algeria
-540,Algeria,2,54,44.4,69.84,0,South Korea vs Algeria
-541,South Korea,2,55,59.04,62.400000000000006,0,South Korea vs Algeria
-542,South Korea,2,58,95.04,65.92,1,South Korea vs Algeria
-543,Algeria,2,61,70.92,20.0,1,South Korea vs Algeria
-544,South Korea,2,65,53.52,43.2,1,South Korea vs Algeria
-545,Algeria,2,69,88.68,71.92,0,South Korea vs Algeria
-546,South Korea,2,73,78.0,57.6,1,South Korea vs Algeria
-547,Algeria,2,74,89.04,78.08,0,South Korea vs Algeria
-548,Algeria,2,81,30.0,78.80000000000001,0,South Korea vs Algeria
-549,Algeria,2,87,84.6,56.160000000000004,0,South Korea vs Algeria
-550,Algeria,2,87,117.0,59.52000000000001,0,South Korea vs Algeria
-551,South Korea,2,89,89.75999999999999,21.6,0,South Korea vs Algeria
-552,Algeria,2,89,42.72,55.92000000000001,0,South Korea vs Algeria
-553,Algeria,2,92,44.4,6.56,1,South Korea vs Algeria
-554,Algeria,2,92,62.75999999999999,16.16,0,South Korea vs Algeria
-555,Brazil,1,3,99.36,4.88,0,Cameroon vs Brazil
-556,Cameroon,1,3,51.48,54.32000000000001,1,Cameroon vs Brazil
-557,Cameroon,1,4,112.08,74.24,0,Cameroon vs Brazil
-558,Brazil,1,5,91.2,13.76,0,Cameroon vs Brazil
-559,Brazil,1,6,83.52,72.16000000000001,0,Cameroon vs Brazil
-560,Brazil,1,9,47.76,68.32000000000001,0,Cameroon vs Brazil
-561,Cameroon,1,9,91.44,59.04,0,Cameroon vs Brazil
-562,Cameroon,1,10,88.55999999999999,66.08,1,Cameroon vs Brazil
-563,Cameroon,1,12,70.8,73.67999999999999,1,Cameroon vs Brazil
-564,Cameroon,1,12,67.8,69.76,1,Cameroon vs Brazil
-565,Brazil,1,19,95.04,66.96000000000001,0,Cameroon vs Brazil
-566,Brazil,1,20,91.2,61.6,0,Cameroon vs Brazil
-567,Brazil,1,21,43.199999999999996,74.4,0,Cameroon vs Brazil
-568,Cameroon,1,21,88.08,12.48,1,Cameroon vs Brazil
-569,Cameroon,1,21,113.39999999999999,26.960000000000004,0,Cameroon vs Brazil
-570,Cameroon,1,24,47.52,16.080000000000002,0,Cameroon vs Brazil
-571,Brazil,1,29,53.76,13.36,0,Cameroon vs Brazil
-572,Cameroon,1,30,79.08,76.64,1,Cameroon vs Brazil
-573,Cameroon,1,30,104.16,72.96000000000001,0,Cameroon vs Brazil
-574,Cameroon,1,37,73.44,12.32,1,Cameroon vs Brazil
-575,Cameroon,1,37,85.8,10.08,1,Cameroon vs Brazil
-576,Brazil,1,41,47.04,13.92,0,Cameroon vs Brazil
-577,Cameroon,1,41,49.92,31.92,1,Cameroon vs Brazil
-578,Brazil,1,42,84.24,65.52000000000001,1,Cameroon vs Brazil
-579,Brazil,1,42,41.279999999999994,50.72,0,Cameroon vs Brazil
-580,Brazil,1,44,64.8,34.4,0,Cameroon vs Brazil
-581,Brazil,2,50,92.88000000000001,11.040000000000001,0,Cameroon vs Brazil
-582,Brazil,2,52,87.36,42.080000000000005,0,Cameroon vs Brazil
-583,Cameroon,2,56,94.8,73.2,0,Cameroon vs Brazil
-584,Cameroon,2,59,40.32,71.92,1,Cameroon vs Brazil
-585,Cameroon,2,61,45.6,78.32000000000001,1,Cameroon vs Brazil
-586,Cameroon,2,61,65.64,76.80000000000001,0,Cameroon vs Brazil
-587,Brazil,2,62,79.91999999999999,50.72,1,Cameroon vs Brazil
-588,Cameroon,2,68,65.16,54.879999999999995,0,Cameroon vs Brazil
-589,Cameroon,2,68,49.92,3.84,0,Cameroon vs Brazil
-590,Brazil,2,69,91.55999999999999,37.2,0,Cameroon vs Brazil
-591,Cameroon,2,69,106.68,66.24,0,Cameroon vs Brazil
-592,Brazil,2,77,83.75999999999999,72.56,0,Cameroon vs Brazil
-593,Brazil,2,79,58.559999999999995,55.68,1,Cameroon vs Brazil
-594,Cameroon,2,88,90.0,46.800000000000004,0,Cameroon vs Brazil
-595,Australia,1,0,101.88000000000001,78.16000000000001,0,Australia vs Spain
-596,Australia,1,0,117.6,75.04,0,Australia vs Spain
-597,Spain,1,5,48.24,68.96000000000001,1,Australia vs Spain
-598,Spain,1,11,96.48,76.64,1,Australia vs Spain
-599,Spain,1,11,92.64,62.08,0,Australia vs Spain
-600,Australia,1,12,88.68,11.76,1,Australia vs Spain
-601,Australia,1,12,98.28,19.040000000000003,0,Australia vs Spain
-602,Australia,1,14,42.959999999999994,74.08,0,Australia vs Spain
-603,Australia,1,14,39.24,65.92,1,Australia vs Spain
-604,Spain,1,16,85.91999999999999,9.28,1,Australia vs Spain
-605,Australia,1,21,88.32,4.960000000000001,0,Australia vs Spain
-606,Spain,1,21,93.84,2.72,0,Australia vs Spain
-607,Spain,1,22,89.39999999999999,39.04,1,Australia vs Spain
-608,Australia,1,22,22.2,24.32,1,Australia vs Spain
-609,Australia,1,24,76.44,40.800000000000004,1,Australia vs Spain
-610,Australia,1,24,92.52,47.2,0,Australia vs Spain
-611,Spain,1,32,116.03999999999999,66.72000000000001,0,Australia vs Spain
-612,Spain,1,33,112.8,56.32000000000001,1,Australia vs Spain
-613,Spain,2,45,88.2,18.16,0,Australia vs Spain
-614,Spain,2,50,38.879999999999995,5.120000000000001,1,Australia vs Spain
-615,Australia,2,52,67.55999999999999,6.48,0,Australia vs Spain
-616,Australia,2,54,75.84,18.96,0,Australia vs Spain
-617,Australia,2,57,48.0,28.64,0,Australia vs Spain
-618,Australia,2,59,30.479999999999997,64.16000000000001,1,Australia vs Spain
-619,Australia,2,60,91.44,66.48,1,Australia vs Spain
-620,Australia,2,60,108.36,73.84,0,Australia vs Spain
-621,Australia,2,63,29.279999999999998,44.56,1,Australia vs Spain
-622,Australia,2,64,75.36,3.5200000000000005,0,Australia vs Spain
-623,Spain,2,65,76.55999999999999,74.4,1,Australia vs Spain
-624,Australia,2,73,76.55999999999999,12.56,1,Australia vs Spain
-625,Australia,2,73,114.0,2.4800000000000004,0,Australia vs Spain
-626,Australia,2,75,93.71999999999998,49.760000000000005,0,Australia vs Spain
-627,Australia,2,76,38.879999999999995,18.080000000000002,1,Australia vs Spain
-628,Spain,2,76,104.88000000000001,64.88,1,Australia vs Spain
-629,Australia,2,77,33.72,49.2,1,Australia vs Spain
-630,Spain,2,78,54.959999999999994,33.12,0,Australia vs Spain
-631,Spain,2,80,29.879999999999995,16.72,1,Australia vs Spain
-632,Spain,2,81,102.11999999999999,74.32000000000001,0,Australia vs Spain
-633,Spain,2,84,96.36,30.8,0,Australia vs Spain
-634,Spain,2,87,78.96,26.0,1,Australia vs Spain
-635,Chile,1,2,68.28,68.48,0,Netherlands vs Chile
-636,Chile,1,12,109.32,69.67999999999999,0,Netherlands vs Chile
-637,Chile,1,18,65.04,46.400000000000006,1,Netherlands vs Chile
-638,Netherlands,1,22,81.6,9.76,1,Netherlands vs Chile
-639,Netherlands,1,35,17.28,13.92,1,Netherlands vs Chile
-640,Chile,1,37,74.52,3.44,1,Netherlands vs Chile
-641,Netherlands,1,39,53.4,11.920000000000002,1,Netherlands vs Chile
-642,Netherlands,1,39,94.91999999999999,39.120000000000005,1,Netherlands vs Chile
-643,Chile,1,40,54.48,7.440000000000001,1,Netherlands vs Chile
-644,Chile,1,42,74.28,16.72,1,Netherlands vs Chile
-645,Chile,1,42,73.2,18.240000000000002,0,Netherlands vs Chile
-646,Netherlands,1,42,47.64,60.56,0,Netherlands vs Chile
-647,Chile,2,45,49.68,24.080000000000002,1,Netherlands vs Chile
-648,Chile,2,48,105.71999999999998,12.96,0,Netherlands vs Chile
-649,Chile,2,49,62.04,2.8800000000000003,0,Netherlands vs Chile
-650,Chile,2,55,44.04,2.0,0,Netherlands vs Chile
-651,Chile,2,64,117.6,67.76,1,Netherlands vs Chile
-652,Chile,2,67,75.36,37.68,1,Netherlands vs Chile
-653,Chile,2,72,77.88000000000001,41.44,1,Netherlands vs Chile
-654,Netherlands,2,75,69.6,3.84,1,Netherlands vs Chile
-655,Netherlands,2,75,84.48,54.56,1,Netherlands vs Chile
-656,Netherlands,2,75,88.68,49.04,1,Netherlands vs Chile
-657,Chile,2,78,67.67999999999999,8.8,1,Netherlands vs Chile
-658,Chile,2,78,74.52,22.080000000000002,1,Netherlands vs Chile
-659,Chile,2,82,75.36,11.520000000000001,0,Netherlands vs Chile
-660,Netherlands,2,82,49.68,70.56,1,Netherlands vs Chile
-661,Netherlands,2,83,82.91999999999999,8.32,0,Netherlands vs Chile
-662,England,1,4,50.4,68.16000000000001,0,Costa Rica vs England
-663,England,1,5,85.32,1.6,1,Costa Rica vs England
-664,England,1,5,80.64,51.6,0,Costa Rica vs England
-665,England,1,7,87.71999999999998,74.88,0,Costa Rica vs England
-666,Costa Rica,1,8,39.12,6.800000000000001,0,Costa Rica vs England
-667,England,1,19,59.519999999999996,12.880000000000003,1,Costa Rica vs England
-668,England,1,23,32.879999999999995,21.76,0,Costa Rica vs England
-669,Costa Rica,1,23,109.68,75.36,0,Costa Rica vs England
-670,England,1,26,90.71999999999998,28.160000000000004,1,Costa Rica vs England
-671,Costa Rica,1,27,86.16,37.44,0,Costa Rica vs England
-672,England,1,29,77.75999999999999,53.2,1,Costa Rica vs England
-673,Costa Rica,1,30,58.44,25.28,1,Costa Rica vs England
-674,England,1,36,49.92,48.160000000000004,1,Costa Rica vs England
-675,England,1,40,90.71999999999998,77.44,0,Costa Rica vs England
-676,England,1,41,95.75999999999999,45.44,1,Costa Rica vs England
-677,Costa Rica,2,45,69.24,62.800000000000004,0,Costa Rica vs England
-678,England,2,46,31.56,8.64,1,Costa Rica vs England
-679,England,2,56,37.92,73.44,1,Costa Rica vs England
-680,Costa Rica,2,62,100.55999999999999,65.67999999999999,0,Costa Rica vs England
-681,England,2,65,76.32,67.2,0,Costa Rica vs England
-682,England,2,69,84.36,37.68,0,Costa Rica vs England
-683,Costa Rica,2,69,107.52,13.92,0,Costa Rica vs England
-684,England,2,76,83.28,5.920000000000001,0,Costa Rica vs England
-685,England,2,78,100.55999999999999,13.12,0,Costa Rica vs England
-686,England,2,81,98.39999999999999,77.36000000000001,1,Costa Rica vs England
-687,Costa Rica,2,84,108.71999999999998,58.64,0,Costa Rica vs England
-688,England,2,90,82.44,6.720000000000001,1,Costa Rica vs England
-689,England,2,91,86.28,22.16,0,Costa Rica vs England
-690,Nigeria,1,1,97.68,21.12,0,Nigeria vs Argentina
-691,Argentina,1,3,100.44,37.839999999999996,0,Nigeria vs Argentina
-692,Argentina,1,6,83.28,44.64,1,Nigeria vs Argentina
-693,Nigeria,1,7,78.0,3.6799999999999997,0,Nigeria vs Argentina
-694,Nigeria,1,12,21.599999999999998,15.200000000000001,1,Nigeria vs Argentina
-695,Nigeria,1,12,94.68,60.720000000000006,0,Nigeria vs Argentina
-696,Argentina,1,16,53.4,30.080000000000002,1,Nigeria vs Argentina
-697,Nigeria,1,17,60.84,75.36,0,Nigeria vs Argentina
-698,Nigeria,1,20,110.39999999999999,12.64,1,Nigeria vs Argentina
-699,Argentina,1,28,91.91999999999999,28.480000000000004,1,Nigeria vs Argentina
-700,Argentina,1,34,97.2,73.44,0,Nigeria vs Argentina
-701,Nigeria,1,34,44.64,23.28,1,Nigeria vs Argentina
-702,Argentina,1,40,77.04,16.32,0,Nigeria vs Argentina
-703,Nigeria,1,41,8.16,61.84,1,Nigeria vs Argentina
-704,Nigeria,1,41,42.24,31.52,0,Nigeria vs Argentina
-705,Argentina,2,51,98.16,20.72,1,Nigeria vs Argentina
-706,Nigeria,2,53,81.71999999999998,62.56,0,Nigeria vs Argentina
-707,Argentina,2,54,63.84,54.24,1,Nigeria vs Argentina
-708,Argentina,2,56,64.2,23.36,1,Nigeria vs Argentina
-709,Argentina,2,56,109.32,9.36,0,Nigeria vs Argentina
-710,Argentina,2,58,87.24,10.56,0,Nigeria vs Argentina
-711,Argentina,2,58,83.75999999999999,5.120000000000001,0,Nigeria vs Argentina
-712,Nigeria,2,58,49.199999999999996,70.88,0,Nigeria vs Argentina
-713,Nigeria,2,60,107.04,69.92,1,Nigeria vs Argentina
-714,Nigeria,2,60,105.36,5.28,1,Nigeria vs Argentina
-715,Argentina,2,61,50.879999999999995,54.160000000000004,0,Nigeria vs Argentina
-716,Nigeria,2,61,88.08,37.760000000000005,0,Nigeria vs Argentina
-717,Argentina,2,61,98.64,56.160000000000004,0,Nigeria vs Argentina
-718,Nigeria,2,67,80.64,71.04,0,Nigeria vs Argentina
-719,Argentina,2,67,79.91999999999999,41.120000000000005,0,Nigeria vs Argentina
-720,Nigeria,2,69,99.84,10.32,0,Nigeria vs Argentina
-721,Nigeria,2,71,78.84,58.879999999999995,1,Nigeria vs Argentina
-722,Nigeria,2,71,86.75999999999999,54.24,0,Nigeria vs Argentina
-723,Nigeria,2,74,78.96,67.04,1,Nigeria vs Argentina
-724,Nigeria,2,75,87.0,17.28,1,Nigeria vs Argentina
-725,Argentina,2,77,69.36,17.76,1,Nigeria vs Argentina
-726,Argentina,2,77,110.04,3.84,0,Nigeria vs Argentina
-727,Argentina,2,78,111.11999999999999,57.28,0,Nigeria vs Argentina
-728,Nigeria,2,80,95.75999999999999,3.5200000000000005,0,Nigeria vs Argentina
-729,Nigeria,2,82,77.04,20.64,1,Nigeria vs Argentina
-730,Nigeria,2,82,75.12,34.88,1,Nigeria vs Argentina
-731,Nigeria,2,83,98.64,3.04,0,Nigeria vs Argentina
-732,Nigeria,2,86,94.08,13.36,1,Nigeria vs Argentina
-733,Germany,1,6,87.71999999999998,3.28,1,USA vs Germany
-734,Germany,1,6,93.84,2.4000000000000004,0,USA vs Germany
-735,USA,1,9,89.28,78.16000000000001,0,USA vs Germany
-736,USA,1,12,85.68,5.920000000000001,0,USA vs Germany
-737,Germany,1,14,106.68,29.760000000000005,0,USA vs Germany
-738,USA,1,17,65.52,47.44,0,USA vs Germany
-739,USA,1,21,58.67999999999999,26.480000000000004,1,USA vs Germany
-740,USA,1,23,40.08,15.840000000000002,0,USA vs Germany
-741,USA,1,24,58.8,74.72000000000001,1,USA vs Germany
-742,Germany,1,33,39.72,76.96000000000001,0,USA vs Germany
-743,Germany,1,33,39.72,76.32000000000001,0,USA vs Germany
-744,Germany,1,36,64.08,32.96,1,USA vs Germany
-745,Germany,1,36,65.04,32.24,0,USA vs Germany
-746,Germany,1,37,97.32,58.08,0,USA vs Germany
-747,Germany,1,38,66.96,51.04,1,USA vs Germany
-748,USA,1,40,118.08,72.64,0,USA vs Germany
-749,Germany,1,45,81.24,52.56,1,USA vs Germany
-750,Germany,2,62,106.55999999999999,4.32,0,USA vs Germany
-751,Germany,2,78,111.48,16.48,0,USA vs Germany
-752,Germany,2,80,104.04,24.080000000000002,0,USA vs Germany
-753,Germany,2,82,103.68,57.92000000000001,0,USA vs Germany
-754,USA,2,87,80.64,76.48,0,USA vs Germany
-755,Germany,2,91,44.16,44.160000000000004,1,USA vs Germany
-756,Algeria,1,3,65.04,28.72,0,Algeria vs Russia
-757,Algeria,1,5,102.84,65.52000000000001,1,Algeria vs Russia
-758,Russia,1,9,71.75999999999999,15.040000000000001,0,Algeria vs Russia
-759,Algeria,1,12,89.16,28.160000000000004,1,Algeria vs Russia
-760,Algeria,1,12,90.36,31.04,0,Algeria vs Russia
-761,Russia,1,14,40.32,45.92,1,Algeria vs Russia
-762,Russia,1,15,96.71999999999998,57.84,1,Algeria vs Russia
-763,Russia,1,15,97.08,53.6,1,Algeria vs Russia
-764,Russia,1,16,69.24,28.8,0,Algeria vs Russia
-765,Russia,1,18,74.39999999999999,53.2,1,Algeria vs Russia
-766,Russia,1,23,74.64,49.84,1,Algeria vs Russia
-767,Algeria,1,24,83.04,35.52,0,Algeria vs Russia
-768,Algeria,1,24,85.91999999999999,77.60000000000001,0,Algeria vs Russia
-769,Russia,1,27,57.24,56.48,0,Algeria vs Russia
-770,Algeria,1,27,57.959999999999994,38.96000000000001,1,Algeria vs Russia
-771,Algeria,1,30,107.04,64.96000000000001,0,Algeria vs Russia
-772,Russia,1,31,65.52,38.88,1,Algeria vs Russia
-773,Algeria,1,33,96.24,66.0,0,Algeria vs Russia
-774,Algeria,1,34,87.71999999999998,55.6,1,Algeria vs Russia
-775,Russia,1,36,79.68,77.44,0,Algeria vs Russia
-776,Algeria,1,36,79.8,17.84,0,Algeria vs Russia
-777,Russia,1,38,112.2,3.3600000000000003,1,Algeria vs Russia
-778,Algeria,1,41,102.24,77.28,0,Algeria vs Russia
-779,Algeria,1,43,78.36,44.88,0,Algeria vs Russia
-780,Algeria,1,45,84.48,69.84,0,Algeria vs Russia
-781,Russia,1,45,81.24,42.800000000000004,1,Algeria vs Russia
-782,Russia,2,50,93.11999999999999,19.44,1,Algeria vs Russia
-783,Russia,2,52,46.32,62.56,1,Algeria vs Russia
-784,Russia,2,53,106.32,8.56,0,Algeria vs Russia
-785,Algeria,2,53,54.72,78.72000000000001,0,Algeria vs Russia
-786,Algeria,2,55,51.35999999999999,7.840000000000001,1,Algeria vs Russia
-787,Algeria,2,56,88.08,12.240000000000002,1,Algeria vs Russia
-788,Algeria,2,58,88.08,78.64,0,Algeria vs Russia
-789,Algeria,2,58,113.52,75.36,1,Algeria vs Russia
-790,Algeria,2,62,78.96,3.04,0,Algeria vs Russia
-791,Russia,2,62,51.72,76.56,0,Algeria vs Russia
-792,Russia,2,63,76.55999999999999,71.67999999999999,0,Algeria vs Russia
-793,Russia,2,65,118.44,66.64,0,Algeria vs Russia
-794,Russia,2,68,74.16,16.16,1,Algeria vs Russia
-795,Algeria,2,71,117.0,59.2,0,Algeria vs Russia
-796,Algeria,2,77,44.4,20.64,0,Algeria vs Russia
-797,Russia,2,83,63.35999999999999,67.67999999999999,0,Algeria vs Russia
-798,Russia,2,83,64.32,65.76,1,Algeria vs Russia
-799,Russia,2,89,113.04,74.08,0,Algeria vs Russia
-800,Russia,2,92,104.88000000000001,78.4,0,Algeria vs Russia
-801,Brazil,1,5,87.71999999999998,44.88,1,Brazil vs Chile
-802,Brazil,1,5,40.8,31.84,1,Brazil vs Chile
-803,Brazil,1,6,79.32,74.88,1,Brazil vs Chile
-804,Brazil,1,9,49.559999999999995,46.480000000000004,0,Brazil vs Chile
-805,Brazil,1,11,108.48,69.28,0,Brazil vs Chile
-806,Chile,1,20,59.519999999999996,23.6,1,Brazil vs Chile
-807,Chile,1,20,59.04,20.96,1,Brazil vs Chile
-808,Chile,1,21,64.08,34.64,1,Brazil vs Chile
-809,Chile,1,29,42.0,21.6,1,Brazil vs Chile
-810,Brazil,1,35,90.71999999999998,21.12,1,Brazil vs Chile
-811,Brazil,1,35,71.52,10.32,0,Brazil vs Chile
-812,Chile,1,35,75.96,77.36000000000001,1,Brazil vs Chile
-813,Brazil,1,38,21.84,40.24,1,Brazil vs Chile
-814,Chile,1,40,35.4,45.68000000000001,0,Brazil vs Chile
-815,Brazil,1,40,86.88000000000001,41.52,0,Brazil vs Chile
-816,Brazil,1,42,109.2,1.2000000000000002,0,Brazil vs Chile
-817,Brazil,1,42,116.88,8.08,0,Brazil vs Chile
-818,Brazil,1,44,102.11999999999999,25.6,1,Brazil vs Chile
-819,Brazil,1,46,90.36,54.720000000000006,0,Brazil vs Chile
-820,Brazil,2,45,55.92,69.67999999999999,1,Brazil vs Chile
-821,Brazil,2,45,108.71999999999998,64.72000000000001,0,Brazil vs Chile
-822,Brazil,2,48,71.75999999999999,58.800000000000004,1,Brazil vs Chile
-823,Brazil,2,50,66.47999999999999,45.68000000000001,0,Brazil vs Chile
-824,Brazil,2,50,63.599999999999994,10.240000000000002,0,Brazil vs Chile
-825,Brazil,2,52,86.64,60.64,0,Brazil vs Chile
-826,Brazil,2,57,94.44,78.72000000000001,0,Brazil vs Chile
-827,Brazil,2,59,39.84,76.48,0,Brazil vs Chile
-828,Chile,2,61,87.36,38.400000000000006,1,Brazil vs Chile
-829,Chile,2,61,100.2,36.480000000000004,0,Brazil vs Chile
-830,Brazil,2,65,51.84,44.080000000000005,1,Brazil vs Chile
-831,Chile,2,67,100.55999999999999,57.44,0,Brazil vs Chile
-832,Brazil,2,67,71.52,78.64,0,Brazil vs Chile
-833,Chile,2,67,69.36,71.76,1,Brazil vs Chile
-834,Chile,2,67,75.6,57.44,1,Brazil vs Chile
-835,Brazil,2,70,85.32,3.04,0,Brazil vs Chile
-836,Chile,2,78,41.879999999999995,69.12,0,Brazil vs Chile
-837,Brazil,2,82,91.32,31.439999999999998,1,Brazil vs Chile
-838,Brazil,2,82,95.88000000000001,29.92,1,Brazil vs Chile
-839,Brazil,2,86,59.519999999999996,58.720000000000006,1,Brazil vs Chile
-840,Brazil,2,86,69.6,65.44,0,Brazil vs Chile
-841,Brazil,2,87,112.08,65.12,0,Brazil vs Chile
-842,Chile,2,90,87.6,47.68000000000001,1,Brazil vs Chile
-843,Brazil,2,90,3.5999999999999996,78.56,0,Brazil vs Chile
-844,Brazil,3,90,72.0,21.28,1,Brazil vs Chile
-845,Chile,3,93,40.199999999999996,43.84,1,Brazil vs Chile
-846,Brazil,3,99,88.8,2.5600000000000005,0,Brazil vs Chile
-847,Brazil,3,100,111.11999999999999,9.28,1,Brazil vs Chile
-848,Brazil,3,102,86.64,23.840000000000003,1,Brazil vs Chile
-849,Brazil,3,102,85.91999999999999,31.92,1,Brazil vs Chile
-850,Brazil,4,105,67.8,75.52000000000001,0,Brazil vs Chile
-851,Brazil,4,112,51.0,20.480000000000004,0,Brazil vs Chile
-852,Brazil,4,113,85.2,59.52000000000001,1,Brazil vs Chile
-853,Brazil,4,113,82.8,53.2,0,Brazil vs Chile
-854,Brazil,4,115,84.71999999999998,2.08,0,Brazil vs Chile
-855,Brazil,4,117,82.91999999999999,69.92,1,Brazil vs Chile
-856,Brazil,4,117,87.36,65.44,0,Brazil vs Chile
-857,Chile,4,117,43.68,6.16,0,Brazil vs Chile
-858,Brazil,4,118,89.52,18.56,0,Brazil vs Chile
-859,Brazil,4,118,81.0,15.52,1,Brazil vs Chile
-860,Brazil,4,120,108.24,22.080000000000002,0,Brazil vs Chile
-861,Mexico,1,4,73.08,2.16,1,Netherlands vs Mexico
-862,Mexico,1,4,77.75999999999999,4.4,1,Netherlands vs Mexico
-863,Mexico,1,4,83.16,23.44,1,Netherlands vs Mexico
-864,Mexico,1,10,49.68,51.68,1,Netherlands vs Mexico
-865,Mexico,1,12,85.44,5.44,1,Netherlands vs Mexico
-866,Netherlands,1,15,81.84,61.2,1,Netherlands vs Mexico
-867,Mexico,1,19,102.11999999999999,25.200000000000003,0,Netherlands vs Mexico
-868,Netherlands,1,21,88.91999999999999,52.720000000000006,1,Netherlands vs Mexico
-869,Mexico,1,21,27.36,68.0,1,Netherlands vs Mexico
-870,Mexico,1,27,33.48,56.0,1,Netherlands vs Mexico
-871,Mexico,1,36,96.0,22.72,0,Netherlands vs Mexico
-872,Mexico,1,39,117.84,20.64,0,Netherlands vs Mexico
-873,Netherlands,1,41,76.55999999999999,74.88,1,Netherlands vs Mexico
-874,Netherlands,1,42,88.32,56.56,1,Netherlands vs Mexico
-875,Mexico,2,47,101.04,59.36000000000001,0,Netherlands vs Mexico
-876,Netherlands,2,51,88.08,32.32,1,Netherlands vs Mexico
-877,Netherlands,2,58,116.88,72.4,0,Netherlands vs Mexico
-878,Mexico,2,59,92.88000000000001,67.67999999999999,1,Netherlands vs Mexico
-879,Mexico,2,59,104.64,67.84,1,Netherlands vs Mexico
-880,Mexico,2,59,99.11999999999999,78.0,0,Netherlands vs Mexico
-881,Netherlands,2,60,96.24,27.04,1,Netherlands vs Mexico
-882,Netherlands,2,61,98.39999999999999,9.36,1,Netherlands vs Mexico
-883,Netherlands,2,62,95.52,14.719999999999999,1,Netherlands vs Mexico
-884,Netherlands,2,63,80.04,15.840000000000002,1,Netherlands vs Mexico
-885,Mexico,2,65,76.08,36.4,1,Netherlands vs Mexico
-886,Netherlands,2,67,108.0,16.48,1,Netherlands vs Mexico
-887,Mexico,2,70,102.84,66.08,1,Netherlands vs Mexico
-888,Netherlands,2,71,35.04,66.48,1,Netherlands vs Mexico
-889,Netherlands,2,73,103.68,22.880000000000003,1,Netherlands vs Mexico
-890,Mexico,2,78,96.6,28.8,1,Netherlands vs Mexico
-891,Mexico,2,78,91.44,33.839999999999996,1,Netherlands vs Mexico
-892,Mexico,2,80,111.24,7.040000000000001,1,Netherlands vs Mexico
-893,Mexico,2,85,95.28,8.08,0,Netherlands vs Mexico
-894,Netherlands,2,89,86.39999999999999,20.32,0,Netherlands vs Mexico
-895,Netherlands,2,90,96.48,62.32000000000001,1,Netherlands vs Mexico
-896,Netherlands,2,91,115.44,21.28,1,Netherlands vs Mexico
-897,Costa Rica,1,6,79.8,26.400000000000002,0,Costa Rica vs Greece
-898,Greece,1,7,104.39999999999999,74.8,0,Costa Rica vs Greece
-899,Costa Rica,1,11,67.92,6.720000000000001,0,Costa Rica vs Greece
-900,Greece,1,11,87.0,70.56,1,Costa Rica vs Greece
-901,Greece,1,16,49.68,64.0,1,Costa Rica vs Greece
-902,Costa Rica,1,20,107.88000000000001,11.36,1,Costa Rica vs Greece
-903,Costa Rica,1,23,90.24,8.32,0,Costa Rica vs Greece
-904,Greece,1,28,47.279999999999994,60.64,1,Costa Rica vs Greece
-905,Greece,1,30,83.52,12.64,1,Costa Rica vs Greece
-906,Costa Rica,1,31,77.75999999999999,71.60000000000001,0,Costa Rica vs Greece
-907,Costa Rica,1,41,69.12,34.32,1,Costa Rica vs Greece
-908,Costa Rica,1,43,116.64,11.36,0,Costa Rica vs Greece
-909,Greece,2,48,94.32,77.12,0,Costa Rica vs Greece
-910,Costa Rica,2,51,65.04,39.44,1,Costa Rica vs Greece
-911,Greece,2,53,79.2,76.96000000000001,0,Costa Rica vs Greece
-912,Greece,2,54,27.84,4.08,1,Costa Rica vs Greece
-913,Greece,2,56,65.75999999999999,73.60000000000001,0,Costa Rica vs Greece
-914,Greece,2,70,94.91999999999999,58.08,1,Costa Rica vs Greece
-915,Greece,2,70,47.64,69.52000000000001,1,Costa Rica vs Greece
-916,Greece,2,78,84.71999999999998,38.64,1,Costa Rica vs Greece
-917,Greece,2,83,84.48,10.72,1,Costa Rica vs Greece
-918,Costa Rica,2,85,84.11999999999999,3.7600000000000002,1,Costa Rica vs Greece
-919,Costa Rica,2,85,99.6,63.760000000000005,1,Costa Rica vs Greece
-920,Costa Rica,2,86,115.08,74.0,1,Costa Rica vs Greece
-921,Greece,2,86,111.71999999999998,13.440000000000001,1,Costa Rica vs Greece
-922,Costa Rica,2,87,88.32,3.3600000000000003,0,Costa Rica vs Greece
-923,Greece,2,88,82.32,67.92,0,Costa Rica vs Greece
-924,Greece,2,89,74.28,9.600000000000001,0,Costa Rica vs Greece
-925,Greece,3,90,94.2,10.72,0,Costa Rica vs Greece
-926,Greece,3,95,77.04,11.36,1,Costa Rica vs Greece
-927,Greece,3,95,90.48,22.72,1,Costa Rica vs Greece
-928,Greece,3,95,84.71999999999998,67.04,1,Costa Rica vs Greece
-929,Greece,3,95,94.55999999999999,63.92000000000001,0,Costa Rica vs Greece
-930,Greece,3,99,101.28,52.96000000000001,1,Costa Rica vs Greece
-931,Greece,3,99,107.52,52.32000000000001,0,Costa Rica vs Greece
-932,Costa Rica,3,101,106.2,13.600000000000001,0,Costa Rica vs Greece
-933,Greece,4,109,89.04,6.720000000000001,1,Costa Rica vs Greece
-934,Greece,4,109,112.55999999999999,11.68,1,Costa Rica vs Greece
-935,Costa Rica,4,111,74.28,7.5200000000000005,1,Costa Rica vs Greece
-936,Costa Rica,4,111,109.68,10.72,1,Costa Rica vs Greece
-937,Greece,4,113,87.6,4.4,1,Costa Rica vs Greece
-938,Greece,4,115,91.44,62.0,0,Costa Rica vs Greece
-939,Greece,4,119,85.91999999999999,72.8,1,Costa Rica vs Greece
-940,Greece,4,119,111.11999999999999,76.16000000000001,0,Costa Rica vs Greece
-941,Germany,1,5,72.47999999999999,68.08,1,Germany vs Algeria
-942,Germany,1,8,90.0,10.56,0,Germany vs Algeria
-943,Algeria,1,10,86.75999999999999,38.24,0,Germany vs Algeria
-944,Algeria,1,13,111.84,20.560000000000002,1,Germany vs Algeria
-945,Germany,1,23,73.2,24.880000000000003,1,Germany vs Algeria
-946,Germany,1,28,75.12,78.56,0,Germany vs Algeria
-947,Algeria,1,29,73.44,1.92,0,Germany vs Algeria
-948,Algeria,1,29,76.8,76.56,0,Germany vs Algeria
-949,Germany,1,30,92.64,13.600000000000001,1,Germany vs Algeria
-950,Germany,1,40,81.84,55.2,1,Germany vs Algeria
-951,Germany,2,48,107.28,64.32000000000001,1,Germany vs Algeria
-952,Germany,2,48,107.39999999999999,60.160000000000004,1,Germany vs Algeria
-953,Algeria,2,48,97.91999999999999,25.12,0,Germany vs Algeria
-954,Germany,2,54,88.91999999999999,57.92000000000001,0,Germany vs Algeria
-955,Germany,2,55,86.88000000000001,19.680000000000003,0,Germany vs Algeria
-956,Algeria,2,56,53.52,65.67999999999999,1,Germany vs Algeria
-957,Germany,2,59,95.39999999999999,4.720000000000001,1,Germany vs Algeria
-958,Algeria,2,64,43.68,52.08,1,Germany vs Algeria
-959,Algeria,2,66,30.24,77.28,0,Germany vs Algeria
-960,Algeria,2,72,33.12,22.400000000000002,1,Germany vs Algeria
-961,Germany,2,73,56.04,62.56,0,Germany vs Algeria
-962,Germany,2,78,92.39999999999999,13.12,1,Germany vs Algeria
-963,Germany,2,78,112.8,14.56,1,Germany vs Algeria
-964,Germany,2,81,109.2,32.480000000000004,1,Germany vs Algeria
-965,Algeria,2,81,82.55999999999999,72.88,1,Germany vs Algeria
-966,Algeria,3,90,45.6,63.04,0,Germany vs Algeria
-967,Algeria,3,91,47.04,5.44,0,Germany vs Algeria
-968,Germany,3,93,44.04,34.72,1,Germany vs Algeria
-969,Algeria,3,93,114.24,4.32,1,Germany vs Algeria
-970,Germany,3,95,108.48,54.720000000000006,0,Germany vs Algeria
-971,Germany,3,98,91.91999999999999,57.84,1,Germany vs Algeria
-972,Algeria,3,99,68.64,52.879999999999995,0,Germany vs Algeria
-973,Algeria,3,100,89.39999999999999,70.72000000000001,1,Germany vs Algeria
-974,Algeria,3,100,99.36,68.64,1,Germany vs Algeria
-975,Germany,3,102,109.91999999999999,61.68,0,Germany vs Algeria
-976,Germany,3,103,95.88000000000001,63.52000000000001,1,Germany vs Algeria
-977,Algeria,3,103,49.199999999999996,77.44,0,Germany vs Algeria
-978,Algeria,3,104,83.04,74.4,0,Germany vs Algeria
-979,Algeria,3,105,81.84,24.560000000000002,0,Germany vs Algeria
-980,Algeria,4,106,89.28,73.28,0,Germany vs Algeria
-981,Algeria,4,106,87.11999999999999,57.120000000000005,1,Germany vs Algeria
-982,Germany,4,112,70.2,74.64,1,Germany vs Algeria
-983,Germany,4,112,78.36,79.12,0,Germany vs Algeria
-984,Germany,4,113,114.48,57.120000000000005,0,Germany vs Algeria
-985,Germany,4,117,116.28,25.44,1,Germany vs Algeria
-986,Algeria,4,117,40.559999999999995,51.36000000000001,0,Germany vs Algeria
-987,Switzerland,1,2,74.64,75.04,0,Argentina vs Switzerland
-988,Argentina,1,5,79.44,76.32000000000001,1,Argentina vs Switzerland
-989,Switzerland,1,7,35.52,74.88,1,Argentina vs Switzerland
-990,Switzerland,1,7,93.6,68.32000000000001,1,Argentina vs Switzerland
-991,Switzerland,1,8,86.39999999999999,64.16000000000001,1,Argentina vs Switzerland
-992,Argentina,1,14,79.2,76.4,1,Argentina vs Switzerland
-993,Switzerland,1,18,24.24,73.52000000000001,1,Argentina vs Switzerland
-994,Argentina,1,19,101.04,5.04,1,Argentina vs Switzerland
-995,Argentina,1,19,107.64,11.520000000000001,0,Argentina vs Switzerland
-996,Argentina,1,20,41.52,76.96000000000001,0,Argentina vs Switzerland
-997,Switzerland,1,26,115.19999999999999,9.920000000000002,0,Argentina vs Switzerland
-998,Switzerland,1,27,113.52,17.919999999999998,1,Argentina vs Switzerland
-999,Switzerland,1,27,44.879999999999995,49.04,1,Argentina vs Switzerland
-1000,Switzerland,1,30,30.24,44.64,1,Argentina vs Switzerland
-1001,Switzerland,1,30,36.0,42.480000000000004,1,Argentina vs Switzerland
-1002,Argentina,1,35,51.6,75.84,1,Argentina vs Switzerland
-1003,Argentina,1,37,109.44,12.16,0,Argentina vs Switzerland
-1004,Argentina,1,37,103.44,74.56,1,Argentina vs Switzerland
-1005,Switzerland,1,44,113.04,66.48,0,Argentina vs Switzerland
-1006,Argentina,2,51,88.08,33.6,1,Argentina vs Switzerland
-1007,Switzerland,2,56,32.279999999999994,74.24,1,Argentina vs Switzerland
-1008,Switzerland,2,57,75.36,60.96000000000001,1,Argentina vs Switzerland
-1009,Argentina,2,59,105.24,8.32,1,Argentina vs Switzerland
-1010,Switzerland,2,62,34.32,76.96000000000001,1,Argentina vs Switzerland
-1011,Switzerland,2,62,43.440000000000005,77.84,0,Argentina vs Switzerland
-1012,Switzerland,2,62,70.32,52.32000000000001,1,Argentina vs Switzerland
-1013,Argentina,2,63,87.36,42.24,0,Argentina vs Switzerland
-1014,Argentina,2,64,109.91999999999999,5.44,1,Argentina vs Switzerland
-1015,Argentina,2,66,84.71999999999998,75.36,1,Argentina vs Switzerland
-1016,Switzerland,2,66,32.16,26.960000000000004,0,Argentina vs Switzerland
-1017,Switzerland,2,67,68.88,49.120000000000005,1,Argentina vs Switzerland
-1018,Switzerland,2,67,86.16,73.67999999999999,0,Argentina vs Switzerland
-1019,Switzerland,2,68,99.36,38.080000000000005,0,Argentina vs Switzerland
-1020,Argentina,2,69,76.32,69.28,1,Argentina vs Switzerland
-1021,Argentina,2,69,85.44,56.160000000000004,0,Argentina vs Switzerland
-1022,Switzerland,2,72,114.24,74.56,1,Argentina vs Switzerland
-1023,Argentina,2,77,98.88000000000001,44.480000000000004,1,Argentina vs Switzerland
-1024,Switzerland,2,79,35.279999999999994,64.32000000000001,0,Argentina vs Switzerland
-1025,Argentina,2,80,96.96,29.12,0,Argentina vs Switzerland
-1026,Argentina,2,81,74.04,27.12,0,Argentina vs Switzerland
-1027,Argentina,2,83,107.75999999999999,66.8,1,Argentina vs Switzerland
-1028,Argentina,2,85,75.6,55.68,1,Argentina vs Switzerland
-1029,Switzerland,2,85,76.08,5.28,0,Argentina vs Switzerland
-1030,Switzerland,2,87,112.55999999999999,8.24,0,Argentina vs Switzerland
-1031,Argentina,2,87,41.52,69.12,0,Argentina vs Switzerland
-1032,Argentina,2,88,76.08,76.80000000000001,1,Argentina vs Switzerland
-1033,Argentina,2,88,81.36,74.0,1,Argentina vs Switzerland
-1034,Argentina,2,90,56.879999999999995,8.0,0,Argentina vs Switzerland
-1035,Switzerland,2,92,50.16,27.200000000000003,0,Argentina vs Switzerland
-1036,Switzerland,3,98,45.48,3.6799999999999997,1,Argentina vs Switzerland
-1037,Switzerland,3,103,107.28,61.36000000000001,0,Argentina vs Switzerland
-1038,Argentina,3,103,71.28,6.24,0,Argentina vs Switzerland
-1039,Switzerland,3,104,34.92,75.04,1,Argentina vs Switzerland
-1040,Argentina,3,106,66.72,75.36,1,Argentina vs Switzerland
-1041,Argentina,4,110,86.16,9.440000000000001,1,Argentina vs Switzerland
-1042,Argentina,4,110,99.11999999999999,53.28,1,Argentina vs Switzerland
-1043,Argentina,4,111,90.11999999999999,16.48,1,Argentina vs Switzerland
-1044,Argentina,4,113,91.44,5.04,0,Argentina vs Switzerland
-1045,Switzerland,4,113,33.96,77.52000000000001,0,Argentina vs Switzerland
-1046,Switzerland,4,114,76.32,28.8,1,Argentina vs Switzerland
-1047,Switzerland,4,115,84.48,65.92,0,Argentina vs Switzerland
-1048,Switzerland,4,115,83.75999999999999,73.12,1,Argentina vs Switzerland
-1049,Argentina,4,117,81.6,49.6,1,Argentina vs Switzerland
-1050,Switzerland,4,119,76.44,76.16000000000001,1,Argentina vs Switzerland
-1051,Switzerland,4,121,67.2,8.4,1,Argentina vs Switzerland
-1052,Argentina,4,122,51.0,59.6,1,Argentina vs Switzerland
-1053,Belgium,1,2,81.11999999999999,2.8000000000000003,0,Belgium vs USA
-1054,USA,1,5,47.52,66.08,1,Belgium vs USA
-1055,USA,1,11,64.8,75.36,1,Belgium vs USA
-1056,USA,1,11,82.32,76.0,0,Belgium vs USA
-1057,USA,1,12,76.2,72.24,1,Belgium vs USA
-1058,Belgium,1,12,27.0,72.4,1,Belgium vs USA
-1059,Belgium,1,12,69.12,65.28,0,Belgium vs USA
-1060,USA,1,14,57.84,73.44,0,Belgium vs USA
-1061,Belgium,1,16,70.2,70.88,1,Belgium vs USA
-1062,Belgium,1,17,88.2,57.28,1,Belgium vs USA
-1063,Belgium,1,18,94.55999999999999,2.5600000000000005,0,Belgium vs USA
-1064,USA,1,19,112.68,66.56,0,Belgium vs USA
-1065,Belgium,1,19,51.84,10.88,1,Belgium vs USA
-1066,USA,1,19,43.92,63.04,1,Belgium vs USA
-1067,USA,1,20,59.75999999999999,74.32000000000001,1,Belgium vs USA
-1068,USA,1,20,103.55999999999999,46.400000000000006,0,Belgium vs USA
-1069,Belgium,1,20,83.64,60.879999999999995,1,Belgium vs USA
-1070,USA,1,22,62.4,42.72,0,Belgium vs USA
-1071,Belgium,1,23,104.28,5.5200000000000005,0,Belgium vs USA
-1072,USA,1,24,88.08,75.44,0,Belgium vs USA
-1073,USA,1,32,106.8,15.52,1,Belgium vs USA
-1074,USA,1,35,90.48,60.0,1,Belgium vs USA
-1075,Belgium,1,35,47.16,3.3600000000000003,1,Belgium vs USA
-1076,Belgium,1,35,105.11999999999999,11.68,0,Belgium vs USA
-1077,Belgium,1,37,87.48,33.52,0,Belgium vs USA
-1078,USA,1,40,105.6,58.48,0,Belgium vs USA
-1079,Belgium,1,43,92.16,9.68,0,Belgium vs USA
-1080,USA,1,44,105.6,15.52,1,Belgium vs USA
-1081,USA,1,44,86.52,40.96000000000001,1,Belgium vs USA
-1082,Belgium,1,45,48.72,6.48,1,Belgium vs USA
-1083,Belgium,1,46,107.28,61.36000000000001,0,Belgium vs USA
-1084,USA,2,46,91.44,23.36,0,Belgium vs USA
-1085,Belgium,2,51,87.6,58.48,0,Belgium vs USA
-1086,USA,2,51,39.35999999999999,65.52000000000001,1,Belgium vs USA
-1087,Belgium,2,56,41.64,68.48,1,Belgium vs USA
-1088,Belgium,2,59,110.16,66.08,1,Belgium vs USA
-1089,Belgium,2,59,113.28,56.96000000000001,1,Belgium vs USA
-1090,Belgium,2,61,84.11999999999999,13.52,0,Belgium vs USA
-1091,USA,2,62,108.71999999999998,19.12,0,Belgium vs USA
-1092,Belgium,2,64,97.8,7.040000000000001,0,Belgium vs USA
-1093,USA,2,70,104.64,6.24,0,Belgium vs USA
-1094,Belgium,2,70,79.68,10.4,1,Belgium vs USA
-1095,Belgium,2,70,84.48,21.12,1,Belgium vs USA
-1096,Belgium,2,70,91.8,31.84,0,Belgium vs USA
-1097,Belgium,2,71,106.55999999999999,14.8,0,Belgium vs USA
-1098,USA,2,73,53.64,8.959999999999999,1,Belgium vs USA
-1099,Belgium,2,74,49.559999999999995,66.64,0,Belgium vs USA
-1100,Belgium,2,74,82.55999999999999,16.96,0,Belgium vs USA
-1101,USA,2,75,88.08,11.840000000000002,0,Belgium vs USA
-1102,Belgium,2,75,76.55999999999999,46.080000000000005,1,Belgium vs USA
-1103,Belgium,2,78,103.91999999999999,3.6799999999999997,1,Belgium vs USA
-1104,USA,2,79,51.12,29.760000000000005,1,Belgium vs USA
-1105,Belgium,2,79,84.84,20.0,0,Belgium vs USA
-1106,Belgium,2,81,39.12,76.48,0,Belgium vs USA
-1107,Belgium,2,81,102.96,4.960000000000001,1,Belgium vs USA
-1108,Belgium,2,81,110.64,18.240000000000002,0,Belgium vs USA
-1109,Belgium,2,85,89.04,60.800000000000004,0,Belgium vs USA
-1110,Belgium,2,86,53.16,2.72,0,Belgium vs USA
-1111,Belgium,2,88,82.2,76.72000000000001,1,Belgium vs USA
-1112,USA,2,88,92.04,58.56,0,Belgium vs USA
-1113,USA,2,93,106.32,74.48,0,Belgium vs USA
-1114,USA,3,91,86.28,41.28,0,Belgium vs USA
-1115,USA,3,91,89.04,30.960000000000004,0,Belgium vs USA
-1116,Belgium,3,91,84.71999999999998,4.5600000000000005,1,Belgium vs USA
-1117,USA,3,94,108.96,8.56,1,Belgium vs USA
-1118,USA,3,98,65.52,50.64,1,Belgium vs USA
-1119,USA,3,99,90.48,50.160000000000004,1,Belgium vs USA
-1120,USA,3,107,47.76,1.92,0,Belgium vs USA
-1121,USA,4,105,81.6,9.440000000000001,1,Belgium vs USA
-1122,Belgium,4,107,87.24,16.64,1,Belgium vs USA
-1123,Belgium,4,108,94.68,6.4,0,Belgium vs USA
-1124,Belgium,4,110,87.0,50.64,1,Belgium vs USA
-1125,USA,4,111,50.4,75.52000000000001,0,Belgium vs USA
-1126,Belgium,4,113,44.76,64.64,0,Belgium vs USA
-1127,USA,4,113,98.64,34.56,0,Belgium vs USA
-1128,USA,4,114,74.04,67.36,1,Belgium vs USA
-1129,USA,4,114,45.6,3.5200000000000005,0,Belgium vs USA
-1130,Belgium,4,117,113.52,5.920000000000001,0,Belgium vs USA
-1131,Belgium,4,119,82.08,8.48,0,Belgium vs USA
-1132,Brazil,1,1,113.28,8.48,0,Brazil vs Colombia
-1133,Colombia,1,2,21.479999999999997,77.76,0,Brazil vs Colombia
-1134,Brazil,1,5,106.91999999999999,65.92,0,Brazil vs Colombia
-1135,Brazil,1,11,39.12,44.24,1,Brazil vs Colombia
-1136,Brazil,1,15,74.16,3.6799999999999997,1,Brazil vs Colombia
-1137,Brazil,1,16,104.64,55.28,1,Brazil vs Colombia
-1138,Brazil,1,19,105.96,68.48,0,Brazil vs Colombia
-1139,Colombia,1,20,99.96,4.16,0,Brazil vs Colombia
-1140,Brazil,1,21,87.36,48.0,0,Brazil vs Colombia
-1141,Colombia,1,21,42.72,47.52,1,Brazil vs Colombia
-1142,Colombia,1,21,57.84,52.0,1,Brazil vs Colombia
-1143,Colombia,1,23,65.16,43.84,1,Brazil vs Colombia
-1144,Brazil,1,24,99.11999999999999,26.560000000000002,1,Brazil vs Colombia
-1145,Brazil,1,24,104.88000000000001,32.96,0,Brazil vs Colombia
-1146,Colombia,1,28,82.32,40.64,1,Brazil vs Colombia
-1147,Brazil,1,29,42.959999999999994,3.84,1,Brazil vs Colombia
-1148,Brazil,1,29,54.72,1.6800000000000002,0,Brazil vs Colombia
-1149,Brazil,1,30,75.36,7.359999999999999,0,Brazil vs Colombia
-1150,Brazil,1,30,83.52,10.72,1,Brazil vs Colombia
-1151,Brazil,1,30,111.11999999999999,15.200000000000001,0,Brazil vs Colombia
-1152,Colombia,1,30,47.64,78.24000000000001,0,Brazil vs Colombia
-1153,Brazil,1,30,91.2,35.36000000000001,0,Brazil vs Colombia
-1154,Brazil,1,31,67.92,18.400000000000002,1,Brazil vs Colombia
-1155,Colombia,1,34,77.16,71.92,1,Brazil vs Colombia
-1156,Brazil,1,37,50.64,47.2,1,Brazil vs Colombia
-1157,Brazil,1,38,106.2,57.2,1,Brazil vs Colombia
-1158,Brazil,1,39,93.48,69.2,0,Brazil vs Colombia
-1159,Brazil,1,40,30.72,78.48,1,Brazil vs Colombia
-1160,Brazil,2,46,78.0,61.2,1,Brazil vs Colombia
-1161,Brazil,2,46,84.0,39.84,0,Brazil vs Colombia
-1162,Colombia,2,47,87.96,73.44,0,Brazil vs Colombia
-1163,Colombia,2,49,87.11999999999999,36.64,1,Brazil vs Colombia
-1164,Brazil,2,50,83.28,22.0,1,Brazil vs Colombia
-1165,Brazil,2,52,110.88000000000001,65.04,1,Brazil vs Colombia
-1166,Brazil,2,56,71.75999999999999,6.720000000000001,1,Brazil vs Colombia
-1167,Colombia,2,59,54.0,17.12,1,Brazil vs Colombia
-1168,Colombia,2,59,81.6,36.080000000000005,0,Brazil vs Colombia
-1169,Colombia,2,59,92.16,76.32000000000001,0,Brazil vs Colombia
-1170,Brazil,2,64,88.55999999999999,42.56,0,Brazil vs Colombia
-1171,Colombia,2,64,76.55999999999999,18.96,1,Brazil vs Colombia
-1172,Colombia,2,71,97.68,25.12,0,Brazil vs Colombia
-1173,Colombia,2,74,81.84,3.7600000000000002,0,Brazil vs Colombia
-1174,Colombia,2,75,78.48,13.600000000000001,0,Brazil vs Colombia
-1175,Brazil,2,76,96.36,56.48,0,Brazil vs Colombia
-1176,Colombia,2,76,82.8,63.04,0,Brazil vs Colombia
-1177,Colombia,2,80,82.08,40.96000000000001,1,Brazil vs Colombia
-1178,Brazil,2,81,71.88,42.400000000000006,0,Brazil vs Colombia
-1179,Colombia,2,83,71.04,54.24,1,Brazil vs Colombia
-1180,Colombia,2,84,87.84,17.84,0,Brazil vs Colombia
-1181,Colombia,2,88,83.88000000000001,60.0,1,Brazil vs Colombia
-1182,Colombia,2,89,104.52,13.840000000000002,0,Brazil vs Colombia
-1183,Brazil,2,91,89.64,62.879999999999995,1,Brazil vs Colombia
-1184,Germany,1,3,106.32,78.24000000000001,0,France vs Germany
-1185,France,1,8,60.72,8.0,0,France vs Germany
-1186,Germany,1,13,88.8,72.4,0,France vs Germany
-1187,France,1,14,111.71999999999998,15.680000000000001,0,France vs Germany
-1188,France,1,17,73.55999999999999,2.32,1,France vs Germany
-1189,France,1,17,77.04,11.520000000000001,1,France vs Germany
-1190,France,1,17,85.44,16.0,1,France vs Germany
-1191,France,1,17,87.36,25.28,1,France vs Germany
-1192,France,1,19,75.84,2.72,0,France vs Germany
-1193,France,1,20,50.879999999999995,70.8,1,France vs Germany
-1194,France,1,35,56.879999999999995,35.760000000000005,1,France vs Germany
-1195,France,1,43,46.32,24.16,1,France vs Germany
-1196,France,1,44,55.92,64.8,1,France vs Germany
-1197,France,1,44,110.88000000000001,5.44,0,France vs Germany
-1198,France,2,49,109.08,52.96000000000001,0,France vs Germany
-1199,France,2,53,47.04,61.6,1,France vs Germany
-1200,France,2,54,96.48,77.2,0,France vs Germany
-1201,France,2,57,96.48,21.92,0,France vs Germany
-1202,France,2,63,105.0,67.28,1,France vs Germany
-1203,Germany,2,70,70.44,4.4799999999999995,0,France vs Germany
-1204,France,2,72,96.48,13.76,1,France vs Germany
-1205,France,2,75,105.36,46.080000000000005,1,France vs Germany
-1206,France,2,75,101.64,64.8,1,France vs Germany
-1207,France,2,76,93.36,63.36000000000001,0,France vs Germany
-1208,Germany,2,76,55.92,23.52,1,France vs Germany
-1209,Germany,2,77,106.2,71.92,0,France vs Germany
-1210,Germany,2,79,92.64,24.32,0,France vs Germany
-1211,France,2,82,96.48,45.44,0,France vs Germany
-1212,Germany,2,84,107.16,13.92,0,France vs Germany
-1213,Germany,2,85,104.88000000000001,76.88,0,France vs Germany
-1214,France,2,85,29.04,1.1199999999999999,0,France vs Germany
-1215,Germany,2,86,91.2,6.56,1,France vs Germany
-1216,France,2,87,26.279999999999998,60.64,1,France vs Germany
-1217,France,2,87,32.16,58.160000000000004,1,France vs Germany
-1218,Germany,2,90,86.39999999999999,73.44,0,France vs Germany
-1219,Netherlands,1,5,88.44,70.08,0,Netherlands vs Costa Rica
-1220,Netherlands,1,5,85.8,63.52000000000001,0,Netherlands vs Costa Rica
-1221,Costa Rica,1,5,74.28,2.8800000000000003,1,Netherlands vs Costa Rica
-1222,Netherlands,1,7,87.36,8.64,1,Netherlands vs Costa Rica
-1223,Costa Rica,1,10,78.96,2.16,1,Netherlands vs Costa Rica
-1224,Netherlands,1,11,98.52,59.44,0,Netherlands vs Costa Rica
-1225,Netherlands,1,18,51.84,72.24,1,Netherlands vs Costa Rica
-1226,Costa Rica,1,20,106.91999999999999,7.5200000000000005,0,Netherlands vs Costa Rica
-1227,Netherlands,1,20,80.64,57.760000000000005,1,Netherlands vs Costa Rica
-1228,Netherlands,1,22,87.0,17.84,1,Netherlands vs Costa Rica
-1229,Costa Rica,1,22,82.68,16.880000000000003,1,Netherlands vs Costa Rica
-1230,Netherlands,1,34,70.8,16.96,1,Netherlands vs Costa Rica
-1231,Netherlands,1,41,82.44,47.36000000000001,1,Netherlands vs Costa Rica
-1232,Costa Rica,1,42,79.44,2.64,1,Netherlands vs Costa Rica
-1233,Costa Rica,1,43,82.8,2.2399999999999998,0,Netherlands vs Costa Rica
-1234,Netherlands,1,44,71.39999999999999,3.3600000000000003,1,Netherlands vs Costa Rica
-1235,Netherlands,1,44,70.32,6.720000000000001,0,Netherlands vs Costa Rica
-1236,Netherlands,1,44,91.68,37.6,0,Netherlands vs Costa Rica
-1237,Netherlands,1,44,104.28,9.840000000000002,1,Netherlands vs Costa Rica
-1238,Netherlands,1,44,107.75999999999999,10.56,0,Netherlands vs Costa Rica
-1239,Netherlands,2,48,93.48,60.160000000000004,0,Netherlands vs Costa Rica
-1240,Netherlands,2,48,96.48,57.28,0,Netherlands vs Costa Rica
-1241,Netherlands,2,58,84.48,77.44,1,Netherlands vs Costa Rica
-1242,Netherlands,2,72,85.8,7.68,1,Netherlands vs Costa Rica
-1243,Netherlands,2,73,104.75999999999999,68.08,0,Netherlands vs Costa Rica
-1244,Netherlands,2,76,101.88000000000001,7.840000000000001,1,Netherlands vs Costa Rica
-1245,Netherlands,2,76,111.11999999999999,20.64,0,Netherlands vs Costa Rica
-1246,Netherlands,2,82,105.6,19.200000000000003,0,Netherlands vs Costa Rica
-1247,Netherlands,2,83,109.55999999999999,23.200000000000003,1,Netherlands vs Costa Rica
-1248,Costa Rica,2,85,83.04,32.800000000000004,0,Netherlands vs Costa Rica
-1249,Netherlands,2,86,73.67999999999999,75.36,1,Netherlands vs Costa Rica
-1250,Netherlands,2,89,88.55999999999999,14.080000000000002,1,Netherlands vs Costa Rica
-1251,Costa Rica,2,93,63.599999999999994,48.88,0,Netherlands vs Costa Rica
-1252,Netherlands,4,106,96.24,3.28,1,Netherlands vs Costa Rica
-1253,Costa Rica,4,112,107.52,19.840000000000003,1,Netherlands vs Costa Rica
-1254,Costa Rica,4,114,105.0,28.64,0,Netherlands vs Costa Rica
-1255,Costa Rica,4,116,92.88000000000001,38.0,1,Netherlands vs Costa Rica
-1256,Costa Rica,4,116,97.44,35.36000000000001,0,Netherlands vs Costa Rica
-1257,Costa Rica,4,118,78.6,8.32,0,Netherlands vs Costa Rica
-1258,Argentina,1,3,88.8,4.08,1,Argentina vs Belgium
-1259,Belgium,1,4,113.75999999999999,3.7600000000000002,0,Argentina vs Belgium
-1260,Belgium,1,7,41.04,51.6,1,Argentina vs Belgium
-1261,Belgium,1,14,101.75999999999999,3.5200000000000005,1,Argentina vs Belgium
-1262,Belgium,1,16,69.36,76.96000000000001,1,Argentina vs Belgium
-1263,Belgium,1,16,86.64,74.72000000000001,1,Argentina vs Belgium
-1264,Belgium,1,20,53.4,74.08,1,Argentina vs Belgium
-1265,Argentina,1,20,44.04,16.64,1,Argentina vs Belgium
-1266,Belgium,1,23,79.55999999999999,28.880000000000003,1,Argentina vs Belgium
-1267,Argentina,1,38,93.84,44.96000000000001,1,Argentina vs Belgium
-1268,Argentina,1,38,91.44,41.92,1,Argentina vs Belgium
-1269,Argentina,1,40,79.32,38.480000000000004,0,Argentina vs Belgium
-1270,Argentina,1,44,55.68,47.36000000000001,1,Argentina vs Belgium
-1271,Argentina,2,51,105.6,66.0,1,Argentina vs Belgium
-1272,Argentina,2,54,85.68,22.400000000000002,1,Argentina vs Belgium
-1273,Argentina,2,58,84.71999999999998,56.24,1,Argentina vs Belgium
-1274,Argentina,2,58,96.24,38.24,0,Argentina vs Belgium
-1275,Belgium,2,63,42.12,5.44,0,Argentina vs Belgium
-1276,Argentina,2,63,68.39999999999999,2.72,1,Argentina vs Belgium
-1277,Argentina,2,65,90.6,17.2,0,Argentina vs Belgium
-1278,Belgium,2,73,86.64,7.68,0,Argentina vs Belgium
-1279,Belgium,2,74,89.39999999999999,72.64,1,Argentina vs Belgium
-1280,Argentina,2,77,50.879999999999995,76.4,0,Argentina vs Belgium
-1281,Argentina,2,79,101.75999999999999,2.8000000000000003,1,Argentina vs Belgium
-1282,Argentina,2,79,117.11999999999999,14.480000000000002,0,Argentina vs Belgium
-1283,Argentina,2,79,85.8,4.4799999999999995,0,Argentina vs Belgium
-1284,Belgium,2,79,39.6,53.2,1,Argentina vs Belgium
-1285,Argentina,2,80,71.52,53.120000000000005,1,Argentina vs Belgium
-1286,Argentina,2,80,80.75999999999999,50.64,0,Argentina vs Belgium
-1287,Belgium,2,91,63.24,76.48,1,Argentina vs Belgium
-1288,Brazil,1,1,79.44,12.56,1,Brazil vs Germany
-1289,Brazil,1,5,53.52,25.52,0,Brazil vs Germany
-1290,Brazil,1,6,65.04,34.480000000000004,0,Brazil vs Germany
-1291,Germany,1,6,57.24,33.839999999999996,1,Brazil vs Germany
-1292,Germany,1,9,66.47999999999999,7.359999999999999,1,Brazil vs Germany
-1293,Brazil,1,12,29.04,58.56,1,Brazil vs Germany
-1294,Brazil,1,13,41.76,53.44,1,Brazil vs Germany
-1295,Brazil,1,13,54.48,51.28,1,Brazil vs Germany
-1296,Brazil,1,16,108.96,57.04,0,Brazil vs Germany
-1297,Brazil,1,18,81.0,78.16000000000001,0,Brazil vs Germany
-1298,Germany,1,19,91.8,76.80000000000001,0,Brazil vs Germany
-1299,Germany,1,21,111.11999999999999,14.080000000000002,1,Brazil vs Germany
-1300,Brazil,1,27,81.6,11.920000000000002,1,Brazil vs Germany
-1301,Brazil,1,27,106.91999999999999,6.08,0,Brazil vs Germany
-1302,Brazil,1,27,110.28,13.92,0,Brazil vs Germany
-1303,Germany,1,28,70.55999999999999,41.28,1,Brazil vs Germany
-1304,Germany,1,30,41.279999999999994,70.64,1,Brazil vs Germany
-1305,Germany,1,33,97.44,0.96,0,Brazil vs Germany
-1306,Germany,1,34,80.04,27.52,1,Brazil vs Germany
-1307,Germany,1,39,41.76,59.84,1,Brazil vs Germany
-1308,Brazil,1,40,102.71999999999998,63.84,0,Brazil vs Germany
-1309,Germany,1,40,27.720000000000002,3.6799999999999997,1,Brazil vs Germany
-1310,Brazil,1,41,101.75999999999999,59.2,0,Brazil vs Germany
-1311,Brazil,1,43,85.08,41.120000000000005,1,Brazil vs Germany
-1312,Brazil,1,43,89.28,47.92,0,Brazil vs Germany
-1313,Germany,2,50,47.52,78.4,0,Brazil vs Germany
-1314,Brazil,2,51,86.88000000000001,66.0,1,Brazil vs Germany
-1315,Brazil,2,52,111.36,66.24,1,Brazil vs Germany
-1316,Brazil,2,52,114.11999999999999,56.64,0,Brazil vs Germany
-1317,Brazil,2,53,98.39999999999999,74.32000000000001,1,Brazil vs Germany
-1318,Germany,2,58,54.48,47.84,0,Brazil vs Germany
-1319,Germany,2,59,98.52,36.480000000000004,1,Brazil vs Germany
-1320,Germany,2,59,107.88000000000001,46.56,0,Brazil vs Germany
-1321,Brazil,2,73,98.64,21.76,1,Brazil vs Germany
-1322,Germany,2,74,76.32,3.5200000000000005,1,Brazil vs Germany
-1323,Brazil,2,75,32.76,52.800000000000004,1,Brazil vs Germany
-1324,Brazil,2,89,104.52,48.400000000000006,1,Brazil vs Germany
-1325,Brazil,2,91,110.16,62.48,0,Brazil vs Germany
-1326,Argentina,1,1,68.39999999999999,74.56,0,Netherlands vs Argentina
-1327,Argentina,1,2,82.32,47.04,1,Netherlands vs Argentina
-1328,Argentina,1,8,76.2,22.16,1,Netherlands vs Argentina
-1329,Argentina,1,9,89.28,17.84,1,Netherlands vs Argentina
-1330,Netherlands,1,9,70.67999999999999,3.3600000000000003,0,Netherlands vs Argentina
-1331,Argentina,1,14,49.559999999999995,4.5600000000000005,1,Netherlands vs Argentina
-1332,Argentina,1,14,70.92,3.28,1,Netherlands vs Argentina
-1333,Argentina,1,22,108.71999999999998,19.36,1,Netherlands vs Argentina
-1334,Netherlands,1,24,11.52,23.680000000000003,1,Netherlands vs Argentina
-1335,Argentina,1,29,66.47999999999999,4.4799999999999995,0,Netherlands vs Argentina
-1336,Netherlands,1,30,98.04,70.24,0,Netherlands vs Argentina
-1337,Netherlands,1,32,86.88000000000001,27.84,0,Netherlands vs Argentina
-1338,Argentina,1,40,96.71999999999998,3.84,0,Netherlands vs Argentina
-1339,Netherlands,1,42,40.440000000000005,2.64,1,Netherlands vs Argentina
-1340,Argentina,1,43,77.52,2.08,1,Netherlands vs Argentina
-1341,Argentina,1,44,87.11999999999999,7.5200000000000005,1,Netherlands vs Argentina
-1342,Argentina,1,46,50.64,6.720000000000001,1,Netherlands vs Argentina
-1343,Argentina,1,46,116.28,3.44,0,Netherlands vs Argentina
-1344,Argentina,2,51,90.48,51.6,0,Netherlands vs Argentina
-1345,Netherlands,2,53,90.71999999999998,42.400000000000006,0,Netherlands vs Argentina
-1346,Argentina,2,54,66.36,19.200000000000003,1,Netherlands vs Argentina
-1347,Argentina,2,55,92.52,41.760000000000005,0,Netherlands vs Argentina
-1348,Netherlands,2,58,34.08,26.560000000000002,1,Netherlands vs Argentina
-1349,Argentina,2,66,62.64,45.6,0,Netherlands vs Argentina
-1350,Argentina,2,67,5.28,72.88,0,Netherlands vs Argentina
-1351,Netherlands,2,69,60.12,53.6,1,Netherlands vs Argentina
-1352,Argentina,2,71,86.52,14.240000000000002,0,Netherlands vs Argentina
-1353,Netherlands,2,76,65.28,67.28,1,Netherlands vs Argentina
-1354,Argentina,2,79,81.11999999999999,75.04,0,Netherlands vs Argentina
-1355,Netherlands,2,85,30.0,4.16,1,Netherlands vs Argentina
-1356,Netherlands,2,85,107.52,67.2,0,Netherlands vs Argentina
-1357,Argentina,2,86,82.68,40.400000000000006,1,Netherlands vs Argentina
-1358,Netherlands,2,86,6.84,73.67999999999999,1,Netherlands vs Argentina
-1359,Argentina,2,87,75.24,55.120000000000005,1,Netherlands vs Argentina
-1360,Netherlands,2,90,101.28,49.28,1,Netherlands vs Argentina
-1361,Netherlands,3,93,61.67999999999999,62.32000000000001,1,Netherlands vs Argentina
-1362,Netherlands,3,95,109.68,66.0,1,Netherlands vs Argentina
-1363,Netherlands,3,95,110.39999999999999,62.720000000000006,1,Netherlands vs Argentina
-1364,Netherlands,3,98,48.48,77.76,1,Netherlands vs Argentina
-1365,Argentina,3,100,76.44,33.36000000000001,1,Netherlands vs Argentina
-1366,Netherlands,3,102,89.16,62.08,0,Netherlands vs Argentina
-1367,Argentina,3,102,60.0,24.32,1,Netherlands vs Argentina
-1368,Argentina,3,105,106.68,12.16,1,Netherlands vs Argentina
-1369,Netherlands,4,105,9.12,26.080000000000002,1,Netherlands vs Argentina
-1370,Argentina,4,108,52.559999999999995,67.84,1,Netherlands vs Argentina
-1371,Argentina,4,112,91.08,3.6799999999999997,0,Netherlands vs Argentina
-1372,Argentina,4,116,81.6,23.680000000000003,0,Netherlands vs Argentina
-1373,Argentina,4,116,83.64,6.720000000000001,1,Netherlands vs Argentina
-1374,Argentina,4,116,109.2,10.08,1,Netherlands vs Argentina
-1375,Netherlands,4,116,88.08,78.72000000000001,0,Netherlands vs Argentina
-1376,Netherlands,4,118,108.48,65.60000000000001,0,Netherlands vs Argentina
-1377,Netherlands,4,119,88.08,4.960000000000001,0,Netherlands vs Argentina
-1378,Netherlands,4,120,90.24,24.0,1,Netherlands vs Argentina
-1379,Netherlands,1,7,67.2,27.04,1,Brazil vs Netherlands
-1380,Netherlands,1,10,79.68,59.760000000000005,1,Brazil vs Netherlands
-1381,Netherlands,1,10,90.24,49.2,1,Brazil vs Netherlands
-1382,Brazil,1,12,104.64,70.48,0,Brazil vs Netherlands
-1383,Brazil,1,13,67.67999999999999,63.760000000000005,0,Brazil vs Netherlands
-1384,Netherlands,1,15,91.44,47.36000000000001,0,Brazil vs Netherlands
-1385,Brazil,1,20,82.8,38.160000000000004,1,Brazil vs Netherlands
-1386,Brazil,1,22,88.32,21.36,1,Brazil vs Netherlands
-1387,Netherlands,1,23,76.08,11.920000000000002,1,Brazil vs Netherlands
-1388,Netherlands,1,23,80.39999999999999,13.280000000000001,1,Brazil vs Netherlands
-1389,Netherlands,1,23,87.71999999999998,10.96,1,Brazil vs Netherlands
-1390,Brazil,1,27,104.75999999999999,13.280000000000001,1,Brazil vs Netherlands
-1391,Netherlands,1,28,90.96,15.36,1,Brazil vs Netherlands
-1392,Brazil,1,30,42.72,76.32000000000001,1,Brazil vs Netherlands
-1393,Brazil,1,35,59.279999999999994,13.12,1,Brazil vs Netherlands
-1394,Brazil,1,45,67.08,16.96,0,Brazil vs Netherlands
-1395,Brazil,2,47,4.56,29.439999999999998,1,Brazil vs Netherlands
-1396,Brazil,2,48,68.39999999999999,56.96000000000001,1,Brazil vs Netherlands
-1397,Netherlands,2,48,53.16,58.720000000000006,1,Brazil vs Netherlands
-1398,Brazil,2,50,101.28,67.28,0,Brazil vs Netherlands
-1399,Netherlands,2,50,28.56,22.880000000000003,0,Brazil vs Netherlands
-1400,Brazil,2,50,91.91999999999999,21.92,0,Brazil vs Netherlands
-1401,Netherlands,2,52,51.6,44.72,1,Brazil vs Netherlands
-1402,Netherlands,2,52,64.8,42.080000000000005,0,Brazil vs Netherlands
-1403,Brazil,2,53,92.88000000000001,53.2,0,Brazil vs Netherlands
-1404,Netherlands,2,56,51.6,41.36000000000001,1,Brazil vs Netherlands
-1405,Netherlands,2,58,87.6,39.760000000000005,1,Brazil vs Netherlands
-1406,Brazil,2,59,92.39999999999999,37.760000000000005,1,Brazil vs Netherlands
-1407,Brazil,2,61,87.6,39.84,1,Brazil vs Netherlands
-1408,Netherlands,2,66,30.0,28.32,1,Brazil vs Netherlands
-1409,Brazil,2,70,56.16,68.48,0,Brazil vs Netherlands
-1410,Netherlands,2,70,65.64,21.6,1,Brazil vs Netherlands
-1411,Netherlands,2,71,102.24,27.680000000000003,0,Brazil vs Netherlands
-1412,Netherlands,2,73,83.52,39.2,0,Brazil vs Netherlands
-1413,Brazil,2,73,54.72,60.96000000000001,0,Brazil vs Netherlands
-1414,Netherlands,2,73,98.16,24.8,1,Brazil vs Netherlands
-1415,Brazil,2,74,85.68,64.72000000000001,0,Brazil vs Netherlands
-1416,Brazil,2,74,43.08,73.52000000000001,1,Brazil vs Netherlands
-1417,Brazil,2,75,53.76,54.160000000000004,1,Brazil vs Netherlands
-1418,Brazil,2,76,106.2,56.800000000000004,0,Brazil vs Netherlands
-1419,Brazil,2,78,97.2,70.24,0,Brazil vs Netherlands
-1420,Netherlands,2,80,34.92,35.839999999999996,1,Brazil vs Netherlands
-1421,Brazil,2,82,92.52,49.92,0,Brazil vs Netherlands
-1422,Brazil,2,82,83.64,54.879999999999995,1,Brazil vs Netherlands
-1423,Brazil,2,83,84.0,2.08,1,Brazil vs Netherlands
-1424,Brazil,2,83,94.68,4.16,1,Brazil vs Netherlands
-1425,Argentina,1,8,91.2,11.120000000000001,1,Germany vs Argentina
-1426,Argentina,1,11,35.64,63.52000000000001,0,Germany vs Argentina
-1427,Germany,1,12,86.88000000000001,77.60000000000001,0,Germany vs Argentina
-1428,Argentina,1,15,82.32,3.6799999999999997,0,Germany vs Argentina
-1429,Germany,1,22,48.84,58.56,1,Germany vs Argentina
-1430,Argentina,1,32,45.959999999999994,32.96,1,Germany vs Argentina
-1431,Germany,1,34,94.32,18.32,0,Germany vs Argentina
-1432,Germany,1,36,85.44,76.16000000000001,1,Germany vs Argentina
-1433,Argentina,1,37,52.199999999999996,26.560000000000002,0,Germany vs Argentina
-1434,Germany,1,42,86.16,77.44,0,Germany vs Argentina
-1435,Germany,2,52,87.96,16.72,1,Germany vs Argentina
-1436,Argentina,2,52,84.11999999999999,77.76,0,Germany vs Argentina
-1437,Argentina,2,52,65.28,59.84,1,Germany vs Argentina
-1438,Germany,2,59,73.67999999999999,76.32000000000001,0,Germany vs Argentina
-1439,Germany,2,64,77.28,66.24,0,Germany vs Argentina
-1440,Germany,2,65,76.8,77.84,0,Germany vs Argentina
-1441,Argentina,2,65,69.36,37.839999999999996,1,Germany vs Argentina
-1442,Argentina,2,68,84.71999999999998,44.32,0,Germany vs Argentina
-1443,Germany,2,68,43.8,4.960000000000001,1,Germany vs Argentina
-1444,Argentina,2,70,71.39999999999999,15.040000000000001,0,Germany vs Argentina
-1445,Argentina,2,73,109.91999999999999,14.64,1,Germany vs Argentina
-1446,Germany,2,75,84.96,59.2,0,Germany vs Argentina
-1447,Argentina,2,76,84.24,12.48,0,Germany vs Argentina
-1448,Argentina,2,77,87.84,29.439999999999998,1,Germany vs Argentina
-1449,Argentina,2,86,97.08,38.400000000000006,0,Germany vs Argentina
-1450,Argentina,2,89,104.39999999999999,8.16,1,Germany vs Argentina
-1451,Argentina,2,89,115.32,11.600000000000001,0,Germany vs Argentina
-1452,Argentina,2,90,51.35999999999999,10.0,1,Germany vs Argentina
-1453,Argentina,2,92,100.8,67.2,0,Germany vs Argentina
-1454,Argentina,3,90,65.28,34.24,0,Germany vs Argentina
-1455,Argentina,3,100,51.12,49.120000000000005,0,Germany vs Argentina
-1456,Argentina,3,104,60.48,45.04,1,Germany vs Argentina
-1457,Argentina,4,110,76.32,44.64,1,Germany vs Argentina
-1458,Germany,4,118,94.91999999999999,68.72000000000001,1,Germany vs Argentina
-1459,Germany,4,118,94.44,68.96000000000001,1,Germany vs Argentina
+,team,half,min,x_start,y_start,outcome,game,type_id
+0,Brazil,1,1,53.279999999999994,4.960000000000001,Successful,Brazil vs Croatia,3
+1,Croatia,1,2,81.96,76.4,Successful,Brazil vs Croatia,3
+2,Croatia,1,6,54.959999999999994,36.480000000000004,Successful,Brazil vs Croatia,3
+3,Croatia,1,9,28.92,25.12,Successful,Brazil vs Croatia,3
+4,Brazil,1,18,85.2,4.32,Successful,Brazil vs Croatia,3
+5,Brazil,1,20,74.64,21.44,Successful,Brazil vs Croatia,3
+6,Brazil,1,20,93.84,64.48,Successful,Brazil vs Croatia,3
+7,Brazil,1,21,116.88,22.560000000000002,Successful,Brazil vs Croatia,3
+8,Brazil,1,21,91.2,70.72000000000001,Successful,Brazil vs Croatia,3
+9,Croatia,1,28,111.11999999999999,63.6,Successful,Brazil vs Croatia,3
+10,Brazil,1,28,74.16,33.760000000000005,Successful,Brazil vs Croatia,3
+11,Brazil,1,28,81.71999999999998,41.92,Successful,Brazil vs Croatia,3
+12,Brazil,1,32,98.64,75.04,Successful,Brazil vs Croatia,3
+13,Croatia,1,36,91.2,76.48,Successful,Brazil vs Croatia,3
+14,Brazil,1,36,66.96,22.240000000000002,Successful,Brazil vs Croatia,3
+15,Brazil,1,39,95.88000000000001,10.4,Successful,Brazil vs Croatia,3
+16,Croatia,1,42,69.84,14.880000000000003,Successful,Brazil vs Croatia,3
+17,Brazil,1,44,105.11999999999999,22.560000000000002,Successful,Brazil vs Croatia,3
+18,Brazil,2,46,76.67999999999999,23.52,Successful,Brazil vs Croatia,3
+19,Brazil,2,49,108.6,6.56,Successful,Brazil vs Croatia,3
+20,Croatia,2,52,56.16,15.12,Successful,Brazil vs Croatia,3
+21,Brazil,2,57,74.64,12.32,Successful,Brazil vs Croatia,3
+22,Brazil,2,64,72.36,59.84,Successful,Brazil vs Croatia,3
+23,Brazil,2,75,86.88000000000001,63.36000000000001,Successful,Brazil vs Croatia,3
+24,Brazil,2,75,103.2,70.08,Successful,Brazil vs Croatia,3
+25,Brazil,2,75,87.24,12.0,Successful,Brazil vs Croatia,3
+26,Croatia,2,77,52.08,29.439999999999998,Successful,Brazil vs Croatia,3
+27,Brazil,2,78,77.64,72.8,Successful,Brazil vs Croatia,3
+28,Croatia,2,82,39.48,5.68,Successful,Brazil vs Croatia,3
+29,Brazil,2,88,32.879999999999995,48.0,Successful,Brazil vs Croatia,3
+30,Brazil,2,90,88.32,49.2,Successful,Brazil vs Croatia,3
+31,Croatia,2,91,79.68,3.3600000000000003,Successful,Brazil vs Croatia,3
+32,Croatia,2,92,67.2,40.0,Successful,Brazil vs Croatia,3
+33,Netherlands,1,29,33.839999999999996,17.28,Successful,Spain vs Netherlands,3
+34,Netherlands,1,29,75.0,74.0,Successful,Spain vs Netherlands,3
+35,Netherlands,1,33,89.16,76.72000000000001,Successful,Spain vs Netherlands,3
+36,Netherlands,1,40,68.16,78.72000000000001,Successful,Spain vs Netherlands,3
+37,Netherlands,2,50,39.48,16.64,Successful,Spain vs Netherlands,3
+38,Netherlands,2,52,105.71999999999998,36.480000000000004,Successful,Spain vs Netherlands,3
+39,Spain,2,57,77.04,71.44,Successful,Spain vs Netherlands,3
+40,Netherlands,2,79,79.91999999999999,26.0,Successful,Spain vs Netherlands,3
+41,Netherlands,2,79,108.24,37.2,Successful,Spain vs Netherlands,3
+42,Netherlands,2,80,79.68,6.640000000000001,Successful,Spain vs Netherlands,3
+43,Netherlands,2,86,55.92,50.24,Successful,Spain vs Netherlands,3
+44,Netherlands,2,86,102.71999999999998,41.6,Successful,Spain vs Netherlands,3
+45,Netherlands,2,89,102.11999999999999,69.28,Successful,Spain vs Netherlands,3
+46,Netherlands,2,90,27.0,10.08,Successful,Spain vs Netherlands,3
+47,Spain,2,92,103.68,19.36,Successful,Spain vs Netherlands,3
+48,Uruguay,1,1,72.0,76.88,Successful,Uruguay vs Costa Rica,3
+49,Costa Rica,1,8,84.96,32.4,Successful,Uruguay vs Costa Rica,3
+50,Costa Rica,1,11,48.72,45.6,Successful,Uruguay vs Costa Rica,3
+51,Costa Rica,1,27,73.2,14.56,Successful,Uruguay vs Costa Rica,3
+52,Uruguay,1,43,83.52,53.6,Successful,Uruguay vs Costa Rica,3
+53,Uruguay,2,51,88.2,55.52000000000001,Successful,Uruguay vs Costa Rica,3
+54,Uruguay,2,53,65.52,29.12,Successful,Uruguay vs Costa Rica,3
+55,Uruguay,2,55,51.24,51.52000000000001,Successful,Uruguay vs Costa Rica,3
+56,Costa Rica,2,75,86.52,4.960000000000001,Successful,Uruguay vs Costa Rica,3
+57,Costa Rica,2,92,117.24,77.52000000000001,Successful,Uruguay vs Costa Rica,3
+58,England,1,3,76.8,25.92,Successful,England vs Italy,3
+59,England,1,21,69.12,11.440000000000001,Successful,England vs Italy,3
+60,England,1,23,99.11999999999999,16.880000000000003,Successful,England vs Italy,3
+61,England,1,29,56.04,3.84,Successful,England vs Italy,3
+62,Italy,1,44,86.04,17.12,Successful,England vs Italy,3
+63,Italy,1,47,114.0,56.64,Successful,England vs Italy,3
+64,England,2,48,88.8,24.400000000000002,Successful,England vs Italy,3
+65,England,2,50,103.44,53.120000000000005,Successful,England vs Italy,3
+66,England,2,55,107.52,27.6,Successful,England vs Italy,3
+67,England,2,58,90.84,76.48,Successful,England vs Italy,3
+68,Italy,2,62,101.04,10.72,Successful,England vs Italy,3
+69,England,2,65,90.6,12.64,Successful,England vs Italy,3
+70,England,2,81,85.32,35.52,Successful,England vs Italy,3
+71,Italy,2,85,26.4,73.28,Successful,England vs Italy,3
+72,England,2,86,84.24,65.28,Successful,England vs Italy,3
+73,England,2,88,96.36,21.76,Successful,England vs Italy,3
+74,Argentina,1,0,45.24,30.400000000000002,Successful,Argentina vs Bosnia and Herzegovina,3
+75,Argentina,1,0,71.52,27.200000000000003,Successful,Argentina vs Bosnia and Herzegovina,3
+76,Argentina,1,1,73.44,74.88,Successful,Argentina vs Bosnia and Herzegovina,3
+77,Bosnia and Herzegovina,1,13,71.75999999999999,19.680000000000003,Successful,Argentina vs Bosnia and Herzegovina,3
+78,Bosnia and Herzegovina,1,13,72.12,23.36,Successful,Argentina vs Bosnia and Herzegovina,3
+79,Argentina,1,22,88.55999999999999,8.48,Successful,Argentina vs Bosnia and Herzegovina,3
+80,Argentina,1,33,52.08,26.560000000000002,Successful,Argentina vs Bosnia and Herzegovina,3
+81,Argentina,1,38,63.35999999999999,32.96,Successful,Argentina vs Bosnia and Herzegovina,3
+82,Bosnia and Herzegovina,1,39,67.08,25.12,Successful,Argentina vs Bosnia and Herzegovina,3
+83,Argentina,1,44,48.959999999999994,68.08,Successful,Argentina vs Bosnia and Herzegovina,3
+84,Argentina,1,44,91.2,21.200000000000003,Successful,Argentina vs Bosnia and Herzegovina,3
+85,Bosnia and Herzegovina,2,51,107.28,64.48,Successful,Argentina vs Bosnia and Herzegovina,3
+86,Bosnia and Herzegovina,2,53,89.28,51.68,Successful,Argentina vs Bosnia and Herzegovina,3
+87,Bosnia and Herzegovina,2,57,107.04,16.16,Successful,Argentina vs Bosnia and Herzegovina,3
+88,Argentina,2,59,93.6,50.88,Successful,Argentina vs Bosnia and Herzegovina,3
+89,Argentina,2,64,97.44,37.28,Successful,Argentina vs Bosnia and Herzegovina,3
+90,Argentina,2,69,105.96,74.56,Successful,Argentina vs Bosnia and Herzegovina,3
+91,Argentina,2,71,78.96,31.360000000000003,Successful,Argentina vs Bosnia and Herzegovina,3
+92,Bosnia and Herzegovina,2,72,88.44,30.880000000000003,Successful,Argentina vs Bosnia and Herzegovina,3
+93,Argentina,2,74,87.11999999999999,45.760000000000005,Successful,Argentina vs Bosnia and Herzegovina,3
+94,Argentina,2,82,48.72,21.44,Successful,Argentina vs Bosnia and Herzegovina,3
+95,Bosnia and Herzegovina,2,90,73.2,70.56,Successful,Argentina vs Bosnia and Herzegovina,3
+96,Bosnia and Herzegovina,2,91,85.32,47.68000000000001,Successful,Argentina vs Bosnia and Herzegovina,3
+97,Argentina,2,91,108.71999999999998,29.28,Successful,Argentina vs Bosnia and Herzegovina,3
+98,Germany,1,3,116.39999999999999,59.68,Successful,Germany vs Portugal,3
+99,Portugal,1,5,51.84,54.96000000000001,Successful,Germany vs Portugal,3
+100,Portugal,1,5,74.39999999999999,5.36,Successful,Germany vs Portugal,3
+101,Germany,1,19,105.11999999999999,65.76,Successful,Germany vs Portugal,3
+102,Portugal,1,21,84.24,10.240000000000002,Successful,Germany vs Portugal,3
+103,Germany,1,23,87.6,61.04,Successful,Germany vs Portugal,3
+104,Portugal,1,42,51.959999999999994,29.12,Successful,Germany vs Portugal,3
+105,Germany,2,55,92.64,27.84,Successful,Germany vs Portugal,3
+106,Germany,2,55,90.24,34.56,Successful,Germany vs Portugal,3
+107,Portugal,2,55,52.08,7.440000000000001,Successful,Germany vs Portugal,3
+108,Portugal,2,58,71.52,62.08,Successful,Germany vs Portugal,3
+109,Portugal,2,58,86.64,50.24,Successful,Germany vs Portugal,3
+110,Portugal,2,67,60.24,45.6,Successful,Germany vs Portugal,3
+111,Portugal,2,74,83.16,48.24,Successful,Germany vs Portugal,3
+112,Portugal,2,82,50.04,17.76,Successful,Germany vs Portugal,3
+113,Algeria,1,9,38.52,52.48,Successful,Belgium vs Algeria,3
+114,Belgium,1,12,63.35999999999999,67.2,Successful,Belgium vs Algeria,3
+115,Belgium,1,16,87.11999999999999,2.64,Successful,Belgium vs Algeria,3
+116,Belgium,1,26,88.8,59.2,Successful,Belgium vs Algeria,3
+117,Belgium,1,29,81.6,61.92000000000001,Successful,Belgium vs Algeria,3
+118,Algeria,1,35,45.0,76.64,Successful,Belgium vs Algeria,3
+119,Belgium,1,37,83.04,27.760000000000005,Successful,Belgium vs Algeria,3
+120,Belgium,1,43,92.88000000000001,57.52000000000001,Successful,Belgium vs Algeria,3
+121,Belgium,1,43,101.88000000000001,73.44,Successful,Belgium vs Algeria,3
+122,Belgium,2,50,97.44,20.72,Successful,Belgium vs Algeria,3
+123,Belgium,2,63,81.11999999999999,52.56,Successful,Belgium vs Algeria,3
+124,Belgium,2,65,83.64,35.839999999999996,Successful,Belgium vs Algeria,3
+125,Belgium,2,66,108.96,72.32000000000001,Successful,Belgium vs Algeria,3
+126,Algeria,2,79,83.75999999999999,33.12,Successful,Belgium vs Algeria,3
+127,Belgium,2,84,84.24,2.4000000000000004,Successful,Belgium vs Algeria,3
+128,Belgium,2,93,111.84,69.44,Successful,Belgium vs Algeria,3
+129,Brazil,1,0,53.76,11.280000000000001,Successful,Brazil vs Mexico,3
+130,Brazil,1,4,31.92,51.44,Successful,Brazil vs Mexico,3
+131,Mexico,1,8,77.28,15.92,Successful,Brazil vs Mexico,3
+132,Brazil,1,8,46.559999999999995,53.92000000000001,Successful,Brazil vs Mexico,3
+133,Brazil,1,10,87.96,75.84,Successful,Brazil vs Mexico,3
+134,Brazil,1,18,81.0,70.0,Successful,Brazil vs Mexico,3
+135,Mexico,1,22,108.24,20.8,Successful,Brazil vs Mexico,3
+136,Mexico,1,24,101.39999999999999,4.16,Successful,Brazil vs Mexico,3
+137,Mexico,1,30,68.16,42.88,Successful,Brazil vs Mexico,3
+138,Brazil,1,32,82.68,53.760000000000005,Successful,Brazil vs Mexico,3
+139,Brazil,1,37,38.64,75.2,Successful,Brazil vs Mexico,3
+140,Mexico,1,40,94.68,60.64,Successful,Brazil vs Mexico,3
+141,Mexico,2,60,54.84,22.16,Successful,Brazil vs Mexico,3
+142,Brazil,2,63,39.0,53.04,Successful,Brazil vs Mexico,3
+143,Brazil,2,63,89.28,54.400000000000006,Successful,Brazil vs Mexico,3
+144,Brazil,2,68,114.11999999999999,25.12,Successful,Brazil vs Mexico,3
+145,Brazil,2,69,72.47999999999999,72.96000000000001,Successful,Brazil vs Mexico,3
+146,Brazil,2,71,57.35999999999999,66.08,Successful,Brazil vs Mexico,3
+147,Mexico,2,78,71.75999999999999,3.5200000000000005,Successful,Brazil vs Mexico,3
+148,Brazil,2,90,79.68,43.760000000000005,Successful,Brazil vs Mexico,3
+149,Brazil,2,91,76.32,76.64,Successful,Brazil vs Mexico,3
+150,Chile,1,0,107.28,51.6,Successful,Spain vs Chile,3
+151,Spain,1,8,95.52,12.8,Successful,Spain vs Chile,3
+152,Spain,1,10,90.71999999999998,16.32,Successful,Spain vs Chile,3
+153,Spain,1,14,102.48,34.64,Successful,Spain vs Chile,3
+154,Chile,1,18,111.48,40.96000000000001,Successful,Spain vs Chile,3
+155,Spain,1,22,37.44,4.32,Successful,Spain vs Chile,3
+156,Spain,1,22,83.04,27.360000000000003,Successful,Spain vs Chile,3
+157,Spain,1,26,65.52,52.24,Successful,Spain vs Chile,3
+158,Chile,1,27,49.440000000000005,72.48,Successful,Spain vs Chile,3
+159,Chile,1,36,38.879999999999995,57.84,Successful,Spain vs Chile,3
+160,Spain,2,58,102.96,16.48,Successful,Spain vs Chile,3
+161,Chile,2,60,46.68,56.64,Successful,Spain vs Chile,3
+162,Chile,2,69,74.28,24.560000000000002,Successful,Spain vs Chile,3
+163,Chile,2,74,104.39999999999999,14.880000000000003,Successful,Spain vs Chile,3
+164,Spain,2,77,91.44,25.040000000000003,Successful,Spain vs Chile,3
+165,Spain,2,79,79.91999999999999,12.240000000000002,Successful,Spain vs Chile,3
+166,Australia,1,15,74.28,21.12,Successful,Australia vs Netherlands,3
+167,Netherlands,1,19,63.72,58.0,Successful,Australia vs Netherlands,3
+168,Netherlands,1,23,90.84,2.2399999999999998,Successful,Australia vs Netherlands,3
+169,Australia,1,29,88.32,73.12,Successful,Australia vs Netherlands,3
+170,Australia,1,29,92.16,76.0,Successful,Australia vs Netherlands,3
+171,Australia,1,34,97.08,75.2,Successful,Australia vs Netherlands,3
+172,Australia,1,34,74.52,15.840000000000002,Successful,Australia vs Netherlands,3
+173,Australia,1,46,77.88000000000001,3.6799999999999997,Successful,Australia vs Netherlands,3
+174,Netherlands,2,49,87.6,70.16000000000001,Successful,Australia vs Netherlands,3
+175,Australia,2,57,52.199999999999996,26.72,Successful,Australia vs Netherlands,3
+176,Australia,2,60,30.72,25.92,Successful,Australia vs Netherlands,3
+177,Netherlands,2,71,105.36,31.84,Successful,Australia vs Netherlands,3
+178,Netherlands,2,73,108.71999999999998,77.28,Successful,Australia vs Netherlands,3
+179,Australia,2,74,87.24,22.480000000000004,Successful,Australia vs Netherlands,3
+180,Australia,2,74,88.91999999999999,27.84,Successful,Australia vs Netherlands,3
+181,Australia,2,81,12.0,46.88,Successful,Australia vs Netherlands,3
+182,Netherlands,2,91,41.64,78.48,Successful,Australia vs Netherlands,3
+183,Australia,2,92,49.32,71.28,Successful,Australia vs Netherlands,3
+184,England,1,3,52.8,5.760000000000001,Successful,Uruguay vs England,3
+185,England,1,3,33.72,8.0,Successful,Uruguay vs England,3
+186,England,1,6,86.39999999999999,20.32,Successful,Uruguay vs England,3
+187,Uruguay,1,13,48.0,60.160000000000004,Successful,Uruguay vs England,3
+188,England,1,16,38.64,18.880000000000003,Successful,Uruguay vs England,3
+189,Uruguay,1,25,77.75999999999999,24.32,Successful,Uruguay vs England,3
+190,England,1,35,61.44,73.28,Successful,Uruguay vs England,3
+191,England,1,40,67.2,61.120000000000005,Successful,Uruguay vs England,3
+192,England,1,41,103.32,6.640000000000001,Successful,Uruguay vs England,3
+193,England,2,53,103.32,75.52000000000001,Successful,Uruguay vs England,3
+194,England,2,56,44.16,77.44,Successful,Uruguay vs England,3
+195,England,2,58,88.55999999999999,71.60000000000001,Successful,Uruguay vs England,3
+196,England,2,60,109.32,9.120000000000001,Successful,Uruguay vs England,3
+197,England,2,60,112.32,12.32,Successful,Uruguay vs England,3
+198,England,2,64,98.16,64.96000000000001,Successful,Uruguay vs England,3
+199,England,2,66,70.2,28.64,Successful,Uruguay vs England,3
+200,England,2,68,71.75999999999999,31.360000000000003,Successful,Uruguay vs England,3
+201,England,2,73,93.48,23.36,Successful,Uruguay vs England,3
+202,England,2,74,80.16,6.88,Successful,Uruguay vs England,3
+203,England,2,74,102.71999999999998,10.88,Successful,Uruguay vs England,3
+204,Uruguay,2,81,102.96,19.040000000000003,Successful,Uruguay vs England,3
+205,England,2,85,73.44,74.24,Successful,Uruguay vs England,3
+206,Uruguay,2,93,47.16,72.0,Successful,Uruguay vs England,3
+207,Italy,1,3,63.12,15.840000000000002,Successful,Italy vs Costa Rica,3
+208,Italy,1,21,93.11999999999999,50.64,Successful,Italy vs Costa Rica,3
+209,Italy,1,37,56.64,77.84,Successful,Italy vs Costa Rica,3
+210,Italy,1,42,88.8,51.120000000000005,Successful,Italy vs Costa Rica,3
+211,Italy,1,46,66.0,24.16,Successful,Italy vs Costa Rica,3
+212,Costa Rica,2,57,107.28,78.48,Successful,Italy vs Costa Rica,3
+213,Italy,2,58,88.91999999999999,54.24,Successful,Italy vs Costa Rica,3
+214,Italy,2,64,70.44,53.120000000000005,Successful,Italy vs Costa Rica,3
+215,Italy,2,75,99.11999999999999,3.84,Successful,Italy vs Costa Rica,3
+216,Italy,2,82,49.32,53.120000000000005,Successful,Italy vs Costa Rica,3
+217,Argentina,1,10,79.08,20.240000000000002,Successful,Argentina vs Iran,3
+218,Argentina,1,10,83.28,54.24,Successful,Argentina vs Iran,3
+219,Argentina,1,10,87.11999999999999,51.120000000000005,Successful,Argentina vs Iran,3
+220,Argentina,1,10,106.08,71.67999999999999,Successful,Argentina vs Iran,3
+221,Argentina,1,17,45.48,42.080000000000005,Successful,Argentina vs Iran,3
+222,Argentina,1,20,82.08,4.08,Successful,Argentina vs Iran,3
+223,Argentina,1,33,57.48,10.88,Successful,Argentina vs Iran,3
+224,Iran,1,38,36.96,75.84,Successful,Argentina vs Iran,3
+225,Argentina,1,43,76.8,56.0,Successful,Argentina vs Iran,3
+226,Argentina,2,48,82.68,68.64,Successful,Argentina vs Iran,3
+227,Argentina,2,49,82.2,26.560000000000002,Successful,Argentina vs Iran,3
+228,Iran,2,51,39.84,24.480000000000004,Successful,Argentina vs Iran,3
+229,Iran,2,51,49.559999999999995,26.960000000000004,Successful,Argentina vs Iran,3
+230,Argentina,2,54,82.8,19.36,Successful,Argentina vs Iran,3
+231,Argentina,2,57,110.75999999999999,67.04,Successful,Argentina vs Iran,3
+232,Iran,2,61,27.84,63.6,Successful,Argentina vs Iran,3
+233,Iran,2,64,54.959999999999994,28.64,Successful,Argentina vs Iran,3
+234,Argentina,2,67,83.52,47.52,Successful,Argentina vs Iran,3
+235,Argentina,2,69,78.24,22.240000000000002,Successful,Argentina vs Iran,3
+236,Argentina,2,73,87.6,55.68,Successful,Argentina vs Iran,3
+237,Iran,2,78,45.84,27.200000000000003,Successful,Argentina vs Iran,3
+238,Argentina,2,81,85.68,8.56,Successful,Argentina vs Iran,3
+239,Argentina,2,81,108.71999999999998,13.36,Successful,Argentina vs Iran,3
+240,Argentina,2,89,89.52,53.760000000000005,Successful,Argentina vs Iran,3
+241,Iran,2,89,42.12,28.960000000000004,Successful,Argentina vs Iran,3
+242,Ghana,1,4,27.36,54.64,Successful,Germany vs Ghana,3
+243,Ghana,1,12,91.44,26.560000000000002,Successful,Germany vs Ghana,3
+244,Ghana,1,27,48.72,18.880000000000003,Successful,Germany vs Ghana,3
+245,Ghana,1,32,69.12,76.24,Successful,Germany vs Ghana,3
+246,Ghana,1,33,97.2,72.88,Successful,Germany vs Ghana,3
+247,Germany,2,64,55.199999999999996,31.92,Successful,Germany vs Ghana,3
+248,Germany,2,64,57.959999999999994,42.400000000000006,Successful,Germany vs Ghana,3
+249,Germany,2,64,68.88,37.68,Successful,Germany vs Ghana,3
+250,Ghana,2,65,53.879999999999995,77.12,Successful,Germany vs Ghana,3
+251,Ghana,2,66,103.68,58.879999999999995,Successful,Germany vs Ghana,3
+252,Germany,2,72,105.84,75.36,Successful,Germany vs Ghana,3
+253,Ghana,2,77,77.16,48.480000000000004,Successful,Germany vs Ghana,3
+254,Germany,2,87,67.55999999999999,38.56,Successful,Germany vs Ghana,3
+255,Ghana,2,88,71.52,18.400000000000002,Successful,Germany vs Ghana,3
+256,South Korea,1,10,95.16,62.32000000000001,Successful,South Korea vs Algeria,3
+257,South Korea,1,11,87.11999999999999,22.080000000000002,Successful,South Korea vs Algeria,3
+258,Algeria,1,12,62.279999999999994,33.12,Successful,South Korea vs Algeria,3
+259,South Korea,1,12,90.0,54.56,Successful,South Korea vs Algeria,3
+260,South Korea,1,12,95.64,56.48,Successful,South Korea vs Algeria,3
+261,Algeria,1,13,75.6,49.68000000000001,Successful,South Korea vs Algeria,3
+262,South Korea,1,14,66.72,59.52000000000001,Successful,South Korea vs Algeria,3
+263,Algeria,1,14,57.12,73.60000000000001,Successful,South Korea vs Algeria,3
+264,Algeria,1,22,61.92,45.2,Successful,South Korea vs Algeria,3
+265,South Korea,1,31,88.55999999999999,38.32,Successful,South Korea vs Algeria,3
+266,South Korea,1,34,73.2,12.8,Successful,South Korea vs Algeria,3
+267,Algeria,1,35,65.88,65.2,Successful,South Korea vs Algeria,3
+268,Algeria,1,36,108.48,73.28,Successful,South Korea vs Algeria,3
+269,Algeria,1,36,112.08,60.160000000000004,Successful,South Korea vs Algeria,3
+270,South Korea,1,39,66.0,51.6,Successful,South Korea vs Algeria,3
+271,Algeria,2,45,54.72,45.44,Successful,South Korea vs Algeria,3
+272,South Korea,2,46,79.68,27.360000000000003,Successful,South Korea vs Algeria,3
+273,South Korea,2,51,105.36,72.16000000000001,Successful,South Korea vs Algeria,3
+274,South Korea,2,51,95.04,60.800000000000004,Successful,South Korea vs Algeria,3
+275,Algeria,2,54,38.279999999999994,74.72000000000001,Successful,South Korea vs Algeria,3
+276,South Korea,2,58,95.04,65.92,Successful,South Korea vs Algeria,3
+277,Algeria,2,61,70.92,20.0,Successful,South Korea vs Algeria,3
+278,South Korea,2,65,53.52,43.2,Successful,South Korea vs Algeria,3
+279,South Korea,2,73,78.0,57.6,Successful,South Korea vs Algeria,3
+280,Algeria,2,92,44.4,6.56,Successful,South Korea vs Algeria,3
+281,Cameroon,1,3,51.48,54.32000000000001,Successful,Cameroon vs Brazil,3
+282,Cameroon,1,10,88.55999999999999,66.08,Successful,Cameroon vs Brazil,3
+283,Cameroon,1,12,70.8,73.67999999999999,Successful,Cameroon vs Brazil,3
+284,Cameroon,1,12,67.8,69.76,Successful,Cameroon vs Brazil,3
+285,Cameroon,1,21,88.08,12.48,Successful,Cameroon vs Brazil,3
+286,Cameroon,1,30,79.08,76.64,Successful,Cameroon vs Brazil,3
+287,Cameroon,1,37,73.44,12.32,Successful,Cameroon vs Brazil,3
+288,Cameroon,1,37,85.8,10.08,Successful,Cameroon vs Brazil,3
+289,Cameroon,1,41,49.92,31.92,Successful,Cameroon vs Brazil,3
+290,Brazil,1,42,84.24,65.52000000000001,Successful,Cameroon vs Brazil,3
+291,Cameroon,2,59,40.32,71.92,Successful,Cameroon vs Brazil,3
+292,Cameroon,2,61,45.6,78.32000000000001,Successful,Cameroon vs Brazil,3
+293,Brazil,2,62,79.91999999999999,50.72,Successful,Cameroon vs Brazil,3
+294,Brazil,2,79,58.559999999999995,55.68,Successful,Cameroon vs Brazil,3
+295,Spain,1,5,48.24,68.96000000000001,Successful,Australia vs Spain,3
+296,Spain,1,11,96.48,76.64,Successful,Australia vs Spain,3
+297,Australia,1,12,88.68,11.76,Successful,Australia vs Spain,3
+298,Australia,1,14,39.24,65.92,Successful,Australia vs Spain,3
+299,Spain,1,16,85.91999999999999,9.28,Successful,Australia vs Spain,3
+300,Spain,1,22,89.39999999999999,39.04,Successful,Australia vs Spain,3
+301,Australia,1,22,22.2,24.32,Successful,Australia vs Spain,3
+302,Australia,1,24,76.44,40.800000000000004,Successful,Australia vs Spain,3
+303,Spain,1,33,112.8,56.32000000000001,Successful,Australia vs Spain,3
+304,Spain,2,50,38.879999999999995,5.120000000000001,Successful,Australia vs Spain,3
+305,Australia,2,59,30.479999999999997,64.16000000000001,Successful,Australia vs Spain,3
+306,Australia,2,60,91.44,66.48,Successful,Australia vs Spain,3
+307,Australia,2,63,29.279999999999998,44.56,Successful,Australia vs Spain,3
+308,Spain,2,65,76.55999999999999,74.4,Successful,Australia vs Spain,3
+309,Australia,2,73,76.55999999999999,12.56,Successful,Australia vs Spain,3
+310,Australia,2,76,38.879999999999995,18.080000000000002,Successful,Australia vs Spain,3
+311,Spain,2,76,104.88000000000001,64.88,Successful,Australia vs Spain,3
+312,Australia,2,77,33.72,49.2,Successful,Australia vs Spain,3
+313,Spain,2,80,29.879999999999995,16.72,Successful,Australia vs Spain,3
+314,Spain,2,87,78.96,26.0,Successful,Australia vs Spain,3
+315,Chile,1,18,65.04,46.400000000000006,Successful,Netherlands vs Chile,3
+316,Netherlands,1,22,81.6,9.76,Successful,Netherlands vs Chile,3
+317,Netherlands,1,35,17.28,13.92,Successful,Netherlands vs Chile,3
+318,Chile,1,37,74.52,3.44,Successful,Netherlands vs Chile,3
+319,Netherlands,1,39,53.4,11.920000000000002,Successful,Netherlands vs Chile,3
+320,Netherlands,1,39,94.91999999999999,39.120000000000005,Successful,Netherlands vs Chile,3
+321,Chile,1,40,54.48,7.440000000000001,Successful,Netherlands vs Chile,3
+322,Chile,1,42,74.28,16.72,Successful,Netherlands vs Chile,3
+323,Chile,2,45,49.68,24.080000000000002,Successful,Netherlands vs Chile,3
+324,Chile,2,64,117.6,67.76,Successful,Netherlands vs Chile,3
+325,Chile,2,67,75.36,37.68,Successful,Netherlands vs Chile,3
+326,Chile,2,72,77.88000000000001,41.44,Successful,Netherlands vs Chile,3
+327,Netherlands,2,75,69.6,3.84,Successful,Netherlands vs Chile,3
+328,Netherlands,2,75,84.48,54.56,Successful,Netherlands vs Chile,3
+329,Netherlands,2,75,88.68,49.04,Successful,Netherlands vs Chile,3
+330,Chile,2,78,67.67999999999999,8.8,Successful,Netherlands vs Chile,3
+331,Chile,2,78,74.52,22.080000000000002,Successful,Netherlands vs Chile,3
+332,Netherlands,2,82,49.68,70.56,Successful,Netherlands vs Chile,3
+333,England,1,5,85.32,1.6,Successful,Costa Rica vs England,3
+334,England,1,19,59.519999999999996,12.880000000000003,Successful,Costa Rica vs England,3
+335,England,1,26,90.71999999999998,28.160000000000004,Successful,Costa Rica vs England,3
+336,England,1,29,77.75999999999999,53.2,Successful,Costa Rica vs England,3
+337,Costa Rica,1,30,58.44,25.28,Successful,Costa Rica vs England,3
+338,England,1,36,49.92,48.160000000000004,Successful,Costa Rica vs England,3
+339,England,1,41,95.75999999999999,45.44,Successful,Costa Rica vs England,3
+340,England,2,46,31.56,8.64,Successful,Costa Rica vs England,3
+341,England,2,56,37.92,73.44,Successful,Costa Rica vs England,3
+342,England,2,81,98.39999999999999,77.36000000000001,Successful,Costa Rica vs England,3
+343,England,2,90,82.44,6.720000000000001,Successful,Costa Rica vs England,3
+344,Argentina,1,6,83.28,44.64,Successful,Nigeria vs Argentina,3
+345,Nigeria,1,12,21.599999999999998,15.200000000000001,Successful,Nigeria vs Argentina,3
+346,Argentina,1,16,53.4,30.080000000000002,Successful,Nigeria vs Argentina,3
+347,Nigeria,1,20,110.39999999999999,12.64,Successful,Nigeria vs Argentina,3
+348,Argentina,1,28,91.91999999999999,28.480000000000004,Successful,Nigeria vs Argentina,3
+349,Nigeria,1,34,44.64,23.28,Successful,Nigeria vs Argentina,3
+350,Nigeria,1,41,8.16,61.84,Successful,Nigeria vs Argentina,3
+351,Argentina,2,51,98.16,20.72,Successful,Nigeria vs Argentina,3
+352,Argentina,2,54,63.84,54.24,Successful,Nigeria vs Argentina,3
+353,Argentina,2,56,64.2,23.36,Successful,Nigeria vs Argentina,3
+354,Nigeria,2,60,107.04,69.92,Successful,Nigeria vs Argentina,3
+355,Nigeria,2,60,105.36,5.28,Successful,Nigeria vs Argentina,3
+356,Nigeria,2,71,78.84,58.879999999999995,Successful,Nigeria vs Argentina,3
+357,Nigeria,2,74,78.96,67.04,Successful,Nigeria vs Argentina,3
+358,Nigeria,2,75,87.0,17.28,Successful,Nigeria vs Argentina,3
+359,Argentina,2,77,69.36,17.76,Successful,Nigeria vs Argentina,3
+360,Nigeria,2,82,77.04,20.64,Successful,Nigeria vs Argentina,3
+361,Nigeria,2,82,75.12,34.88,Successful,Nigeria vs Argentina,3
+362,Nigeria,2,86,94.08,13.36,Successful,Nigeria vs Argentina,3
+363,Germany,1,6,87.71999999999998,3.28,Successful,USA vs Germany,3
+364,USA,1,21,58.67999999999999,26.480000000000004,Successful,USA vs Germany,3
+365,USA,1,24,58.8,74.72000000000001,Successful,USA vs Germany,3
+366,Germany,1,36,64.08,32.96,Successful,USA vs Germany,3
+367,Germany,1,38,66.96,51.04,Successful,USA vs Germany,3
+368,Germany,1,45,81.24,52.56,Successful,USA vs Germany,3
+369,Germany,2,91,44.16,44.160000000000004,Successful,USA vs Germany,3
+370,Algeria,1,5,102.84,65.52000000000001,Successful,Algeria vs Russia,3
+371,Algeria,1,12,89.16,28.160000000000004,Successful,Algeria vs Russia,3
+372,Russia,1,14,40.32,45.92,Successful,Algeria vs Russia,3
+373,Russia,1,15,96.71999999999998,57.84,Successful,Algeria vs Russia,3
+374,Russia,1,15,97.08,53.6,Successful,Algeria vs Russia,3
+375,Russia,1,18,74.39999999999999,53.2,Successful,Algeria vs Russia,3
+376,Russia,1,23,74.64,49.84,Successful,Algeria vs Russia,3
+377,Algeria,1,27,57.959999999999994,38.96000000000001,Successful,Algeria vs Russia,3
+378,Russia,1,31,65.52,38.88,Successful,Algeria vs Russia,3
+379,Algeria,1,34,87.71999999999998,55.6,Successful,Algeria vs Russia,3
+380,Russia,1,38,112.2,3.3600000000000003,Successful,Algeria vs Russia,3
+381,Russia,1,45,81.24,42.800000000000004,Successful,Algeria vs Russia,3
+382,Russia,2,50,93.11999999999999,19.44,Successful,Algeria vs Russia,3
+383,Russia,2,52,46.32,62.56,Successful,Algeria vs Russia,3
+384,Algeria,2,55,51.35999999999999,7.840000000000001,Successful,Algeria vs Russia,3
+385,Algeria,2,56,88.08,12.240000000000002,Successful,Algeria vs Russia,3
+386,Algeria,2,58,113.52,75.36,Successful,Algeria vs Russia,3
+387,Russia,2,68,74.16,16.16,Successful,Algeria vs Russia,3
+388,Russia,2,83,64.32,65.76,Successful,Algeria vs Russia,3
+389,Brazil,1,5,87.71999999999998,44.88,Successful,Brazil vs Chile,3
+390,Brazil,1,5,40.8,31.84,Successful,Brazil vs Chile,3
+391,Brazil,1,6,79.32,74.88,Successful,Brazil vs Chile,3
+392,Chile,1,20,59.519999999999996,23.6,Successful,Brazil vs Chile,3
+393,Chile,1,20,59.04,20.96,Successful,Brazil vs Chile,3
+394,Chile,1,21,64.08,34.64,Successful,Brazil vs Chile,3
+395,Chile,1,29,42.0,21.6,Successful,Brazil vs Chile,3
+396,Brazil,1,35,90.71999999999998,21.12,Successful,Brazil vs Chile,3
+397,Chile,1,35,75.96,77.36000000000001,Successful,Brazil vs Chile,3
+398,Brazil,1,38,21.84,40.24,Successful,Brazil vs Chile,3
+399,Brazil,1,44,102.11999999999999,25.6,Successful,Brazil vs Chile,3
+400,Brazil,2,45,55.92,69.67999999999999,Successful,Brazil vs Chile,3
+401,Brazil,2,48,71.75999999999999,58.800000000000004,Successful,Brazil vs Chile,3
+402,Chile,2,61,87.36,38.400000000000006,Successful,Brazil vs Chile,3
+403,Brazil,2,65,51.84,44.080000000000005,Successful,Brazil vs Chile,3
+404,Chile,2,67,69.36,71.76,Successful,Brazil vs Chile,3
+405,Chile,2,67,75.6,57.44,Successful,Brazil vs Chile,3
+406,Brazil,2,82,91.32,31.439999999999998,Successful,Brazil vs Chile,3
+407,Brazil,2,82,95.88000000000001,29.92,Successful,Brazil vs Chile,3
+408,Brazil,2,86,59.519999999999996,58.720000000000006,Successful,Brazil vs Chile,3
+409,Chile,2,90,87.6,47.68000000000001,Successful,Brazil vs Chile,3
+410,Brazil,3,90,72.0,21.28,Successful,Brazil vs Chile,3
+411,Chile,3,93,40.199999999999996,43.84,Successful,Brazil vs Chile,3
+412,Brazil,3,100,111.11999999999999,9.28,Successful,Brazil vs Chile,3
+413,Brazil,3,102,86.64,23.840000000000003,Successful,Brazil vs Chile,3
+414,Brazil,3,102,85.91999999999999,31.92,Successful,Brazil vs Chile,3
+415,Brazil,4,113,85.2,59.52000000000001,Successful,Brazil vs Chile,3
+416,Brazil,4,117,82.91999999999999,69.92,Successful,Brazil vs Chile,3
+417,Brazil,4,118,81.0,15.52,Successful,Brazil vs Chile,3
+418,Mexico,1,4,73.08,2.16,Successful,Netherlands vs Mexico,3
+419,Mexico,1,4,77.75999999999999,4.4,Successful,Netherlands vs Mexico,3
+420,Mexico,1,4,83.16,23.44,Successful,Netherlands vs Mexico,3
+421,Mexico,1,10,49.68,51.68,Successful,Netherlands vs Mexico,3
+422,Mexico,1,12,85.44,5.44,Successful,Netherlands vs Mexico,3
+423,Netherlands,1,15,81.84,61.2,Successful,Netherlands vs Mexico,3
+424,Netherlands,1,21,88.91999999999999,52.720000000000006,Successful,Netherlands vs Mexico,3
+425,Mexico,1,21,27.36,68.0,Successful,Netherlands vs Mexico,3
+426,Mexico,1,27,33.48,56.0,Successful,Netherlands vs Mexico,3
+427,Netherlands,1,41,76.55999999999999,74.88,Successful,Netherlands vs Mexico,3
+428,Netherlands,1,42,88.32,56.56,Successful,Netherlands vs Mexico,3
+429,Netherlands,2,51,88.08,32.32,Successful,Netherlands vs Mexico,3
+430,Mexico,2,59,92.88000000000001,67.67999999999999,Successful,Netherlands vs Mexico,3
+431,Mexico,2,59,104.64,67.84,Successful,Netherlands vs Mexico,3
+432,Netherlands,2,60,96.24,27.04,Successful,Netherlands vs Mexico,3
+433,Netherlands,2,61,98.39999999999999,9.36,Successful,Netherlands vs Mexico,3
+434,Netherlands,2,62,95.52,14.719999999999999,Successful,Netherlands vs Mexico,3
+435,Netherlands,2,63,80.04,15.840000000000002,Successful,Netherlands vs Mexico,3
+436,Mexico,2,65,76.08,36.4,Successful,Netherlands vs Mexico,3
+437,Netherlands,2,67,108.0,16.48,Successful,Netherlands vs Mexico,3
+438,Mexico,2,70,102.84,66.08,Successful,Netherlands vs Mexico,3
+439,Netherlands,2,71,35.04,66.48,Successful,Netherlands vs Mexico,3
+440,Netherlands,2,73,103.68,22.880000000000003,Successful,Netherlands vs Mexico,3
+441,Mexico,2,78,96.6,28.8,Successful,Netherlands vs Mexico,3
+442,Mexico,2,78,91.44,33.839999999999996,Successful,Netherlands vs Mexico,3
+443,Mexico,2,80,111.24,7.040000000000001,Successful,Netherlands vs Mexico,3
+444,Netherlands,2,90,96.48,62.32000000000001,Successful,Netherlands vs Mexico,3
+445,Netherlands,2,91,115.44,21.28,Successful,Netherlands vs Mexico,3
+446,Greece,1,11,87.0,70.56,Successful,Costa Rica vs Greece,3
+447,Greece,1,16,49.68,64.0,Successful,Costa Rica vs Greece,3
+448,Costa Rica,1,20,107.88000000000001,11.36,Successful,Costa Rica vs Greece,3
+449,Greece,1,28,47.279999999999994,60.64,Successful,Costa Rica vs Greece,3
+450,Greece,1,30,83.52,12.64,Successful,Costa Rica vs Greece,3
+451,Costa Rica,1,41,69.12,34.32,Successful,Costa Rica vs Greece,3
+452,Costa Rica,2,51,65.04,39.44,Successful,Costa Rica vs Greece,3
+453,Greece,2,54,27.84,4.08,Successful,Costa Rica vs Greece,3
+454,Greece,2,70,94.91999999999999,58.08,Successful,Costa Rica vs Greece,3
+455,Greece,2,70,47.64,69.52000000000001,Successful,Costa Rica vs Greece,3
+456,Greece,2,78,84.71999999999998,38.64,Successful,Costa Rica vs Greece,3
+457,Greece,2,83,84.48,10.72,Successful,Costa Rica vs Greece,3
+458,Costa Rica,2,85,84.11999999999999,3.7600000000000002,Successful,Costa Rica vs Greece,3
+459,Costa Rica,2,85,99.6,63.760000000000005,Successful,Costa Rica vs Greece,3
+460,Costa Rica,2,86,115.08,74.0,Successful,Costa Rica vs Greece,3
+461,Greece,2,86,111.71999999999998,13.440000000000001,Successful,Costa Rica vs Greece,3
+462,Greece,3,95,77.04,11.36,Successful,Costa Rica vs Greece,3
+463,Greece,3,95,90.48,22.72,Successful,Costa Rica vs Greece,3
+464,Greece,3,95,84.71999999999998,67.04,Successful,Costa Rica vs Greece,3
+465,Greece,3,99,101.28,52.96000000000001,Successful,Costa Rica vs Greece,3
+466,Greece,4,109,89.04,6.720000000000001,Successful,Costa Rica vs Greece,3
+467,Greece,4,109,112.55999999999999,11.68,Successful,Costa Rica vs Greece,3
+468,Costa Rica,4,111,74.28,7.5200000000000005,Successful,Costa Rica vs Greece,3
+469,Costa Rica,4,111,109.68,10.72,Successful,Costa Rica vs Greece,3
+470,Greece,4,113,87.6,4.4,Successful,Costa Rica vs Greece,3
+471,Greece,4,119,85.91999999999999,72.8,Successful,Costa Rica vs Greece,3
+472,Germany,1,5,72.47999999999999,68.08,Successful,Germany vs Algeria,3
+473,Algeria,1,13,111.84,20.560000000000002,Successful,Germany vs Algeria,3
+474,Germany,1,23,73.2,24.880000000000003,Successful,Germany vs Algeria,3
+475,Germany,1,30,92.64,13.600000000000001,Successful,Germany vs Algeria,3
+476,Germany,1,40,81.84,55.2,Successful,Germany vs Algeria,3
+477,Germany,2,48,107.28,64.32000000000001,Successful,Germany vs Algeria,3
+478,Germany,2,48,107.39999999999999,60.160000000000004,Successful,Germany vs Algeria,3
+479,Algeria,2,56,53.52,65.67999999999999,Successful,Germany vs Algeria,3
+480,Germany,2,59,95.39999999999999,4.720000000000001,Successful,Germany vs Algeria,3
+481,Algeria,2,64,43.68,52.08,Successful,Germany vs Algeria,3
+482,Algeria,2,72,33.12,22.400000000000002,Successful,Germany vs Algeria,3
+483,Germany,2,78,92.39999999999999,13.12,Successful,Germany vs Algeria,3
+484,Germany,2,78,112.8,14.56,Successful,Germany vs Algeria,3
+485,Germany,2,81,109.2,32.480000000000004,Successful,Germany vs Algeria,3
+486,Algeria,2,81,82.55999999999999,72.88,Successful,Germany vs Algeria,3
+487,Germany,3,93,44.04,34.72,Successful,Germany vs Algeria,3
+488,Algeria,3,93,114.24,4.32,Successful,Germany vs Algeria,3
+489,Germany,3,98,91.91999999999999,57.84,Successful,Germany vs Algeria,3
+490,Algeria,3,100,89.39999999999999,70.72000000000001,Successful,Germany vs Algeria,3
+491,Algeria,3,100,99.36,68.64,Successful,Germany vs Algeria,3
+492,Germany,3,103,95.88000000000001,63.52000000000001,Successful,Germany vs Algeria,3
+493,Algeria,4,106,87.11999999999999,57.120000000000005,Successful,Germany vs Algeria,3
+494,Germany,4,112,70.2,74.64,Successful,Germany vs Algeria,3
+495,Germany,4,117,116.28,25.44,Successful,Germany vs Algeria,3
+496,Argentina,1,5,79.44,76.32000000000001,Successful,Argentina vs Switzerland,3
+497,Switzerland,1,7,35.52,74.88,Successful,Argentina vs Switzerland,3
+498,Switzerland,1,7,93.6,68.32000000000001,Successful,Argentina vs Switzerland,3
+499,Switzerland,1,8,86.39999999999999,64.16000000000001,Successful,Argentina vs Switzerland,3
+500,Argentina,1,14,79.2,76.4,Successful,Argentina vs Switzerland,3
+501,Switzerland,1,18,24.24,73.52000000000001,Successful,Argentina vs Switzerland,3
+502,Argentina,1,19,101.04,5.04,Successful,Argentina vs Switzerland,3
+503,Switzerland,1,27,113.52,17.919999999999998,Successful,Argentina vs Switzerland,3
+504,Switzerland,1,27,44.879999999999995,49.04,Successful,Argentina vs Switzerland,3
+505,Switzerland,1,30,30.24,44.64,Successful,Argentina vs Switzerland,3
+506,Switzerland,1,30,36.0,42.480000000000004,Successful,Argentina vs Switzerland,3
+507,Argentina,1,35,51.6,75.84,Successful,Argentina vs Switzerland,3
+508,Argentina,1,37,103.44,74.56,Successful,Argentina vs Switzerland,3
+509,Argentina,2,51,88.08,33.6,Successful,Argentina vs Switzerland,3
+510,Switzerland,2,56,32.279999999999994,74.24,Successful,Argentina vs Switzerland,3
+511,Switzerland,2,57,75.36,60.96000000000001,Successful,Argentina vs Switzerland,3
+512,Argentina,2,59,105.24,8.32,Successful,Argentina vs Switzerland,3
+513,Switzerland,2,62,34.32,76.96000000000001,Successful,Argentina vs Switzerland,3
+514,Switzerland,2,62,70.32,52.32000000000001,Successful,Argentina vs Switzerland,3
+515,Argentina,2,64,109.91999999999999,5.44,Successful,Argentina vs Switzerland,3
+516,Argentina,2,66,84.71999999999998,75.36,Successful,Argentina vs Switzerland,3
+517,Switzerland,2,67,68.88,49.120000000000005,Successful,Argentina vs Switzerland,3
+518,Argentina,2,69,76.32,69.28,Successful,Argentina vs Switzerland,3
+519,Switzerland,2,72,114.24,74.56,Successful,Argentina vs Switzerland,3
+520,Argentina,2,77,98.88000000000001,44.480000000000004,Successful,Argentina vs Switzerland,3
+521,Argentina,2,83,107.75999999999999,66.8,Successful,Argentina vs Switzerland,3
+522,Argentina,2,85,75.6,55.68,Successful,Argentina vs Switzerland,3
+523,Argentina,2,88,76.08,76.80000000000001,Successful,Argentina vs Switzerland,3
+524,Argentina,2,88,81.36,74.0,Successful,Argentina vs Switzerland,3
+525,Switzerland,3,98,45.48,3.6799999999999997,Successful,Argentina vs Switzerland,3
+526,Switzerland,3,104,34.92,75.04,Successful,Argentina vs Switzerland,3
+527,Argentina,3,106,66.72,75.36,Successful,Argentina vs Switzerland,3
+528,Argentina,4,110,86.16,9.440000000000001,Successful,Argentina vs Switzerland,3
+529,Argentina,4,110,99.11999999999999,53.28,Successful,Argentina vs Switzerland,3
+530,Argentina,4,111,90.11999999999999,16.48,Successful,Argentina vs Switzerland,3
+531,Switzerland,4,114,76.32,28.8,Successful,Argentina vs Switzerland,3
+532,Switzerland,4,115,83.75999999999999,73.12,Successful,Argentina vs Switzerland,3
+533,Argentina,4,117,81.6,49.6,Successful,Argentina vs Switzerland,3
+534,Switzerland,4,119,76.44,76.16000000000001,Successful,Argentina vs Switzerland,3
+535,Switzerland,4,121,67.2,8.4,Successful,Argentina vs Switzerland,3
+536,Argentina,4,122,51.0,59.6,Successful,Argentina vs Switzerland,3
+537,USA,1,5,47.52,66.08,Successful,Belgium vs USA,3
+538,USA,1,11,64.8,75.36,Successful,Belgium vs USA,3
+539,USA,1,12,76.2,72.24,Successful,Belgium vs USA,3
+540,Belgium,1,12,27.0,72.4,Successful,Belgium vs USA,3
+541,Belgium,1,16,70.2,70.88,Successful,Belgium vs USA,3
+542,Belgium,1,17,88.2,57.28,Successful,Belgium vs USA,3
+543,Belgium,1,19,51.84,10.88,Successful,Belgium vs USA,3
+544,USA,1,19,43.92,63.04,Successful,Belgium vs USA,3
+545,USA,1,20,59.75999999999999,74.32000000000001,Successful,Belgium vs USA,3
+546,Belgium,1,20,83.64,60.879999999999995,Successful,Belgium vs USA,3
+547,USA,1,32,106.8,15.52,Successful,Belgium vs USA,3
+548,USA,1,35,90.48,60.0,Successful,Belgium vs USA,3
+549,Belgium,1,35,47.16,3.3600000000000003,Successful,Belgium vs USA,3
+550,USA,1,44,105.6,15.52,Successful,Belgium vs USA,3
+551,USA,1,44,86.52,40.96000000000001,Successful,Belgium vs USA,3
+552,Belgium,1,45,48.72,6.48,Successful,Belgium vs USA,3
+553,USA,2,51,39.35999999999999,65.52000000000001,Successful,Belgium vs USA,3
+554,Belgium,2,56,41.64,68.48,Successful,Belgium vs USA,3
+555,Belgium,2,59,110.16,66.08,Successful,Belgium vs USA,3
+556,Belgium,2,59,113.28,56.96000000000001,Successful,Belgium vs USA,3
+557,Belgium,2,70,79.68,10.4,Successful,Belgium vs USA,3
+558,Belgium,2,70,84.48,21.12,Successful,Belgium vs USA,3
+559,USA,2,73,53.64,8.959999999999999,Successful,Belgium vs USA,3
+560,Belgium,2,75,76.55999999999999,46.080000000000005,Successful,Belgium vs USA,3
+561,Belgium,2,78,103.91999999999999,3.6799999999999997,Successful,Belgium vs USA,3
+562,USA,2,79,51.12,29.760000000000005,Successful,Belgium vs USA,3
+563,Belgium,2,81,102.96,4.960000000000001,Successful,Belgium vs USA,3
+564,Belgium,2,88,82.2,76.72000000000001,Successful,Belgium vs USA,3
+565,Belgium,3,91,84.71999999999998,4.5600000000000005,Successful,Belgium vs USA,3
+566,USA,3,94,108.96,8.56,Successful,Belgium vs USA,3
+567,USA,3,98,65.52,50.64,Successful,Belgium vs USA,3
+568,USA,3,99,90.48,50.160000000000004,Successful,Belgium vs USA,3
+569,USA,4,105,81.6,9.440000000000001,Successful,Belgium vs USA,3
+570,Belgium,4,107,87.24,16.64,Successful,Belgium vs USA,3
+571,Belgium,4,110,87.0,50.64,Successful,Belgium vs USA,3
+572,USA,4,114,74.04,67.36,Successful,Belgium vs USA,3
+573,Brazil,1,11,39.12,44.24,Successful,Brazil vs Colombia,3
+574,Brazil,1,15,74.16,3.6799999999999997,Successful,Brazil vs Colombia,3
+575,Brazil,1,16,104.64,55.28,Successful,Brazil vs Colombia,3
+576,Colombia,1,21,42.72,47.52,Successful,Brazil vs Colombia,3
+577,Colombia,1,21,57.84,52.0,Successful,Brazil vs Colombia,3
+578,Colombia,1,23,65.16,43.84,Successful,Brazil vs Colombia,3
+579,Brazil,1,24,99.11999999999999,26.560000000000002,Successful,Brazil vs Colombia,3
+580,Colombia,1,28,82.32,40.64,Successful,Brazil vs Colombia,3
+581,Brazil,1,29,42.959999999999994,3.84,Successful,Brazil vs Colombia,3
+582,Brazil,1,30,83.52,10.72,Successful,Brazil vs Colombia,3
+583,Brazil,1,31,67.92,18.400000000000002,Successful,Brazil vs Colombia,3
+584,Colombia,1,34,77.16,71.92,Successful,Brazil vs Colombia,3
+585,Brazil,1,37,50.64,47.2,Successful,Brazil vs Colombia,3
+586,Brazil,1,38,106.2,57.2,Successful,Brazil vs Colombia,3
+587,Brazil,1,40,30.72,78.48,Successful,Brazil vs Colombia,3
+588,Brazil,2,46,78.0,61.2,Successful,Brazil vs Colombia,3
+589,Colombia,2,49,87.11999999999999,36.64,Successful,Brazil vs Colombia,3
+590,Brazil,2,50,83.28,22.0,Successful,Brazil vs Colombia,3
+591,Brazil,2,52,110.88000000000001,65.04,Successful,Brazil vs Colombia,3
+592,Brazil,2,56,71.75999999999999,6.720000000000001,Successful,Brazil vs Colombia,3
+593,Colombia,2,59,54.0,17.12,Successful,Brazil vs Colombia,3
+594,Colombia,2,64,76.55999999999999,18.96,Successful,Brazil vs Colombia,3
+595,Colombia,2,80,82.08,40.96000000000001,Successful,Brazil vs Colombia,3
+596,Colombia,2,83,71.04,54.24,Successful,Brazil vs Colombia,3
+597,Colombia,2,88,83.88000000000001,60.0,Successful,Brazil vs Colombia,3
+598,Brazil,2,91,89.64,62.879999999999995,Successful,Brazil vs Colombia,3
+599,France,1,17,73.55999999999999,2.32,Successful,France vs Germany,3
+600,France,1,17,77.04,11.520000000000001,Successful,France vs Germany,3
+601,France,1,17,85.44,16.0,Successful,France vs Germany,3
+602,France,1,17,87.36,25.28,Successful,France vs Germany,3
+603,France,1,20,50.879999999999995,70.8,Successful,France vs Germany,3
+604,France,1,35,56.879999999999995,35.760000000000005,Successful,France vs Germany,3
+605,France,1,43,46.32,24.16,Successful,France vs Germany,3
+606,France,1,44,55.92,64.8,Successful,France vs Germany,3
+607,France,2,53,47.04,61.6,Successful,France vs Germany,3
+608,France,2,63,105.0,67.28,Successful,France vs Germany,3
+609,France,2,72,96.48,13.76,Successful,France vs Germany,3
+610,France,2,75,105.36,46.080000000000005,Successful,France vs Germany,3
+611,France,2,75,101.64,64.8,Successful,France vs Germany,3
+612,Germany,2,76,55.92,23.52,Successful,France vs Germany,3
+613,Germany,2,86,91.2,6.56,Successful,France vs Germany,3
+614,France,2,87,26.279999999999998,60.64,Successful,France vs Germany,3
+615,France,2,87,32.16,58.160000000000004,Successful,France vs Germany,3
+616,Costa Rica,1,5,74.28,2.8800000000000003,Successful,Netherlands vs Costa Rica,3
+617,Netherlands,1,7,87.36,8.64,Successful,Netherlands vs Costa Rica,3
+618,Costa Rica,1,10,78.96,2.16,Successful,Netherlands vs Costa Rica,3
+619,Netherlands,1,18,51.84,72.24,Successful,Netherlands vs Costa Rica,3
+620,Netherlands,1,20,80.64,57.760000000000005,Successful,Netherlands vs Costa Rica,3
+621,Netherlands,1,22,87.0,17.84,Successful,Netherlands vs Costa Rica,3
+622,Costa Rica,1,22,82.68,16.880000000000003,Successful,Netherlands vs Costa Rica,3
+623,Netherlands,1,34,70.8,16.96,Successful,Netherlands vs Costa Rica,3
+624,Netherlands,1,41,82.44,47.36000000000001,Successful,Netherlands vs Costa Rica,3
+625,Costa Rica,1,42,79.44,2.64,Successful,Netherlands vs Costa Rica,3
+626,Netherlands,1,44,71.39999999999999,3.3600000000000003,Successful,Netherlands vs Costa Rica,3
+627,Netherlands,1,44,104.28,9.840000000000002,Successful,Netherlands vs Costa Rica,3
+628,Netherlands,2,58,84.48,77.44,Successful,Netherlands vs Costa Rica,3
+629,Netherlands,2,72,85.8,7.68,Successful,Netherlands vs Costa Rica,3
+630,Netherlands,2,76,101.88000000000001,7.840000000000001,Successful,Netherlands vs Costa Rica,3
+631,Netherlands,2,83,109.55999999999999,23.200000000000003,Successful,Netherlands vs Costa Rica,3
+632,Netherlands,2,86,73.67999999999999,75.36,Successful,Netherlands vs Costa Rica,3
+633,Netherlands,2,89,88.55999999999999,14.080000000000002,Successful,Netherlands vs Costa Rica,3
+634,Netherlands,4,106,96.24,3.28,Successful,Netherlands vs Costa Rica,3
+635,Costa Rica,4,112,107.52,19.840000000000003,Successful,Netherlands vs Costa Rica,3
+636,Costa Rica,4,116,92.88000000000001,38.0,Successful,Netherlands vs Costa Rica,3
+637,Argentina,1,3,88.8,4.08,Successful,Argentina vs Belgium,3
+638,Belgium,1,7,41.04,51.6,Successful,Argentina vs Belgium,3
+639,Belgium,1,14,101.75999999999999,3.5200000000000005,Successful,Argentina vs Belgium,3
+640,Belgium,1,16,69.36,76.96000000000001,Successful,Argentina vs Belgium,3
+641,Belgium,1,16,86.64,74.72000000000001,Successful,Argentina vs Belgium,3
+642,Belgium,1,20,53.4,74.08,Successful,Argentina vs Belgium,3
+643,Argentina,1,20,44.04,16.64,Successful,Argentina vs Belgium,3
+644,Belgium,1,23,79.55999999999999,28.880000000000003,Successful,Argentina vs Belgium,3
+645,Argentina,1,38,93.84,44.96000000000001,Successful,Argentina vs Belgium,3
+646,Argentina,1,38,91.44,41.92,Successful,Argentina vs Belgium,3
+647,Argentina,1,44,55.68,47.36000000000001,Successful,Argentina vs Belgium,3
+648,Argentina,2,51,105.6,66.0,Successful,Argentina vs Belgium,3
+649,Argentina,2,54,85.68,22.400000000000002,Successful,Argentina vs Belgium,3
+650,Argentina,2,58,84.71999999999998,56.24,Successful,Argentina vs Belgium,3
+651,Argentina,2,63,68.39999999999999,2.72,Successful,Argentina vs Belgium,3
+652,Belgium,2,74,89.39999999999999,72.64,Successful,Argentina vs Belgium,3
+653,Argentina,2,79,101.75999999999999,2.8000000000000003,Successful,Argentina vs Belgium,3
+654,Belgium,2,79,39.6,53.2,Successful,Argentina vs Belgium,3
+655,Argentina,2,80,71.52,53.120000000000005,Successful,Argentina vs Belgium,3
+656,Belgium,2,91,63.24,76.48,Successful,Argentina vs Belgium,3
+657,Brazil,1,1,79.44,12.56,Successful,Brazil vs Germany,3
+658,Germany,1,6,57.24,33.839999999999996,Successful,Brazil vs Germany,3
+659,Germany,1,9,66.47999999999999,7.359999999999999,Successful,Brazil vs Germany,3
+660,Brazil,1,12,29.04,58.56,Successful,Brazil vs Germany,3
+661,Brazil,1,13,41.76,53.44,Successful,Brazil vs Germany,3
+662,Brazil,1,13,54.48,51.28,Successful,Brazil vs Germany,3
+663,Germany,1,21,111.11999999999999,14.080000000000002,Successful,Brazil vs Germany,3
+664,Brazil,1,27,81.6,11.920000000000002,Successful,Brazil vs Germany,3
+665,Germany,1,28,70.55999999999999,41.28,Successful,Brazil vs Germany,3
+666,Germany,1,30,41.279999999999994,70.64,Successful,Brazil vs Germany,3
+667,Germany,1,34,80.04,27.52,Successful,Brazil vs Germany,3
+668,Germany,1,39,41.76,59.84,Successful,Brazil vs Germany,3
+669,Germany,1,40,27.720000000000002,3.6799999999999997,Successful,Brazil vs Germany,3
+670,Brazil,1,43,85.08,41.120000000000005,Successful,Brazil vs Germany,3
+671,Brazil,2,51,86.88000000000001,66.0,Successful,Brazil vs Germany,3
+672,Brazil,2,52,111.36,66.24,Successful,Brazil vs Germany,3
+673,Brazil,2,53,98.39999999999999,74.32000000000001,Successful,Brazil vs Germany,3
+674,Germany,2,59,98.52,36.480000000000004,Successful,Brazil vs Germany,3
+675,Brazil,2,73,98.64,21.76,Successful,Brazil vs Germany,3
+676,Germany,2,74,76.32,3.5200000000000005,Successful,Brazil vs Germany,3
+677,Brazil,2,75,32.76,52.800000000000004,Successful,Brazil vs Germany,3
+678,Brazil,2,89,104.52,48.400000000000006,Successful,Brazil vs Germany,3
+679,Argentina,1,2,82.32,47.04,Successful,Netherlands vs Argentina,3
+680,Argentina,1,8,76.2,22.16,Successful,Netherlands vs Argentina,3
+681,Argentina,1,9,89.28,17.84,Successful,Netherlands vs Argentina,3
+682,Argentina,1,14,49.559999999999995,4.5600000000000005,Successful,Netherlands vs Argentina,3
+683,Argentina,1,14,70.92,3.28,Successful,Netherlands vs Argentina,3
+684,Argentina,1,22,108.71999999999998,19.36,Successful,Netherlands vs Argentina,3
+685,Netherlands,1,24,11.52,23.680000000000003,Successful,Netherlands vs Argentina,3
+686,Netherlands,1,42,40.440000000000005,2.64,Successful,Netherlands vs Argentina,3
+687,Argentina,1,43,77.52,2.08,Successful,Netherlands vs Argentina,3
+688,Argentina,1,44,87.11999999999999,7.5200000000000005,Successful,Netherlands vs Argentina,3
+689,Argentina,1,46,50.64,6.720000000000001,Successful,Netherlands vs Argentina,3
+690,Argentina,2,54,66.36,19.200000000000003,Successful,Netherlands vs Argentina,3
+691,Netherlands,2,58,34.08,26.560000000000002,Successful,Netherlands vs Argentina,3
+692,Netherlands,2,69,60.12,53.6,Successful,Netherlands vs Argentina,3
+693,Netherlands,2,76,65.28,67.28,Successful,Netherlands vs Argentina,3
+694,Netherlands,2,85,30.0,4.16,Successful,Netherlands vs Argentina,3
+695,Argentina,2,86,82.68,40.400000000000006,Successful,Netherlands vs Argentina,3
+696,Netherlands,2,86,6.84,73.67999999999999,Successful,Netherlands vs Argentina,3
+697,Argentina,2,87,75.24,55.120000000000005,Successful,Netherlands vs Argentina,3
+698,Netherlands,2,90,101.28,49.28,Successful,Netherlands vs Argentina,3
+699,Netherlands,3,93,61.67999999999999,62.32000000000001,Successful,Netherlands vs Argentina,3
+700,Netherlands,3,95,109.68,66.0,Successful,Netherlands vs Argentina,3
+701,Netherlands,3,95,110.39999999999999,62.720000000000006,Successful,Netherlands vs Argentina,3
+702,Netherlands,3,98,48.48,77.76,Successful,Netherlands vs Argentina,3
+703,Argentina,3,100,76.44,33.36000000000001,Successful,Netherlands vs Argentina,3
+704,Argentina,3,102,60.0,24.32,Successful,Netherlands vs Argentina,3
+705,Argentina,3,105,106.68,12.16,Successful,Netherlands vs Argentina,3
+706,Netherlands,4,105,9.12,26.080000000000002,Successful,Netherlands vs Argentina,3
+707,Argentina,4,108,52.559999999999995,67.84,Successful,Netherlands vs Argentina,3
+708,Argentina,4,116,83.64,6.720000000000001,Successful,Netherlands vs Argentina,3
+709,Argentina,4,116,109.2,10.08,Successful,Netherlands vs Argentina,3
+710,Netherlands,4,120,90.24,24.0,Successful,Netherlands vs Argentina,3
+711,Netherlands,1,7,67.2,27.04,Successful,Brazil vs Netherlands,3
+712,Netherlands,1,10,79.68,59.760000000000005,Successful,Brazil vs Netherlands,3
+713,Netherlands,1,10,90.24,49.2,Successful,Brazil vs Netherlands,3
+714,Brazil,1,20,82.8,38.160000000000004,Successful,Brazil vs Netherlands,3
+715,Brazil,1,22,88.32,21.36,Successful,Brazil vs Netherlands,3
+716,Netherlands,1,23,76.08,11.920000000000002,Successful,Brazil vs Netherlands,3
+717,Netherlands,1,23,80.39999999999999,13.280000000000001,Successful,Brazil vs Netherlands,3
+718,Netherlands,1,23,87.71999999999998,10.96,Successful,Brazil vs Netherlands,3
+719,Brazil,1,27,104.75999999999999,13.280000000000001,Successful,Brazil vs Netherlands,3
+720,Netherlands,1,28,90.96,15.36,Successful,Brazil vs Netherlands,3
+721,Brazil,1,30,42.72,76.32000000000001,Successful,Brazil vs Netherlands,3
+722,Brazil,1,35,59.279999999999994,13.12,Successful,Brazil vs Netherlands,3
+723,Brazil,2,47,4.56,29.439999999999998,Successful,Brazil vs Netherlands,3
+724,Brazil,2,48,68.39999999999999,56.96000000000001,Successful,Brazil vs Netherlands,3
+725,Netherlands,2,48,53.16,58.720000000000006,Successful,Brazil vs Netherlands,3
+726,Netherlands,2,52,51.6,44.72,Successful,Brazil vs Netherlands,3
+727,Netherlands,2,56,51.6,41.36000000000001,Successful,Brazil vs Netherlands,3
+728,Netherlands,2,58,87.6,39.760000000000005,Successful,Brazil vs Netherlands,3
+729,Brazil,2,59,92.39999999999999,37.760000000000005,Successful,Brazil vs Netherlands,3
+730,Brazil,2,61,87.6,39.84,Successful,Brazil vs Netherlands,3
+731,Netherlands,2,66,30.0,28.32,Successful,Brazil vs Netherlands,3
+732,Netherlands,2,70,65.64,21.6,Successful,Brazil vs Netherlands,3
+733,Netherlands,2,73,98.16,24.8,Successful,Brazil vs Netherlands,3
+734,Brazil,2,74,43.08,73.52000000000001,Successful,Brazil vs Netherlands,3
+735,Brazil,2,75,53.76,54.160000000000004,Successful,Brazil vs Netherlands,3
+736,Netherlands,2,80,34.92,35.839999999999996,Successful,Brazil vs Netherlands,3
+737,Brazil,2,82,83.64,54.879999999999995,Successful,Brazil vs Netherlands,3
+738,Brazil,2,83,84.0,2.08,Successful,Brazil vs Netherlands,3
+739,Brazil,2,83,94.68,4.16,Successful,Brazil vs Netherlands,3
+740,Argentina,1,8,91.2,11.120000000000001,Successful,Germany vs Argentina,3
+741,Germany,1,22,48.84,58.56,Successful,Germany vs Argentina,3
+742,Argentina,1,32,45.959999999999994,32.96,Successful,Germany vs Argentina,3
+743,Germany,1,36,85.44,76.16000000000001,Successful,Germany vs Argentina,3
+744,Germany,2,52,87.96,16.72,Successful,Germany vs Argentina,3
+745,Argentina,2,52,65.28,59.84,Successful,Germany vs Argentina,3
+746,Argentina,2,65,69.36,37.839999999999996,Successful,Germany vs Argentina,3
+747,Germany,2,68,43.8,4.960000000000001,Successful,Germany vs Argentina,3
+748,Argentina,2,73,109.91999999999999,14.64,Successful,Germany vs Argentina,3
+749,Argentina,2,77,87.84,29.439999999999998,Successful,Germany vs Argentina,3
+750,Argentina,2,89,104.39999999999999,8.16,Successful,Germany vs Argentina,3
+751,Argentina,2,90,51.35999999999999,10.0,Successful,Germany vs Argentina,3
+752,Argentina,3,104,60.48,45.04,Successful,Germany vs Argentina,3
+753,Argentina,4,110,76.32,44.64,Successful,Germany vs Argentina,3
+754,Germany,4,118,94.91999999999999,68.72000000000001,Successful,Germany vs Argentina,3
+755,Germany,4,118,94.44,68.96000000000001,Successful,Germany vs Argentina,3
+756,Brazil,1,7,76.8,24.32,Unsuccessful,Brazil vs Croatia,3
+757,Brazil,1,9,74.64,6.0,Unsuccessful,Brazil vs Croatia,3
+758,Brazil,1,32,111.6,74.0,Unsuccessful,Brazil vs Croatia,3
+759,Brazil,1,36,101.88000000000001,5.760000000000001,Unsuccessful,Brazil vs Croatia,3
+760,Brazil,1,40,89.04,3.6799999999999997,Unsuccessful,Brazil vs Croatia,3
+761,Brazil,1,42,69.12,44.800000000000004,Unsuccessful,Brazil vs Croatia,3
+762,Brazil,1,43,84.84,3.04,Unsuccessful,Brazil vs Croatia,3
+763,Croatia,1,44,35.04,70.4,Unsuccessful,Brazil vs Croatia,3
+764,Brazil,1,44,110.16,23.52,Unsuccessful,Brazil vs Croatia,3
+765,Brazil,2,46,82.2,25.28,Unsuccessful,Brazil vs Croatia,3
+766,Brazil,2,47,98.04,2.4000000000000004,Unsuccessful,Brazil vs Croatia,3
+767,Brazil,2,49,114.0,12.64,Unsuccessful,Brazil vs Croatia,3
+768,Croatia,2,59,92.88000000000001,77.92000000000002,Unsuccessful,Brazil vs Croatia,3
+769,Croatia,2,74,51.48,9.120000000000001,Unsuccessful,Brazil vs Croatia,3
+770,Croatia,2,83,96.71999999999998,71.04,Unsuccessful,Brazil vs Croatia,3
+771,Croatia,2,84,113.28,11.120000000000001,Unsuccessful,Brazil vs Croatia,3
+772,Croatia,2,85,105.84,62.160000000000004,Unsuccessful,Brazil vs Croatia,3
+773,Brazil,2,89,76.8,77.76,Unsuccessful,Brazil vs Croatia,3
+774,Brazil,2,89,40.559999999999995,56.800000000000004,Unsuccessful,Brazil vs Croatia,3
+775,Croatia,2,91,103.91999999999999,6.56,Unsuccessful,Brazil vs Croatia,3
+776,Netherlands,1,8,87.11999999999999,76.96000000000001,Unsuccessful,Spain vs Netherlands,3
+777,Spain,1,9,68.16,68.72000000000001,Unsuccessful,Spain vs Netherlands,3
+778,Spain,1,22,89.28,69.92,Unsuccessful,Spain vs Netherlands,3
+779,Spain,2,45,72.84,64.32000000000001,Unsuccessful,Spain vs Netherlands,3
+780,Netherlands,2,46,109.91999999999999,9.040000000000001,Unsuccessful,Spain vs Netherlands,3
+781,Spain,2,48,76.55999999999999,77.36000000000001,Unsuccessful,Spain vs Netherlands,3
+782,Netherlands,2,50,76.2,8.48,Unsuccessful,Spain vs Netherlands,3
+783,Spain,2,57,67.44,75.67999999999999,Unsuccessful,Spain vs Netherlands,3
+784,Netherlands,2,63,109.91999999999999,69.28,Unsuccessful,Spain vs Netherlands,3
+785,Netherlands,2,71,46.559999999999995,9.68,Unsuccessful,Spain vs Netherlands,3
+786,Spain,2,77,109.44,10.64,Unsuccessful,Spain vs Netherlands,3
+787,Spain,2,77,117.48,21.840000000000003,Unsuccessful,Spain vs Netherlands,3
+788,Spain,2,79,91.68,6.24,Unsuccessful,Spain vs Netherlands,3
+789,Spain,2,82,86.16,54.08,Unsuccessful,Spain vs Netherlands,3
+790,Netherlands,2,83,45.24,62.720000000000006,Unsuccessful,Spain vs Netherlands,3
+791,Netherlands,2,86,108.96,2.64,Unsuccessful,Spain vs Netherlands,3
+792,Netherlands,2,87,99.48,31.84,Unsuccessful,Spain vs Netherlands,3
+793,Spain,2,89,68.04,2.4800000000000004,Unsuccessful,Spain vs Netherlands,3
+794,Spain,2,92,108.48,20.72,Unsuccessful,Spain vs Netherlands,3
+795,Uruguay,1,0,69.6,2.72,Unsuccessful,Uruguay vs Costa Rica,3
+796,Uruguay,1,1,85.32,74.8,Unsuccessful,Uruguay vs Costa Rica,3
+797,Costa Rica,1,2,99.48,68.4,Unsuccessful,Uruguay vs Costa Rica,3
+798,Costa Rica,1,6,36.72,76.48,Unsuccessful,Uruguay vs Costa Rica,3
+799,Costa Rica,1,8,104.75999999999999,57.92000000000001,Unsuccessful,Uruguay vs Costa Rica,3
+800,Costa Rica,1,27,75.72,51.68,Unsuccessful,Uruguay vs Costa Rica,3
+801,Costa Rica,1,28,94.32,18.32,Unsuccessful,Uruguay vs Costa Rica,3
+802,Uruguay,1,36,92.39999999999999,73.76,Unsuccessful,Uruguay vs Costa Rica,3
+803,Costa Rica,1,38,66.6,74.32000000000001,Unsuccessful,Uruguay vs Costa Rica,3
+804,Costa Rica,2,47,88.8,1.8399999999999999,Unsuccessful,Uruguay vs Costa Rica,3
+805,Costa Rica,2,52,87.11999999999999,14.719999999999999,Unsuccessful,Uruguay vs Costa Rica,3
+806,Uruguay,2,61,96.48,73.28,Unsuccessful,Uruguay vs Costa Rica,3
+807,Costa Rica,2,71,106.55999999999999,6.16,Unsuccessful,Uruguay vs Costa Rica,3
+808,Costa Rica,2,73,47.64,76.24,Unsuccessful,Uruguay vs Costa Rica,3
+809,Costa Rica,2,75,108.0,19.200000000000003,Unsuccessful,Uruguay vs Costa Rica,3
+810,Uruguay,2,81,79.68,2.72,Unsuccessful,Uruguay vs Costa Rica,3
+811,Costa Rica,2,92,115.44,75.84,Unsuccessful,Uruguay vs Costa Rica,3
+812,Italy,1,3,83.52,47.04,Unsuccessful,England vs Italy,3
+813,England,1,4,81.96,7.6000000000000005,Unsuccessful,England vs Italy,3
+814,England,1,4,102.0,23.36,Unsuccessful,England vs Italy,3
+815,Italy,1,6,86.39999999999999,7.5200000000000005,Unsuccessful,England vs Italy,3
+816,Italy,1,7,105.11999999999999,52.64,Unsuccessful,England vs Italy,3
+817,Italy,1,10,30.599999999999998,30.72,Unsuccessful,England vs Italy,3
+818,Italy,1,25,94.44,69.12,Unsuccessful,England vs Italy,3
+819,Italy,1,26,76.55999999999999,1.1199999999999999,Unsuccessful,England vs Italy,3
+820,Italy,1,27,89.64,77.28,Unsuccessful,England vs Italy,3
+821,England,1,28,83.04,2.2399999999999998,Unsuccessful,England vs Italy,3
+822,England,1,28,84.84,4.4799999999999995,Unsuccessful,England vs Italy,3
+823,Italy,1,41,33.839999999999996,62.56,Unsuccessful,England vs Italy,3
+824,England,2,50,105.48,49.92,Unsuccessful,England vs Italy,3
+825,Italy,2,53,64.08,18.72,Unsuccessful,England vs Italy,3
+826,England,2,68,114.36,13.92,Unsuccessful,England vs Italy,3
+827,Italy,2,69,66.72,8.32,Unsuccessful,England vs Italy,3
+828,England,2,81,88.2,36.080000000000005,Unsuccessful,England vs Italy,3
+829,England,2,90,87.6,15.040000000000001,Unsuccessful,England vs Italy,3
+830,England,2,90,91.91999999999999,27.52,Unsuccessful,England vs Italy,3
+831,England,2,91,92.16,48.480000000000004,Unsuccessful,England vs Italy,3
+832,Italy,2,94,99.84,43.68000000000001,Unsuccessful,England vs Italy,3
+833,Argentina,1,3,76.32,30.400000000000002,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+834,Argentina,1,4,115.32,22.480000000000004,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+835,Argentina,1,10,84.96,39.2,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+836,Argentina,1,10,78.36,4.24,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+837,Argentina,1,15,78.6,45.120000000000005,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+838,Argentina,1,23,94.8,14.880000000000003,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+839,Bosnia and Herzegovina,1,25,107.39999999999999,5.04,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+840,Bosnia and Herzegovina,1,28,99.84,7.5200000000000005,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+841,Bosnia and Herzegovina,1,43,75.6,36.96,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+842,Argentina,2,47,89.04,18.880000000000003,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+843,Bosnia and Herzegovina,2,48,86.28,2.5600000000000005,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+844,Bosnia and Herzegovina,2,50,73.32,3.6,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+845,Argentina,2,56,101.88000000000001,13.600000000000001,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+846,Bosnia and Herzegovina,2,57,114.0,18.32,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+847,Argentina,2,62,78.96,34.080000000000005,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+848,Bosnia and Herzegovina,2,68,107.28,67.12,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+849,Bosnia and Herzegovina,2,69,36.48,22.880000000000003,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+850,Argentina,2,72,76.08,15.280000000000001,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+851,Bosnia and Herzegovina,2,75,88.8,0.6400000000000001,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+852,Argentina,2,87,49.559999999999995,76.32000000000001,Unsuccessful,Argentina vs Bosnia and Herzegovina,3
+853,Germany,1,3,112.55999999999999,56.32000000000001,Unsuccessful,Germany vs Portugal,3
+854,Portugal,1,19,48.959999999999994,78.08,Unsuccessful,Germany vs Portugal,3
+855,Germany,1,19,105.48,60.56,Unsuccessful,Germany vs Portugal,3
+856,Portugal,1,21,87.36,22.080000000000002,Unsuccessful,Germany vs Portugal,3
+857,Portugal,1,22,74.39999999999999,77.68,Unsuccessful,Germany vs Portugal,3
+858,Germany,2,45,82.32,76.64,Unsuccessful,Germany vs Portugal,3
+859,Portugal,2,55,87.84,25.6,Unsuccessful,Germany vs Portugal,3
+860,Germany,2,57,94.68,24.32,Unsuccessful,Germany vs Portugal,3
+861,Portugal,2,58,91.44,47.760000000000005,Unsuccessful,Germany vs Portugal,3
+862,Portugal,2,59,113.75999999999999,2.5600000000000005,Unsuccessful,Germany vs Portugal,3
+863,Germany,2,65,72.24,21.200000000000003,Unsuccessful,Germany vs Portugal,3
+864,Germany,2,66,108.48,68.16000000000001,Unsuccessful,Germany vs Portugal,3
+865,Germany,2,71,80.39999999999999,27.200000000000003,Unsuccessful,Germany vs Portugal,3
+866,Germany,2,75,106.08,67.76,Unsuccessful,Germany vs Portugal,3
+867,Portugal,2,79,96.96,72.16000000000001,Unsuccessful,Germany vs Portugal,3
+868,Portugal,2,85,96.48,77.44,Unsuccessful,Germany vs Portugal,3
+869,Portugal,2,91,97.91999999999999,8.0,Unsuccessful,Germany vs Portugal,3
+870,Belgium,1,3,70.8,4.88,Unsuccessful,Belgium vs Algeria,3
+871,Belgium,1,10,102.24,76.96000000000001,Unsuccessful,Belgium vs Algeria,3
+872,Belgium,1,31,109.32,22.480000000000004,Unsuccessful,Belgium vs Algeria,3
+873,Algeria,1,34,67.8,77.68,Unsuccessful,Belgium vs Algeria,3
+874,Belgium,2,50,83.04,16.8,Unsuccessful,Belgium vs Algeria,3
+875,Belgium,2,57,79.68,14.4,Unsuccessful,Belgium vs Algeria,3
+876,Algeria,2,58,55.199999999999996,78.32000000000001,Unsuccessful,Belgium vs Algeria,3
+877,Belgium,2,63,99.36,1.7600000000000002,Unsuccessful,Belgium vs Algeria,3
+878,Algeria,2,79,86.28,34.64,Unsuccessful,Belgium vs Algeria,3
+879,Algeria,2,84,6.72,4.800000000000001,Unsuccessful,Belgium vs Algeria,3
+880,Belgium,2,86,106.08,1.6,Unsuccessful,Belgium vs Algeria,3
+881,Mexico,1,8,82.08,16.240000000000002,Unsuccessful,Brazil vs Mexico,3
+882,Brazil,1,12,91.32,20.96,Unsuccessful,Brazil vs Mexico,3
+883,Brazil,1,13,102.11999999999999,45.120000000000005,Unsuccessful,Brazil vs Mexico,3
+884,Brazil,1,20,83.16,2.4800000000000004,Unsuccessful,Brazil vs Mexico,3
+885,Mexico,1,22,112.32,23.36,Unsuccessful,Brazil vs Mexico,3
+886,Mexico,1,31,72.6,42.400000000000006,Unsuccessful,Brazil vs Mexico,3
+887,Brazil,1,32,86.64,39.2,Unsuccessful,Brazil vs Mexico,3
+888,Brazil,1,37,105.84,27.200000000000003,Unsuccessful,Brazil vs Mexico,3
+889,Mexico,1,45,111.24,9.920000000000002,Unsuccessful,Brazil vs Mexico,3
+890,Mexico,2,55,103.44,6.48,Unsuccessful,Brazil vs Mexico,3
+891,Brazil,2,55,16.32,74.88,Unsuccessful,Brazil vs Mexico,3
+892,Brazil,2,58,85.08,61.84,Unsuccessful,Brazil vs Mexico,3
+893,Mexico,2,65,90.6,77.28,Unsuccessful,Brazil vs Mexico,3
+894,Brazil,2,67,105.24,1.7600000000000002,Unsuccessful,Brazil vs Mexico,3
+895,Brazil,2,67,89.75999999999999,16.8,Unsuccessful,Brazil vs Mexico,3
+896,Brazil,2,68,108.48,28.480000000000004,Unsuccessful,Brazil vs Mexico,3
+897,Brazil,2,70,104.88000000000001,8.0,Unsuccessful,Brazil vs Mexico,3
+898,Brazil,2,71,74.16,75.92,Unsuccessful,Brazil vs Mexico,3
+899,Brazil,2,74,99.11999999999999,24.32,Unsuccessful,Brazil vs Mexico,3
+900,Mexico,2,74,108.24,54.24,Unsuccessful,Brazil vs Mexico,3
+901,Brazil,2,77,102.6,27.360000000000003,Unsuccessful,Brazil vs Mexico,3
+902,Brazil,2,78,86.39999999999999,70.88,Unsuccessful,Brazil vs Mexico,3
+903,Brazil,2,90,90.11999999999999,41.2,Unsuccessful,Brazil vs Mexico,3
+904,Chile,1,5,88.2,1.6800000000000002,Unsuccessful,Spain vs Chile,3
+905,Spain,1,6,66.0,34.56,Unsuccessful,Spain vs Chile,3
+906,Chile,1,8,42.24,4.4,Unsuccessful,Spain vs Chile,3
+907,Chile,1,24,105.84,4.32,Unsuccessful,Spain vs Chile,3
+908,Spain,1,29,105.48,19.92,Unsuccessful,Spain vs Chile,3
+909,Spain,1,30,109.2,70.4,Unsuccessful,Spain vs Chile,3
+910,Spain,1,45,85.2,36.160000000000004,Unsuccessful,Spain vs Chile,3
+911,Chile,1,45,60.959999999999994,30.400000000000002,Unsuccessful,Spain vs Chile,3
+912,Chile,2,46,44.879999999999995,57.68,Unsuccessful,Spain vs Chile,3
+913,Spain,2,46,92.28,25.92,Unsuccessful,Spain vs Chile,3
+914,Chile,2,47,96.0,75.2,Unsuccessful,Spain vs Chile,3
+915,Spain,2,54,93.36,57.6,Unsuccessful,Spain vs Chile,3
+916,Spain,2,69,90.96,76.96000000000001,Unsuccessful,Spain vs Chile,3
+917,Chile,2,82,55.8,32.4,Unsuccessful,Spain vs Chile,3
+918,Spain,2,89,38.52,50.0,Unsuccessful,Spain vs Chile,3
+919,Chile,2,93,73.67999999999999,78.32000000000001,Unsuccessful,Spain vs Chile,3
+920,Netherlands,1,2,83.75999999999999,5.120000000000001,Unsuccessful,Australia vs Netherlands,3
+921,Australia,1,10,95.28,48.96000000000001,Unsuccessful,Australia vs Netherlands,3
+922,Australia,1,10,76.91999999999999,39.04,Unsuccessful,Australia vs Netherlands,3
+923,Australia,1,20,75.36,51.28,Unsuccessful,Australia vs Netherlands,3
+924,Netherlands,1,23,98.75999999999999,2.08,Unsuccessful,Australia vs Netherlands,3
+925,Australia,1,28,89.28,1.1199999999999999,Unsuccessful,Australia vs Netherlands,3
+926,Netherlands,2,56,91.91999999999999,70.4,Unsuccessful,Australia vs Netherlands,3
+927,Australia,2,56,28.56,16.72,Unsuccessful,Australia vs Netherlands,3
+928,Australia,2,60,38.64,24.16,Unsuccessful,Australia vs Netherlands,3
+929,Netherlands,2,61,45.72,69.52000000000001,Unsuccessful,Australia vs Netherlands,3
+930,Australia,2,68,69.12,77.28,Unsuccessful,Australia vs Netherlands,3
+931,Australia,2,77,112.8,58.400000000000006,Unsuccessful,Australia vs Netherlands,3
+932,Netherlands,2,78,64.8,78.24000000000001,Unsuccessful,Australia vs Netherlands,3
+933,Netherlands,2,79,104.16,55.36000000000001,Unsuccessful,Australia vs Netherlands,3
+934,Australia,2,79,84.6,74.0,Unsuccessful,Australia vs Netherlands,3
+935,Australia,2,87,107.64,4.4799999999999995,Unsuccessful,Australia vs Netherlands,3
+936,Australia,2,92,90.48,75.52000000000001,Unsuccessful,Australia vs Netherlands,3
+937,England,1,3,46.08,3.84,Unsuccessful,Uruguay vs England,3
+938,Uruguay,1,7,86.88000000000001,2.4000000000000004,Unsuccessful,Uruguay vs England,3
+939,England,1,10,79.44,3.5200000000000005,Unsuccessful,Uruguay vs England,3
+940,England,1,22,81.24,67.76,Unsuccessful,Uruguay vs England,3
+941,England,1,29,75.72,67.52000000000001,Unsuccessful,Uruguay vs England,3
+942,England,1,37,86.64,3.6799999999999997,Unsuccessful,Uruguay vs England,3
+943,Uruguay,1,38,55.199999999999996,46.24,Unsuccessful,Uruguay vs England,3
+944,England,2,52,106.91999999999999,65.2,Unsuccessful,Uruguay vs England,3
+945,England,2,59,87.48,76.56,Unsuccessful,Uruguay vs England,3
+946,England,2,66,97.8,9.76,Unsuccessful,Uruguay vs England,3
+947,England,2,68,106.32,18.48,Unsuccessful,Uruguay vs England,3
+948,England,2,76,68.88,71.04,Unsuccessful,Uruguay vs England,3
+949,Uruguay,2,78,93.84,47.28,Unsuccessful,Uruguay vs England,3
+950,England,2,93,82.8,57.36000000000001,Unsuccessful,Uruguay vs England,3
+951,Italy,1,8,107.52,70.48,Unsuccessful,Italy vs Costa Rica,3
+952,Costa Rica,1,10,47.76,2.5600000000000005,Unsuccessful,Italy vs Costa Rica,3
+953,Costa Rica,1,10,84.11999999999999,18.8,Unsuccessful,Italy vs Costa Rica,3
+954,Italy,1,16,92.88000000000001,10.240000000000002,Unsuccessful,Italy vs Costa Rica,3
+955,Italy,1,21,102.0,50.800000000000004,Unsuccessful,Italy vs Costa Rica,3
+956,Italy,1,22,110.04,20.72,Unsuccessful,Italy vs Costa Rica,3
+957,Italy,1,26,88.32,2.4000000000000004,Unsuccessful,Italy vs Costa Rica,3
+958,Italy,1,28,49.32,55.04,Unsuccessful,Italy vs Costa Rica,3
+959,Italy,1,35,49.68,29.439999999999998,Unsuccessful,Italy vs Costa Rica,3
+960,Italy,1,40,46.8,25.760000000000005,Unsuccessful,Italy vs Costa Rica,3
+961,Italy,1,41,27.0,57.92000000000001,Unsuccessful,Italy vs Costa Rica,3
+962,Costa Rica,1,42,101.16,34.480000000000004,Unsuccessful,Italy vs Costa Rica,3
+963,Italy,2,46,114.24,66.08,Unsuccessful,Italy vs Costa Rica,3
+964,Italy,2,53,86.75999999999999,20.72,Unsuccessful,Italy vs Costa Rica,3
+965,Italy,2,54,85.68,23.52,Unsuccessful,Italy vs Costa Rica,3
+966,Italy,2,55,77.52,66.48,Unsuccessful,Italy vs Costa Rica,3
+967,Costa Rica,2,57,114.71999999999998,78.4,Unsuccessful,Italy vs Costa Rica,3
+968,Italy,2,58,90.71999999999998,52.0,Unsuccessful,Italy vs Costa Rica,3
+969,Italy,2,60,85.08,76.56,Unsuccessful,Italy vs Costa Rica,3
+970,Italy,2,71,92.64,21.44,Unsuccessful,Italy vs Costa Rica,3
+971,Italy,2,76,44.879999999999995,53.760000000000005,Unsuccessful,Italy vs Costa Rica,3
+972,Italy,2,82,65.75999999999999,44.0,Unsuccessful,Italy vs Costa Rica,3
+973,Italy,2,90,67.55999999999999,51.44,Unsuccessful,Italy vs Costa Rica,3
+974,Italy,2,93,91.91999999999999,23.200000000000003,Unsuccessful,Italy vs Costa Rica,3
+975,Argentina,1,4,103.44,8.64,Unsuccessful,Argentina vs Iran,3
+976,Iran,1,10,40.8,29.360000000000003,Unsuccessful,Argentina vs Iran,3
+977,Argentina,1,20,86.64,3.2,Unsuccessful,Argentina vs Iran,3
+978,Argentina,1,24,81.6,76.32000000000001,Unsuccessful,Argentina vs Iran,3
+979,Iran,1,24,60.72,3.5200000000000005,Unsuccessful,Argentina vs Iran,3
+980,Iran,1,25,69.12,6.24,Unsuccessful,Argentina vs Iran,3
+981,Argentina,1,33,75.12,20.16,Unsuccessful,Argentina vs Iran,3
+982,Iran,1,37,39.12,14.32,Unsuccessful,Argentina vs Iran,3
+983,Argentina,1,42,111.11999999999999,23.040000000000003,Unsuccessful,Argentina vs Iran,3
+984,Iran,1,43,59.519999999999996,45.120000000000005,Unsuccessful,Argentina vs Iran,3
+985,Argentina,2,61,95.52,28.160000000000004,Unsuccessful,Argentina vs Iran,3
+986,Iran,2,64,105.36,6.32,Unsuccessful,Argentina vs Iran,3
+987,Iran,2,68,41.279999999999994,76.64,Unsuccessful,Argentina vs Iran,3
+988,Argentina,2,68,109.32,19.840000000000003,Unsuccessful,Argentina vs Iran,3
+989,Argentina,2,74,92.28,48.64,Unsuccessful,Argentina vs Iran,3
+990,Iran,2,78,63.35999999999999,28.0,Unsuccessful,Argentina vs Iran,3
+991,Argentina,2,81,111.71999999999998,21.36,Unsuccessful,Argentina vs Iran,3
+992,Iran,2,88,84.96,65.12,Unsuccessful,Argentina vs Iran,3
+993,Iran,2,89,44.4,32.96,Unsuccessful,Argentina vs Iran,3
+994,Germany,1,3,77.75999999999999,68.72000000000001,Unsuccessful,Germany vs Ghana,3
+995,Germany,1,9,84.48,21.12,Unsuccessful,Germany vs Ghana,3
+996,Ghana,1,15,34.32,68.96000000000001,Unsuccessful,Germany vs Ghana,3
+997,Ghana,1,18,96.6,18.64,Unsuccessful,Germany vs Ghana,3
+998,Ghana,1,24,34.92,65.28,Unsuccessful,Germany vs Ghana,3
+999,Ghana,1,29,101.75999999999999,22.96,Unsuccessful,Germany vs Ghana,3
+1000,Ghana,1,31,97.55999999999999,24.240000000000002,Unsuccessful,Germany vs Ghana,3
+1001,Ghana,1,43,70.92,6.48,Unsuccessful,Germany vs Ghana,3
+1002,Germany,2,46,107.39999999999999,62.720000000000006,Unsuccessful,Germany vs Ghana,3
+1003,Ghana,2,62,103.44,21.92,Unsuccessful,Germany vs Ghana,3
+1004,Germany,2,65,105.71999999999998,22.32,Unsuccessful,Germany vs Ghana,3
+1005,Ghana,2,79,112.68,11.920000000000002,Unsuccessful,Germany vs Ghana,3
+1006,Ghana,2,84,85.2,21.200000000000003,Unsuccessful,Germany vs Ghana,3
+1007,Germany,2,87,69.36,76.96000000000001,Unsuccessful,Germany vs Ghana,3
+1008,Algeria,1,5,44.16,56.160000000000004,Unsuccessful,South Korea vs Algeria,3
+1009,South Korea,1,10,110.39999999999999,62.24,Unsuccessful,South Korea vs Algeria,3
+1010,South Korea,1,10,109.44,57.120000000000005,Unsuccessful,South Korea vs Algeria,3
+1011,Algeria,1,12,39.12,45.92,Unsuccessful,South Korea vs Algeria,3
+1012,Algeria,1,32,86.88000000000001,74.96000000000001,Unsuccessful,South Korea vs Algeria,3
+1013,South Korea,1,34,82.55999999999999,52.64,Unsuccessful,South Korea vs Algeria,3
+1014,Algeria,1,39,65.64,67.28,Unsuccessful,South Korea vs Algeria,3
+1015,Algeria,1,43,87.6,77.28,Unsuccessful,South Korea vs Algeria,3
+1016,South Korea,2,45,78.24,37.44,Unsuccessful,South Korea vs Algeria,3
+1017,Algeria,2,46,35.4,37.36000000000001,Unsuccessful,South Korea vs Algeria,3
+1018,Algeria,2,48,54.84,4.64,Unsuccessful,South Korea vs Algeria,3
+1019,Algeria,2,53,83.28,3.5200000000000005,Unsuccessful,South Korea vs Algeria,3
+1020,Algeria,2,54,44.4,69.84,Unsuccessful,South Korea vs Algeria,3
+1021,South Korea,2,55,59.04,62.400000000000006,Unsuccessful,South Korea vs Algeria,3
+1022,Algeria,2,69,88.68,71.92,Unsuccessful,South Korea vs Algeria,3
+1023,Algeria,2,74,89.04,78.08,Unsuccessful,South Korea vs Algeria,3
+1024,Algeria,2,81,30.0,78.80000000000001,Unsuccessful,South Korea vs Algeria,3
+1025,Algeria,2,87,84.6,56.160000000000004,Unsuccessful,South Korea vs Algeria,3
+1026,Algeria,2,87,117.0,59.52000000000001,Unsuccessful,South Korea vs Algeria,3
+1027,South Korea,2,89,89.75999999999999,21.6,Unsuccessful,South Korea vs Algeria,3
+1028,Algeria,2,89,42.72,55.92000000000001,Unsuccessful,South Korea vs Algeria,3
+1029,Algeria,2,92,62.75999999999999,16.16,Unsuccessful,South Korea vs Algeria,3
+1030,Brazil,1,3,99.36,4.88,Unsuccessful,Cameroon vs Brazil,3
+1031,Cameroon,1,4,112.08,74.24,Unsuccessful,Cameroon vs Brazil,3
+1032,Brazil,1,5,91.2,13.76,Unsuccessful,Cameroon vs Brazil,3
+1033,Brazil,1,6,83.52,72.16000000000001,Unsuccessful,Cameroon vs Brazil,3
+1034,Brazil,1,9,47.76,68.32000000000001,Unsuccessful,Cameroon vs Brazil,3
+1035,Cameroon,1,9,91.44,59.04,Unsuccessful,Cameroon vs Brazil,3
+1036,Brazil,1,19,95.04,66.96000000000001,Unsuccessful,Cameroon vs Brazil,3
+1037,Brazil,1,20,91.2,61.6,Unsuccessful,Cameroon vs Brazil,3
+1038,Brazil,1,21,43.199999999999996,74.4,Unsuccessful,Cameroon vs Brazil,3
+1039,Cameroon,1,21,113.39999999999999,26.960000000000004,Unsuccessful,Cameroon vs Brazil,3
+1040,Cameroon,1,24,47.52,16.080000000000002,Unsuccessful,Cameroon vs Brazil,3
+1041,Brazil,1,29,53.76,13.36,Unsuccessful,Cameroon vs Brazil,3
+1042,Cameroon,1,30,104.16,72.96000000000001,Unsuccessful,Cameroon vs Brazil,3
+1043,Brazil,1,41,47.04,13.92,Unsuccessful,Cameroon vs Brazil,3
+1044,Brazil,1,42,41.279999999999994,50.72,Unsuccessful,Cameroon vs Brazil,3
+1045,Brazil,1,44,64.8,34.4,Unsuccessful,Cameroon vs Brazil,3
+1046,Brazil,2,50,92.88000000000001,11.040000000000001,Unsuccessful,Cameroon vs Brazil,3
+1047,Brazil,2,52,87.36,42.080000000000005,Unsuccessful,Cameroon vs Brazil,3
+1048,Cameroon,2,56,94.8,73.2,Unsuccessful,Cameroon vs Brazil,3
+1049,Cameroon,2,61,65.64,76.80000000000001,Unsuccessful,Cameroon vs Brazil,3
+1050,Cameroon,2,68,65.16,54.879999999999995,Unsuccessful,Cameroon vs Brazil,3
+1051,Cameroon,2,68,49.92,3.84,Unsuccessful,Cameroon vs Brazil,3
+1052,Brazil,2,69,91.55999999999999,37.2,Unsuccessful,Cameroon vs Brazil,3
+1053,Cameroon,2,69,106.68,66.24,Unsuccessful,Cameroon vs Brazil,3
+1054,Brazil,2,77,83.75999999999999,72.56,Unsuccessful,Cameroon vs Brazil,3
+1055,Cameroon,2,88,90.0,46.800000000000004,Unsuccessful,Cameroon vs Brazil,3
+1056,Australia,1,0,101.88000000000001,78.16000000000001,Unsuccessful,Australia vs Spain,3
+1057,Australia,1,0,117.6,75.04,Unsuccessful,Australia vs Spain,3
+1058,Spain,1,11,92.64,62.08,Unsuccessful,Australia vs Spain,3
+1059,Australia,1,12,98.28,19.040000000000003,Unsuccessful,Australia vs Spain,3
+1060,Australia,1,14,42.959999999999994,74.08,Unsuccessful,Australia vs Spain,3
+1061,Australia,1,21,88.32,4.960000000000001,Unsuccessful,Australia vs Spain,3
+1062,Spain,1,21,93.84,2.72,Unsuccessful,Australia vs Spain,3
+1063,Australia,1,24,92.52,47.2,Unsuccessful,Australia vs Spain,3
+1064,Spain,1,32,116.03999999999999,66.72000000000001,Unsuccessful,Australia vs Spain,3
+1065,Spain,2,45,88.2,18.16,Unsuccessful,Australia vs Spain,3
+1066,Australia,2,52,67.55999999999999,6.48,Unsuccessful,Australia vs Spain,3
+1067,Australia,2,54,75.84,18.96,Unsuccessful,Australia vs Spain,3
+1068,Australia,2,57,48.0,28.64,Unsuccessful,Australia vs Spain,3
+1069,Australia,2,60,108.36,73.84,Unsuccessful,Australia vs Spain,3
+1070,Australia,2,64,75.36,3.5200000000000005,Unsuccessful,Australia vs Spain,3
+1071,Australia,2,73,114.0,2.4800000000000004,Unsuccessful,Australia vs Spain,3
+1072,Australia,2,75,93.71999999999998,49.760000000000005,Unsuccessful,Australia vs Spain,3
+1073,Spain,2,78,54.959999999999994,33.12,Unsuccessful,Australia vs Spain,3
+1074,Spain,2,81,102.11999999999999,74.32000000000001,Unsuccessful,Australia vs Spain,3
+1075,Spain,2,84,96.36,30.8,Unsuccessful,Australia vs Spain,3
+1076,Chile,1,2,68.28,68.48,Unsuccessful,Netherlands vs Chile,3
+1077,Chile,1,12,109.32,69.67999999999999,Unsuccessful,Netherlands vs Chile,3
+1078,Chile,1,42,73.2,18.240000000000002,Unsuccessful,Netherlands vs Chile,3
+1079,Netherlands,1,42,47.64,60.56,Unsuccessful,Netherlands vs Chile,3
+1080,Chile,2,48,105.71999999999998,12.96,Unsuccessful,Netherlands vs Chile,3
+1081,Chile,2,49,62.04,2.8800000000000003,Unsuccessful,Netherlands vs Chile,3
+1082,Chile,2,55,44.04,2.0,Unsuccessful,Netherlands vs Chile,3
+1083,Chile,2,82,75.36,11.520000000000001,Unsuccessful,Netherlands vs Chile,3
+1084,Netherlands,2,83,82.91999999999999,8.32,Unsuccessful,Netherlands vs Chile,3
+1085,England,1,4,50.4,68.16000000000001,Unsuccessful,Costa Rica vs England,3
+1086,England,1,5,80.64,51.6,Unsuccessful,Costa Rica vs England,3
+1087,England,1,7,87.71999999999998,74.88,Unsuccessful,Costa Rica vs England,3
+1088,Costa Rica,1,8,39.12,6.800000000000001,Unsuccessful,Costa Rica vs England,3
+1089,England,1,23,32.879999999999995,21.76,Unsuccessful,Costa Rica vs England,3
+1090,Costa Rica,1,23,109.68,75.36,Unsuccessful,Costa Rica vs England,3
+1091,Costa Rica,1,27,86.16,37.44,Unsuccessful,Costa Rica vs England,3
+1092,England,1,40,90.71999999999998,77.44,Unsuccessful,Costa Rica vs England,3
+1093,Costa Rica,2,45,69.24,62.800000000000004,Unsuccessful,Costa Rica vs England,3
+1094,Costa Rica,2,62,100.55999999999999,65.67999999999999,Unsuccessful,Costa Rica vs England,3
+1095,England,2,65,76.32,67.2,Unsuccessful,Costa Rica vs England,3
+1096,England,2,69,84.36,37.68,Unsuccessful,Costa Rica vs England,3
+1097,Costa Rica,2,69,107.52,13.92,Unsuccessful,Costa Rica vs England,3
+1098,England,2,76,83.28,5.920000000000001,Unsuccessful,Costa Rica vs England,3
+1099,England,2,78,100.55999999999999,13.12,Unsuccessful,Costa Rica vs England,3
+1100,Costa Rica,2,84,108.71999999999998,58.64,Unsuccessful,Costa Rica vs England,3
+1101,England,2,91,86.28,22.16,Unsuccessful,Costa Rica vs England,3
+1102,Nigeria,1,1,97.68,21.12,Unsuccessful,Nigeria vs Argentina,3
+1103,Argentina,1,3,100.44,37.839999999999996,Unsuccessful,Nigeria vs Argentina,3
+1104,Nigeria,1,7,78.0,3.6799999999999997,Unsuccessful,Nigeria vs Argentina,3
+1105,Nigeria,1,12,94.68,60.720000000000006,Unsuccessful,Nigeria vs Argentina,3
+1106,Nigeria,1,17,60.84,75.36,Unsuccessful,Nigeria vs Argentina,3
+1107,Argentina,1,34,97.2,73.44,Unsuccessful,Nigeria vs Argentina,3
+1108,Argentina,1,40,77.04,16.32,Unsuccessful,Nigeria vs Argentina,3
+1109,Nigeria,1,41,42.24,31.52,Unsuccessful,Nigeria vs Argentina,3
+1110,Nigeria,2,53,81.71999999999998,62.56,Unsuccessful,Nigeria vs Argentina,3
+1111,Argentina,2,56,109.32,9.36,Unsuccessful,Nigeria vs Argentina,3
+1112,Argentina,2,58,87.24,10.56,Unsuccessful,Nigeria vs Argentina,3
+1113,Argentina,2,58,83.75999999999999,5.120000000000001,Unsuccessful,Nigeria vs Argentina,3
+1114,Nigeria,2,58,49.199999999999996,70.88,Unsuccessful,Nigeria vs Argentina,3
+1115,Argentina,2,61,50.879999999999995,54.160000000000004,Unsuccessful,Nigeria vs Argentina,3
+1116,Nigeria,2,61,88.08,37.760000000000005,Unsuccessful,Nigeria vs Argentina,3
+1117,Argentina,2,61,98.64,56.160000000000004,Unsuccessful,Nigeria vs Argentina,3
+1118,Nigeria,2,67,80.64,71.04,Unsuccessful,Nigeria vs Argentina,3
+1119,Argentina,2,67,79.91999999999999,41.120000000000005,Unsuccessful,Nigeria vs Argentina,3
+1120,Nigeria,2,69,99.84,10.32,Unsuccessful,Nigeria vs Argentina,3
+1121,Nigeria,2,71,86.75999999999999,54.24,Unsuccessful,Nigeria vs Argentina,3
+1122,Argentina,2,77,110.04,3.84,Unsuccessful,Nigeria vs Argentina,3
+1123,Argentina,2,78,111.11999999999999,57.28,Unsuccessful,Nigeria vs Argentina,3
+1124,Nigeria,2,80,95.75999999999999,3.5200000000000005,Unsuccessful,Nigeria vs Argentina,3
+1125,Nigeria,2,83,98.64,3.04,Unsuccessful,Nigeria vs Argentina,3
+1126,Germany,1,6,93.84,2.4000000000000004,Unsuccessful,USA vs Germany,3
+1127,USA,1,9,89.28,78.16000000000001,Unsuccessful,USA vs Germany,3
+1128,USA,1,12,85.68,5.920000000000001,Unsuccessful,USA vs Germany,3
+1129,Germany,1,14,106.68,29.760000000000005,Unsuccessful,USA vs Germany,3
+1130,USA,1,17,65.52,47.44,Unsuccessful,USA vs Germany,3
+1131,USA,1,23,40.08,15.840000000000002,Unsuccessful,USA vs Germany,3
+1132,Germany,1,33,39.72,76.96000000000001,Unsuccessful,USA vs Germany,3
+1133,Germany,1,33,39.72,76.32000000000001,Unsuccessful,USA vs Germany,3
+1134,Germany,1,36,65.04,32.24,Unsuccessful,USA vs Germany,3
+1135,Germany,1,37,97.32,58.08,Unsuccessful,USA vs Germany,3
+1136,USA,1,40,118.08,72.64,Unsuccessful,USA vs Germany,3
+1137,Germany,2,62,106.55999999999999,4.32,Unsuccessful,USA vs Germany,3
+1138,Germany,2,78,111.48,16.48,Unsuccessful,USA vs Germany,3
+1139,Germany,2,80,104.04,24.080000000000002,Unsuccessful,USA vs Germany,3
+1140,Germany,2,82,103.68,57.92000000000001,Unsuccessful,USA vs Germany,3
+1141,USA,2,87,80.64,76.48,Unsuccessful,USA vs Germany,3
+1142,Algeria,1,3,65.04,28.72,Unsuccessful,Algeria vs Russia,3
+1143,Russia,1,9,71.75999999999999,15.040000000000001,Unsuccessful,Algeria vs Russia,3
+1144,Algeria,1,12,90.36,31.04,Unsuccessful,Algeria vs Russia,3
+1145,Russia,1,16,69.24,28.8,Unsuccessful,Algeria vs Russia,3
+1146,Algeria,1,24,83.04,35.52,Unsuccessful,Algeria vs Russia,3
+1147,Algeria,1,24,85.91999999999999,77.60000000000001,Unsuccessful,Algeria vs Russia,3
+1148,Russia,1,27,57.24,56.48,Unsuccessful,Algeria vs Russia,3
+1149,Algeria,1,30,107.04,64.96000000000001,Unsuccessful,Algeria vs Russia,3
+1150,Algeria,1,33,96.24,66.0,Unsuccessful,Algeria vs Russia,3
+1151,Russia,1,36,79.68,77.44,Unsuccessful,Algeria vs Russia,3
+1152,Algeria,1,36,79.8,17.84,Unsuccessful,Algeria vs Russia,3
+1153,Algeria,1,41,102.24,77.28,Unsuccessful,Algeria vs Russia,3
+1154,Algeria,1,43,78.36,44.88,Unsuccessful,Algeria vs Russia,3
+1155,Algeria,1,45,84.48,69.84,Unsuccessful,Algeria vs Russia,3
+1156,Russia,2,53,106.32,8.56,Unsuccessful,Algeria vs Russia,3
+1157,Algeria,2,53,54.72,78.72000000000001,Unsuccessful,Algeria vs Russia,3
+1158,Algeria,2,58,88.08,78.64,Unsuccessful,Algeria vs Russia,3
+1159,Algeria,2,62,78.96,3.04,Unsuccessful,Algeria vs Russia,3
+1160,Russia,2,62,51.72,76.56,Unsuccessful,Algeria vs Russia,3
+1161,Russia,2,63,76.55999999999999,71.67999999999999,Unsuccessful,Algeria vs Russia,3
+1162,Russia,2,65,118.44,66.64,Unsuccessful,Algeria vs Russia,3
+1163,Algeria,2,71,117.0,59.2,Unsuccessful,Algeria vs Russia,3
+1164,Algeria,2,77,44.4,20.64,Unsuccessful,Algeria vs Russia,3
+1165,Russia,2,83,63.35999999999999,67.67999999999999,Unsuccessful,Algeria vs Russia,3
+1166,Russia,2,89,113.04,74.08,Unsuccessful,Algeria vs Russia,3
+1167,Russia,2,92,104.88000000000001,78.4,Unsuccessful,Algeria vs Russia,3
+1168,Brazil,1,9,49.559999999999995,46.480000000000004,Unsuccessful,Brazil vs Chile,3
+1169,Brazil,1,11,108.48,69.28,Unsuccessful,Brazil vs Chile,3
+1170,Brazil,1,35,71.52,10.32,Unsuccessful,Brazil vs Chile,3
+1171,Chile,1,40,35.4,45.68000000000001,Unsuccessful,Brazil vs Chile,3
+1172,Brazil,1,40,86.88000000000001,41.52,Unsuccessful,Brazil vs Chile,3
+1173,Brazil,1,42,109.2,1.2000000000000002,Unsuccessful,Brazil vs Chile,3
+1174,Brazil,1,42,116.88,8.08,Unsuccessful,Brazil vs Chile,3
+1175,Brazil,1,46,90.36,54.720000000000006,Unsuccessful,Brazil vs Chile,3
+1176,Brazil,2,45,108.71999999999998,64.72000000000001,Unsuccessful,Brazil vs Chile,3
+1177,Brazil,2,50,66.47999999999999,45.68000000000001,Unsuccessful,Brazil vs Chile,3
+1178,Brazil,2,50,63.599999999999994,10.240000000000002,Unsuccessful,Brazil vs Chile,3
+1179,Brazil,2,52,86.64,60.64,Unsuccessful,Brazil vs Chile,3
+1180,Brazil,2,57,94.44,78.72000000000001,Unsuccessful,Brazil vs Chile,3
+1181,Brazil,2,59,39.84,76.48,Unsuccessful,Brazil vs Chile,3
+1182,Chile,2,61,100.2,36.480000000000004,Unsuccessful,Brazil vs Chile,3
+1183,Chile,2,67,100.55999999999999,57.44,Unsuccessful,Brazil vs Chile,3
+1184,Brazil,2,67,71.52,78.64,Unsuccessful,Brazil vs Chile,3
+1185,Brazil,2,70,85.32,3.04,Unsuccessful,Brazil vs Chile,3
+1186,Chile,2,78,41.879999999999995,69.12,Unsuccessful,Brazil vs Chile,3
+1187,Brazil,2,86,69.6,65.44,Unsuccessful,Brazil vs Chile,3
+1188,Brazil,2,87,112.08,65.12,Unsuccessful,Brazil vs Chile,3
+1189,Brazil,2,90,3.5999999999999996,78.56,Unsuccessful,Brazil vs Chile,3
+1190,Brazil,3,99,88.8,2.5600000000000005,Unsuccessful,Brazil vs Chile,3
+1191,Brazil,4,105,67.8,75.52000000000001,Unsuccessful,Brazil vs Chile,3
+1192,Brazil,4,112,51.0,20.480000000000004,Unsuccessful,Brazil vs Chile,3
+1193,Brazil,4,113,82.8,53.2,Unsuccessful,Brazil vs Chile,3
+1194,Brazil,4,115,84.71999999999998,2.08,Unsuccessful,Brazil vs Chile,3
+1195,Brazil,4,117,87.36,65.44,Unsuccessful,Brazil vs Chile,3
+1196,Chile,4,117,43.68,6.16,Unsuccessful,Brazil vs Chile,3
+1197,Brazil,4,118,89.52,18.56,Unsuccessful,Brazil vs Chile,3
+1198,Brazil,4,120,108.24,22.080000000000002,Unsuccessful,Brazil vs Chile,3
+1199,Mexico,1,19,102.11999999999999,25.200000000000003,Unsuccessful,Netherlands vs Mexico,3
+1200,Mexico,1,36,96.0,22.72,Unsuccessful,Netherlands vs Mexico,3
+1201,Mexico,1,39,117.84,20.64,Unsuccessful,Netherlands vs Mexico,3
+1202,Mexico,2,47,101.04,59.36000000000001,Unsuccessful,Netherlands vs Mexico,3
+1203,Netherlands,2,58,116.88,72.4,Unsuccessful,Netherlands vs Mexico,3
+1204,Mexico,2,59,99.11999999999999,78.0,Unsuccessful,Netherlands vs Mexico,3
+1205,Mexico,2,85,95.28,8.08,Unsuccessful,Netherlands vs Mexico,3
+1206,Netherlands,2,89,86.39999999999999,20.32,Unsuccessful,Netherlands vs Mexico,3
+1207,Costa Rica,1,6,79.8,26.400000000000002,Unsuccessful,Costa Rica vs Greece,3
+1208,Greece,1,7,104.39999999999999,74.8,Unsuccessful,Costa Rica vs Greece,3
+1209,Costa Rica,1,11,67.92,6.720000000000001,Unsuccessful,Costa Rica vs Greece,3
+1210,Costa Rica,1,23,90.24,8.32,Unsuccessful,Costa Rica vs Greece,3
+1211,Costa Rica,1,31,77.75999999999999,71.60000000000001,Unsuccessful,Costa Rica vs Greece,3
+1212,Costa Rica,1,43,116.64,11.36,Unsuccessful,Costa Rica vs Greece,3
+1213,Greece,2,48,94.32,77.12,Unsuccessful,Costa Rica vs Greece,3
+1214,Greece,2,53,79.2,76.96000000000001,Unsuccessful,Costa Rica vs Greece,3
+1215,Greece,2,56,65.75999999999999,73.60000000000001,Unsuccessful,Costa Rica vs Greece,3
+1216,Costa Rica,2,87,88.32,3.3600000000000003,Unsuccessful,Costa Rica vs Greece,3
+1217,Greece,2,88,82.32,67.92,Unsuccessful,Costa Rica vs Greece,3
+1218,Greece,2,89,74.28,9.600000000000001,Unsuccessful,Costa Rica vs Greece,3
+1219,Greece,3,90,94.2,10.72,Unsuccessful,Costa Rica vs Greece,3
+1220,Greece,3,95,94.55999999999999,63.92000000000001,Unsuccessful,Costa Rica vs Greece,3
+1221,Greece,3,99,107.52,52.32000000000001,Unsuccessful,Costa Rica vs Greece,3
+1222,Costa Rica,3,101,106.2,13.600000000000001,Unsuccessful,Costa Rica vs Greece,3
+1223,Greece,4,115,91.44,62.0,Unsuccessful,Costa Rica vs Greece,3
+1224,Greece,4,119,111.11999999999999,76.16000000000001,Unsuccessful,Costa Rica vs Greece,3
+1225,Germany,1,8,90.0,10.56,Unsuccessful,Germany vs Algeria,3
+1226,Algeria,1,10,86.75999999999999,38.24,Unsuccessful,Germany vs Algeria,3
+1227,Germany,1,28,75.12,78.56,Unsuccessful,Germany vs Algeria,3
+1228,Algeria,1,29,73.44,1.92,Unsuccessful,Germany vs Algeria,3
+1229,Algeria,1,29,76.8,76.56,Unsuccessful,Germany vs Algeria,3
+1230,Algeria,2,48,97.91999999999999,25.12,Unsuccessful,Germany vs Algeria,3
+1231,Germany,2,54,88.91999999999999,57.92000000000001,Unsuccessful,Germany vs Algeria,3
+1232,Germany,2,55,86.88000000000001,19.680000000000003,Unsuccessful,Germany vs Algeria,3
+1233,Algeria,2,66,30.24,77.28,Unsuccessful,Germany vs Algeria,3
+1234,Germany,2,73,56.04,62.56,Unsuccessful,Germany vs Algeria,3
+1235,Algeria,3,90,45.6,63.04,Unsuccessful,Germany vs Algeria,3
+1236,Algeria,3,91,47.04,5.44,Unsuccessful,Germany vs Algeria,3
+1237,Germany,3,95,108.48,54.720000000000006,Unsuccessful,Germany vs Algeria,3
+1238,Algeria,3,99,68.64,52.879999999999995,Unsuccessful,Germany vs Algeria,3
+1239,Germany,3,102,109.91999999999999,61.68,Unsuccessful,Germany vs Algeria,3
+1240,Algeria,3,103,49.199999999999996,77.44,Unsuccessful,Germany vs Algeria,3
+1241,Algeria,3,104,83.04,74.4,Unsuccessful,Germany vs Algeria,3
+1242,Algeria,3,105,81.84,24.560000000000002,Unsuccessful,Germany vs Algeria,3
+1243,Algeria,4,106,89.28,73.28,Unsuccessful,Germany vs Algeria,3
+1244,Germany,4,112,78.36,79.12,Unsuccessful,Germany vs Algeria,3
+1245,Germany,4,113,114.48,57.120000000000005,Unsuccessful,Germany vs Algeria,3
+1246,Algeria,4,117,40.559999999999995,51.36000000000001,Unsuccessful,Germany vs Algeria,3
+1247,Switzerland,1,2,74.64,75.04,Unsuccessful,Argentina vs Switzerland,3
+1248,Argentina,1,19,107.64,11.520000000000001,Unsuccessful,Argentina vs Switzerland,3
+1249,Argentina,1,20,41.52,76.96000000000001,Unsuccessful,Argentina vs Switzerland,3
+1250,Switzerland,1,26,115.19999999999999,9.920000000000002,Unsuccessful,Argentina vs Switzerland,3
+1251,Argentina,1,37,109.44,12.16,Unsuccessful,Argentina vs Switzerland,3
+1252,Switzerland,1,44,113.04,66.48,Unsuccessful,Argentina vs Switzerland,3
+1253,Switzerland,2,62,43.440000000000005,77.84,Unsuccessful,Argentina vs Switzerland,3
+1254,Argentina,2,63,87.36,42.24,Unsuccessful,Argentina vs Switzerland,3
+1255,Switzerland,2,66,32.16,26.960000000000004,Unsuccessful,Argentina vs Switzerland,3
+1256,Switzerland,2,67,86.16,73.67999999999999,Unsuccessful,Argentina vs Switzerland,3
+1257,Switzerland,2,68,99.36,38.080000000000005,Unsuccessful,Argentina vs Switzerland,3
+1258,Argentina,2,69,85.44,56.160000000000004,Unsuccessful,Argentina vs Switzerland,3
+1259,Switzerland,2,79,35.279999999999994,64.32000000000001,Unsuccessful,Argentina vs Switzerland,3
+1260,Argentina,2,80,96.96,29.12,Unsuccessful,Argentina vs Switzerland,3
+1261,Argentina,2,81,74.04,27.12,Unsuccessful,Argentina vs Switzerland,3
+1262,Switzerland,2,85,76.08,5.28,Unsuccessful,Argentina vs Switzerland,3
+1263,Switzerland,2,87,112.55999999999999,8.24,Unsuccessful,Argentina vs Switzerland,3
+1264,Argentina,2,87,41.52,69.12,Unsuccessful,Argentina vs Switzerland,3
+1265,Argentina,2,90,56.879999999999995,8.0,Unsuccessful,Argentina vs Switzerland,3
+1266,Switzerland,2,92,50.16,27.200000000000003,Unsuccessful,Argentina vs Switzerland,3
+1267,Switzerland,3,103,107.28,61.36000000000001,Unsuccessful,Argentina vs Switzerland,3
+1268,Argentina,3,103,71.28,6.24,Unsuccessful,Argentina vs Switzerland,3
+1269,Argentina,4,113,91.44,5.04,Unsuccessful,Argentina vs Switzerland,3
+1270,Switzerland,4,113,33.96,77.52000000000001,Unsuccessful,Argentina vs Switzerland,3
+1271,Switzerland,4,115,84.48,65.92,Unsuccessful,Argentina vs Switzerland,3
+1272,Belgium,1,2,81.11999999999999,2.8000000000000003,Unsuccessful,Belgium vs USA,3
+1273,USA,1,11,82.32,76.0,Unsuccessful,Belgium vs USA,3
+1274,Belgium,1,12,69.12,65.28,Unsuccessful,Belgium vs USA,3
+1275,USA,1,14,57.84,73.44,Unsuccessful,Belgium vs USA,3
+1276,Belgium,1,18,94.55999999999999,2.5600000000000005,Unsuccessful,Belgium vs USA,3
+1277,USA,1,19,112.68,66.56,Unsuccessful,Belgium vs USA,3
+1278,USA,1,20,103.55999999999999,46.400000000000006,Unsuccessful,Belgium vs USA,3
+1279,USA,1,22,62.4,42.72,Unsuccessful,Belgium vs USA,3
+1280,Belgium,1,23,104.28,5.5200000000000005,Unsuccessful,Belgium vs USA,3
+1281,USA,1,24,88.08,75.44,Unsuccessful,Belgium vs USA,3
+1282,Belgium,1,35,105.11999999999999,11.68,Unsuccessful,Belgium vs USA,3
+1283,Belgium,1,37,87.48,33.52,Unsuccessful,Belgium vs USA,3
+1284,USA,1,40,105.6,58.48,Unsuccessful,Belgium vs USA,3
+1285,Belgium,1,43,92.16,9.68,Unsuccessful,Belgium vs USA,3
+1286,Belgium,1,46,107.28,61.36000000000001,Unsuccessful,Belgium vs USA,3
+1287,USA,2,46,91.44,23.36,Unsuccessful,Belgium vs USA,3
+1288,Belgium,2,51,87.6,58.48,Unsuccessful,Belgium vs USA,3
+1289,Belgium,2,61,84.11999999999999,13.52,Unsuccessful,Belgium vs USA,3
+1290,USA,2,62,108.71999999999998,19.12,Unsuccessful,Belgium vs USA,3
+1291,Belgium,2,64,97.8,7.040000000000001,Unsuccessful,Belgium vs USA,3
+1292,USA,2,70,104.64,6.24,Unsuccessful,Belgium vs USA,3
+1293,Belgium,2,70,91.8,31.84,Unsuccessful,Belgium vs USA,3
+1294,Belgium,2,71,106.55999999999999,14.8,Unsuccessful,Belgium vs USA,3
+1295,Belgium,2,74,49.559999999999995,66.64,Unsuccessful,Belgium vs USA,3
+1296,Belgium,2,74,82.55999999999999,16.96,Unsuccessful,Belgium vs USA,3
+1297,USA,2,75,88.08,11.840000000000002,Unsuccessful,Belgium vs USA,3
+1298,Belgium,2,79,84.84,20.0,Unsuccessful,Belgium vs USA,3
+1299,Belgium,2,81,39.12,76.48,Unsuccessful,Belgium vs USA,3
+1300,Belgium,2,81,110.64,18.240000000000002,Unsuccessful,Belgium vs USA,3
+1301,Belgium,2,85,89.04,60.800000000000004,Unsuccessful,Belgium vs USA,3
+1302,Belgium,2,86,53.16,2.72,Unsuccessful,Belgium vs USA,3
+1303,USA,2,88,92.04,58.56,Unsuccessful,Belgium vs USA,3
+1304,USA,2,93,106.32,74.48,Unsuccessful,Belgium vs USA,3
+1305,USA,3,91,86.28,41.28,Unsuccessful,Belgium vs USA,3
+1306,USA,3,91,89.04,30.960000000000004,Unsuccessful,Belgium vs USA,3
+1307,USA,3,107,47.76,1.92,Unsuccessful,Belgium vs USA,3
+1308,Belgium,4,108,94.68,6.4,Unsuccessful,Belgium vs USA,3
+1309,USA,4,111,50.4,75.52000000000001,Unsuccessful,Belgium vs USA,3
+1310,Belgium,4,113,44.76,64.64,Unsuccessful,Belgium vs USA,3
+1311,USA,4,113,98.64,34.56,Unsuccessful,Belgium vs USA,3
+1312,USA,4,114,45.6,3.5200000000000005,Unsuccessful,Belgium vs USA,3
+1313,Belgium,4,117,113.52,5.920000000000001,Unsuccessful,Belgium vs USA,3
+1314,Belgium,4,119,82.08,8.48,Unsuccessful,Belgium vs USA,3
+1315,Brazil,1,1,113.28,8.48,Unsuccessful,Brazil vs Colombia,3
+1316,Colombia,1,2,21.479999999999997,77.76,Unsuccessful,Brazil vs Colombia,3
+1317,Brazil,1,5,106.91999999999999,65.92,Unsuccessful,Brazil vs Colombia,3
+1318,Brazil,1,19,105.96,68.48,Unsuccessful,Brazil vs Colombia,3
+1319,Colombia,1,20,99.96,4.16,Unsuccessful,Brazil vs Colombia,3
+1320,Brazil,1,21,87.36,48.0,Unsuccessful,Brazil vs Colombia,3
+1321,Brazil,1,24,104.88000000000001,32.96,Unsuccessful,Brazil vs Colombia,3
+1322,Brazil,1,29,54.72,1.6800000000000002,Unsuccessful,Brazil vs Colombia,3
+1323,Brazil,1,30,75.36,7.359999999999999,Unsuccessful,Brazil vs Colombia,3
+1324,Brazil,1,30,111.11999999999999,15.200000000000001,Unsuccessful,Brazil vs Colombia,3
+1325,Colombia,1,30,47.64,78.24000000000001,Unsuccessful,Brazil vs Colombia,3
+1326,Brazil,1,30,91.2,35.36000000000001,Unsuccessful,Brazil vs Colombia,3
+1327,Brazil,1,39,93.48,69.2,Unsuccessful,Brazil vs Colombia,3
+1328,Brazil,2,46,84.0,39.84,Unsuccessful,Brazil vs Colombia,3
+1329,Colombia,2,47,87.96,73.44,Unsuccessful,Brazil vs Colombia,3
+1330,Colombia,2,59,81.6,36.080000000000005,Unsuccessful,Brazil vs Colombia,3
+1331,Colombia,2,59,92.16,76.32000000000001,Unsuccessful,Brazil vs Colombia,3
+1332,Brazil,2,64,88.55999999999999,42.56,Unsuccessful,Brazil vs Colombia,3
+1333,Colombia,2,71,97.68,25.12,Unsuccessful,Brazil vs Colombia,3
+1334,Colombia,2,74,81.84,3.7600000000000002,Unsuccessful,Brazil vs Colombia,3
+1335,Colombia,2,75,78.48,13.600000000000001,Unsuccessful,Brazil vs Colombia,3
+1336,Brazil,2,76,96.36,56.48,Unsuccessful,Brazil vs Colombia,3
+1337,Colombia,2,76,82.8,63.04,Unsuccessful,Brazil vs Colombia,3
+1338,Brazil,2,81,71.88,42.400000000000006,Unsuccessful,Brazil vs Colombia,3
+1339,Colombia,2,84,87.84,17.84,Unsuccessful,Brazil vs Colombia,3
+1340,Colombia,2,89,104.52,13.840000000000002,Unsuccessful,Brazil vs Colombia,3
+1341,Germany,1,3,106.32,78.24000000000001,Unsuccessful,France vs Germany,3
+1342,France,1,8,60.72,8.0,Unsuccessful,France vs Germany,3
+1343,Germany,1,13,88.8,72.4,Unsuccessful,France vs Germany,3
+1344,France,1,14,111.71999999999998,15.680000000000001,Unsuccessful,France vs Germany,3
+1345,France,1,19,75.84,2.72,Unsuccessful,France vs Germany,3
+1346,France,1,44,110.88000000000001,5.44,Unsuccessful,France vs Germany,3
+1347,France,2,49,109.08,52.96000000000001,Unsuccessful,France vs Germany,3
+1348,France,2,54,96.48,77.2,Unsuccessful,France vs Germany,3
+1349,France,2,57,96.48,21.92,Unsuccessful,France vs Germany,3
+1350,Germany,2,70,70.44,4.4799999999999995,Unsuccessful,France vs Germany,3
+1351,France,2,76,93.36,63.36000000000001,Unsuccessful,France vs Germany,3
+1352,Germany,2,77,106.2,71.92,Unsuccessful,France vs Germany,3
+1353,Germany,2,79,92.64,24.32,Unsuccessful,France vs Germany,3
+1354,France,2,82,96.48,45.44,Unsuccessful,France vs Germany,3
+1355,Germany,2,84,107.16,13.92,Unsuccessful,France vs Germany,3
+1356,Germany,2,85,104.88000000000001,76.88,Unsuccessful,France vs Germany,3
+1357,France,2,85,29.04,1.1199999999999999,Unsuccessful,France vs Germany,3
+1358,Germany,2,90,86.39999999999999,73.44,Unsuccessful,France vs Germany,3
+1359,Netherlands,1,5,88.44,70.08,Unsuccessful,Netherlands vs Costa Rica,3
+1360,Netherlands,1,5,85.8,63.52000000000001,Unsuccessful,Netherlands vs Costa Rica,3
+1361,Netherlands,1,11,98.52,59.44,Unsuccessful,Netherlands vs Costa Rica,3
+1362,Costa Rica,1,20,106.91999999999999,7.5200000000000005,Unsuccessful,Netherlands vs Costa Rica,3
+1363,Costa Rica,1,43,82.8,2.2399999999999998,Unsuccessful,Netherlands vs Costa Rica,3
+1364,Netherlands,1,44,70.32,6.720000000000001,Unsuccessful,Netherlands vs Costa Rica,3
+1365,Netherlands,1,44,91.68,37.6,Unsuccessful,Netherlands vs Costa Rica,3
+1366,Netherlands,1,44,107.75999999999999,10.56,Unsuccessful,Netherlands vs Costa Rica,3
+1367,Netherlands,2,48,93.48,60.160000000000004,Unsuccessful,Netherlands vs Costa Rica,3
+1368,Netherlands,2,48,96.48,57.28,Unsuccessful,Netherlands vs Costa Rica,3
+1369,Netherlands,2,73,104.75999999999999,68.08,Unsuccessful,Netherlands vs Costa Rica,3
+1370,Netherlands,2,76,111.11999999999999,20.64,Unsuccessful,Netherlands vs Costa Rica,3
+1371,Netherlands,2,82,105.6,19.200000000000003,Unsuccessful,Netherlands vs Costa Rica,3
+1372,Costa Rica,2,85,83.04,32.800000000000004,Unsuccessful,Netherlands vs Costa Rica,3
+1373,Costa Rica,2,93,63.599999999999994,48.88,Unsuccessful,Netherlands vs Costa Rica,3
+1374,Costa Rica,4,114,105.0,28.64,Unsuccessful,Netherlands vs Costa Rica,3
+1375,Costa Rica,4,116,97.44,35.36000000000001,Unsuccessful,Netherlands vs Costa Rica,3
+1376,Costa Rica,4,118,78.6,8.32,Unsuccessful,Netherlands vs Costa Rica,3
+1377,Belgium,1,4,113.75999999999999,3.7600000000000002,Unsuccessful,Argentina vs Belgium,3
+1378,Argentina,1,40,79.32,38.480000000000004,Unsuccessful,Argentina vs Belgium,3
+1379,Argentina,2,58,96.24,38.24,Unsuccessful,Argentina vs Belgium,3
+1380,Belgium,2,63,42.12,5.44,Unsuccessful,Argentina vs Belgium,3
+1381,Argentina,2,65,90.6,17.2,Unsuccessful,Argentina vs Belgium,3
+1382,Belgium,2,73,86.64,7.68,Unsuccessful,Argentina vs Belgium,3
+1383,Argentina,2,77,50.879999999999995,76.4,Unsuccessful,Argentina vs Belgium,3
+1384,Argentina,2,79,117.11999999999999,14.480000000000002,Unsuccessful,Argentina vs Belgium,3
+1385,Argentina,2,79,85.8,4.4799999999999995,Unsuccessful,Argentina vs Belgium,3
+1386,Argentina,2,80,80.75999999999999,50.64,Unsuccessful,Argentina vs Belgium,3
+1387,Brazil,1,5,53.52,25.52,Unsuccessful,Brazil vs Germany,3
+1388,Brazil,1,6,65.04,34.480000000000004,Unsuccessful,Brazil vs Germany,3
+1389,Brazil,1,16,108.96,57.04,Unsuccessful,Brazil vs Germany,3
+1390,Brazil,1,18,81.0,78.16000000000001,Unsuccessful,Brazil vs Germany,3
+1391,Germany,1,19,91.8,76.80000000000001,Unsuccessful,Brazil vs Germany,3
+1392,Brazil,1,27,106.91999999999999,6.08,Unsuccessful,Brazil vs Germany,3
+1393,Brazil,1,27,110.28,13.92,Unsuccessful,Brazil vs Germany,3
+1394,Germany,1,33,97.44,0.96,Unsuccessful,Brazil vs Germany,3
+1395,Brazil,1,40,102.71999999999998,63.84,Unsuccessful,Brazil vs Germany,3
+1396,Brazil,1,41,101.75999999999999,59.2,Unsuccessful,Brazil vs Germany,3
+1397,Brazil,1,43,89.28,47.92,Unsuccessful,Brazil vs Germany,3
+1398,Germany,2,50,47.52,78.4,Unsuccessful,Brazil vs Germany,3
+1399,Brazil,2,52,114.11999999999999,56.64,Unsuccessful,Brazil vs Germany,3
+1400,Germany,2,58,54.48,47.84,Unsuccessful,Brazil vs Germany,3
+1401,Germany,2,59,107.88000000000001,46.56,Unsuccessful,Brazil vs Germany,3
+1402,Brazil,2,91,110.16,62.48,Unsuccessful,Brazil vs Germany,3
+1403,Argentina,1,1,68.39999999999999,74.56,Unsuccessful,Netherlands vs Argentina,3
+1404,Netherlands,1,9,70.67999999999999,3.3600000000000003,Unsuccessful,Netherlands vs Argentina,3
+1405,Argentina,1,29,66.47999999999999,4.4799999999999995,Unsuccessful,Netherlands vs Argentina,3
+1406,Netherlands,1,30,98.04,70.24,Unsuccessful,Netherlands vs Argentina,3
+1407,Netherlands,1,32,86.88000000000001,27.84,Unsuccessful,Netherlands vs Argentina,3
+1408,Argentina,1,40,96.71999999999998,3.84,Unsuccessful,Netherlands vs Argentina,3
+1409,Argentina,1,46,116.28,3.44,Unsuccessful,Netherlands vs Argentina,3
+1410,Argentina,2,51,90.48,51.6,Unsuccessful,Netherlands vs Argentina,3
+1411,Netherlands,2,53,90.71999999999998,42.400000000000006,Unsuccessful,Netherlands vs Argentina,3
+1412,Argentina,2,55,92.52,41.760000000000005,Unsuccessful,Netherlands vs Argentina,3
+1413,Argentina,2,66,62.64,45.6,Unsuccessful,Netherlands vs Argentina,3
+1414,Argentina,2,67,5.28,72.88,Unsuccessful,Netherlands vs Argentina,3
+1415,Argentina,2,71,86.52,14.240000000000002,Unsuccessful,Netherlands vs Argentina,3
+1416,Argentina,2,79,81.11999999999999,75.04,Unsuccessful,Netherlands vs Argentina,3
+1417,Netherlands,2,85,107.52,67.2,Unsuccessful,Netherlands vs Argentina,3
+1418,Netherlands,3,102,89.16,62.08,Unsuccessful,Netherlands vs Argentina,3
+1419,Argentina,4,112,91.08,3.6799999999999997,Unsuccessful,Netherlands vs Argentina,3
+1420,Argentina,4,116,81.6,23.680000000000003,Unsuccessful,Netherlands vs Argentina,3
+1421,Netherlands,4,116,88.08,78.72000000000001,Unsuccessful,Netherlands vs Argentina,3
+1422,Netherlands,4,118,108.48,65.60000000000001,Unsuccessful,Netherlands vs Argentina,3
+1423,Netherlands,4,119,88.08,4.960000000000001,Unsuccessful,Netherlands vs Argentina,3
+1424,Brazil,1,12,104.64,70.48,Unsuccessful,Brazil vs Netherlands,3
+1425,Brazil,1,13,67.67999999999999,63.760000000000005,Unsuccessful,Brazil vs Netherlands,3
+1426,Netherlands,1,15,91.44,47.36000000000001,Unsuccessful,Brazil vs Netherlands,3
+1427,Brazil,1,45,67.08,16.96,Unsuccessful,Brazil vs Netherlands,3
+1428,Brazil,2,50,101.28,67.28,Unsuccessful,Brazil vs Netherlands,3
+1429,Netherlands,2,50,28.56,22.880000000000003,Unsuccessful,Brazil vs Netherlands,3
+1430,Brazil,2,50,91.91999999999999,21.92,Unsuccessful,Brazil vs Netherlands,3
+1431,Netherlands,2,52,64.8,42.080000000000005,Unsuccessful,Brazil vs Netherlands,3
+1432,Brazil,2,53,92.88000000000001,53.2,Unsuccessful,Brazil vs Netherlands,3
+1433,Brazil,2,70,56.16,68.48,Unsuccessful,Brazil vs Netherlands,3
+1434,Netherlands,2,71,102.24,27.680000000000003,Unsuccessful,Brazil vs Netherlands,3
+1435,Netherlands,2,73,83.52,39.2,Unsuccessful,Brazil vs Netherlands,3
+1436,Brazil,2,73,54.72,60.96000000000001,Unsuccessful,Brazil vs Netherlands,3
+1437,Brazil,2,74,85.68,64.72000000000001,Unsuccessful,Brazil vs Netherlands,3
+1438,Brazil,2,76,106.2,56.800000000000004,Unsuccessful,Brazil vs Netherlands,3
+1439,Brazil,2,78,97.2,70.24,Unsuccessful,Brazil vs Netherlands,3
+1440,Brazil,2,82,92.52,49.92,Unsuccessful,Brazil vs Netherlands,3
+1441,Argentina,1,11,35.64,63.52000000000001,Unsuccessful,Germany vs Argentina,3
+1442,Germany,1,12,86.88000000000001,77.60000000000001,Unsuccessful,Germany vs Argentina,3
+1443,Argentina,1,15,82.32,3.6799999999999997,Unsuccessful,Germany vs Argentina,3
+1444,Germany,1,34,94.32,18.32,Unsuccessful,Germany vs Argentina,3
+1445,Argentina,1,37,52.199999999999996,26.560000000000002,Unsuccessful,Germany vs Argentina,3
+1446,Germany,1,42,86.16,77.44,Unsuccessful,Germany vs Argentina,3
+1447,Argentina,2,52,84.11999999999999,77.76,Unsuccessful,Germany vs Argentina,3
+1448,Germany,2,59,73.67999999999999,76.32000000000001,Unsuccessful,Germany vs Argentina,3
+1449,Germany,2,64,77.28,66.24,Unsuccessful,Germany vs Argentina,3
+1450,Germany,2,65,76.8,77.84,Unsuccessful,Germany vs Argentina,3
+1451,Argentina,2,68,84.71999999999998,44.32,Unsuccessful,Germany vs Argentina,3
+1452,Argentina,2,70,71.39999999999999,15.040000000000001,Unsuccessful,Germany vs Argentina,3
+1453,Germany,2,75,84.96,59.2,Unsuccessful,Germany vs Argentina,3
+1454,Argentina,2,76,84.24,12.48,Unsuccessful,Germany vs Argentina,3
+1455,Argentina,2,86,97.08,38.400000000000006,Unsuccessful,Germany vs Argentina,3
+1456,Argentina,2,89,115.32,11.600000000000001,Unsuccessful,Germany vs Argentina,3
+1457,Argentina,2,92,100.8,67.2,Unsuccessful,Germany vs Argentina,3
+1458,Argentina,3,90,65.28,34.24,Unsuccessful,Germany vs Argentina,3
+1459,Argentina,3,100,51.12,49.120000000000005,Unsuccessful,Germany vs Argentina,3
