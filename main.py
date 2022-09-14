@@ -1,6 +1,14 @@
+import subprocess
+import sys
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+install('matplotlib')
+install('mplsoccer')
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+from matplotlib.lines import Line2D
 from mplsoccer.pitch import Pitch
 from mplsoccer.pitch import VerticalPitch
 
@@ -70,6 +78,11 @@ if action_filter == "Passes":
                                 plt.scatter(df["x_start"].iloc[x],df['y_start'].iloc[x],
                                             color='yellow')
    
+    legend_elements = [Line2D([0], [0], marker='o', color='yellow', label='Pass Start Location',
+                              markerfacecolor='yellow', markersize=10),
+                       Line2D([0], [0], color='yellow', lw=5, label='Route of Pass')]
+    ax.legend(handles=legend_elements, loc='lower left')
+    
     plt.xlim(0,120)
     plt.ylim(0,80);
     st.pyplot(fig)
@@ -104,9 +117,16 @@ elif action_filter == "Take Ons":
                         if df["outcome"].iloc[x] == '1':
                             plt.scatter(df["x_start"].iloc[x],df['y_start'].iloc[x],
                                         color='yellow',marker='v',s=100)
-                        if df["outcome"].iloc[x] == '0':
+                        elif df["outcome"].iloc[x] == '0':
                             plt.scatter(df["x_start"].iloc[x],df['y_start'].iloc[x],
                                         color='red',marker='v',s=100)
+   
+    legend_elements = [Line2D([0], [0], marker='v', color='white', label='Successful Take On',
+                              markerfacecolor='yellow', markersize=10),
+                       Line2D([0], [0], marker='v', color='white', label='Unsuccessful Take On',
+                              markerfacecolor='red', markersize=10)]
+    ax.legend(handles=legend_elements, loc='lower left')
+    
     plt.xlim(0,120)
     plt.ylim(0,80);
     st.pyplot(fig)
@@ -147,7 +167,14 @@ elif action_filter == "Shots":
                         plt.scatter(df['y_start'].iloc[x],df['x_start'].iloc[x],color='yellow',s=100)  
                         plt.plot((df['y_start'].iloc[x],df['y_end'].iloc[x]),
                                  (df['x_start'].iloc[x],df['x_end'].iloc[x]),color='yellow')
-
+    
+    l1 = mpatches.Patch(color='yellow', label='Goal')
+    l2 = mpatches.Patch(color='blue', label='Save')
+    l3 = mpatches.Patch(color='purple', label='Block')
+    l4 = mpatches.Patch(color='white', label='Woodwork')
+    l5 = mpatches.Patch(color='red', label='Miss')
+    plt.legend(handles=[l1,l2,l3,l4,l5],loc=3)
+    
     plt.xlim(80,0)
     plt.ylim(60,120);
     st.pyplot(fig)
@@ -191,14 +218,24 @@ elif action_filter == "Defensive Actions":
                             if df["type_def"].iloc[x] == 'Interception':
                                 plt.scatter(df["x_start"].iloc[x],df['y_start'].iloc[x],
                                             color='yellow',marker='^',s=100)
-                        if df['outcome'].iloc[x] == '0':
+                        elif df['outcome'].iloc[x] == '0':
                             if df["type_def"].iloc[x] == 'Tackle':
                                 plt.scatter(df["x_start"].iloc[x],df['y_start'].iloc[x],
                                             color='red',marker='s',s=100)
                             if df["type_def"].iloc[x] == 'Interception':
                                 plt.scatter(df["x_start"].iloc[x],df['y_start'].iloc[x],
                                             color='red',marker='^',s=100)
-  
+
+    legend_elements = [Line2D([0], [0], marker='s', color='white', label='Successful Tackle',
+                              markerfacecolor='yellow', markersize=10),
+                       Line2D([0], [0], marker='s', color='white', label='Unsuccessful Tackle',
+                              markerfacecolor='red', markersize=10),
+                       Line2D([0], [0], marker='^', color='white', label='Successful Interception',
+                              markerfacecolor='yellow', markersize=10),
+                       Line2D([0], [0], marker='^', color='white', label='Unsuccessful Interception',
+                              markerfacecolor='red', markersize=10)]
+    ax.legend(handles=legend_elements, loc='lower left')    
+    
     plt.xlim(0,120)
     plt.ylim(0,80);
     st.pyplot(fig)
