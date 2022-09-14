@@ -1,13 +1,7 @@
-import subprocess
-import sys
-def install(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-install('matplotlib')
-install('mplsoccer')
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches
+import matplotlib import pyplot as plt
+import matplotlib import patches as mpatches
 from matplotlib.lines import Line2D
 from mplsoccer.pitch import Pitch
 from mplsoccer.pitch import VerticalPitch
