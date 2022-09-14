@@ -1,9 +1,3 @@
-import subprocess
-import sys
-def install(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-install('matplotlib')
-install('mplsoccer')
 import streamlit as st
 import pandas as pd
 from matplotlib import pyplot as plt
