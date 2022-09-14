@@ -40,7 +40,7 @@ if action_filter == "Passes":
     ax.patch.set_facecolor('green')
 
     pitch = Pitch(pitch_type='statsbomb', pitch_color='green', line_color='white',
-                  figsize=(13.5, 8),constrained_layout=True, tight_layout=False)
+                  constrained_layout=True, tight_layout=False)
 
     pitch.draw(ax=ax)
     plt.gca().invert_yaxis()
@@ -90,7 +90,7 @@ elif action_filter == "Take Ons":
     ax.patch.set_facecolor('green')
 
     pitch = Pitch(pitch_type='statsbomb', pitch_color='green', line_color='white',
-                  figsize=(13.5, 8),constrained_layout=True, tight_layout=False)    
+                  constrained_layout=True, tight_layout=False)    
     
     pitch.draw(ax=ax)
     plt.gca().invert_yaxis()
@@ -132,7 +132,7 @@ elif action_filter == "Shots":
     ax.patch.set_facecolor('green')
 
     pitch = VerticalPitch(pitch_type='statsbomb', pitch_color='green', line_color='white',
-                  figsize=(13.5, 8),constrained_layout=True, tight_layout=False, half=True)    
+                  constrained_layout=True, tight_layout=False, half=True)    
     
     pitch.draw(ax=ax)
     plt.gca().invert_yaxis()
@@ -182,7 +182,7 @@ elif action_filter == "Defensive Actions":
     ax.patch.set_facecolor('green')
 
     pitch = Pitch(pitch_type='statsbomb', pitch_color='green', line_color='white',
-                  figsize=(13.5, 8),constrained_layout=True, tight_layout=False)    
+                  constrained_layout=True, tight_layout=False)    
     
     pitch.draw(ax=ax)
     plt.gca().invert_yaxis()
