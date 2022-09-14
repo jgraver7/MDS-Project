@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-import matplotlib import pyplot as plt
-import matplotlib import patches as mpatches
+from matplotlib import pyplot as plt
+from matplotlib import patches as mpatches
 from matplotlib.lines import Line2D
 from mplsoccer.pitch import Pitch
 from mplsoccer.pitch import VerticalPitch
